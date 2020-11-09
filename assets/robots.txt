@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /doap_openoffice.rdf
+Disallow: /style-test.html
