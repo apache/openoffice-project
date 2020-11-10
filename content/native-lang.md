@@ -1,6 +1,5 @@
-type=page
-title=Native-Language Information
-~~~~~~
+Title: Native-Language Information
+
 ## Native Language Projects
 
 The scope of Native Language support in Apache OpenOffice consists of:

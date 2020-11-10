@@ -1,7 +1,21 @@
-type=page
-title=Introduction to Marketing
-notice=https://www.apache.org/licenses/LICENSE-2.0
-~~~~~~
+Title:     Introduction to Marketing
+Notice:    Licensed to the Apache Software Foundation (ASF) under one
+           or more contributor license agreements.  See the NOTICE file
+           distributed with this work for additional information
+           regarding copyright ownership.  The ASF licenses this file
+           to you under the Apache License, Version 2.0 (the
+           "License"); you may not use this file except in compliance
+           with the License.  You may obtain a copy of the License at
+           .
+             http://www.apache.org/licenses/LICENSE-2.0
+           .
+           Unless required by applicable law or agreed to in writing,
+           software distributed under the License is distributed on an
+           "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+           KIND, either express or implied.  See the License for the
+           specific language governing permissions and limitations
+           under the License.
+
 In this orientation module you will be introduced to Marketing within the Apache OpenOffice community. You will learn about many of the ways in which we can do marketing, as well as some of the constraints we must keep in mind as an non-profit organization. After completion of this module you should be prepared to jump in and assist with ongoing marketing activities.
 
 To complete this module you should read the following material, along with associated links.

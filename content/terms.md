@@ -1,7 +1,21 @@
-type=page
-title=Terms of Use
-notice=https://www.apache.org/licenses/LICENSE-2.0
-~~~~~~
+Title:     Terms of Use
+Notice:    Licensed to the Apache Software Foundation (ASF) under one
+           or more contributor license agreements.  See the NOTICE file
+           distributed with this work for additional information
+           regarding copyright ownership.  The ASF licenses this file
+           to you under the Apache License, Version 2.0 (the
+           "License"); you may not use this file except in compliance
+           with the License.  You may obtain a copy of the License at
+           .
+             http://www.apache.org/licenses/LICENSE-2.0
+           .
+           Unless required by applicable law or agreed to in writing,
+           software distributed under the License is distributed on an
+           "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+           KIND, either express or implied.  See the License for the
+           specific language governing permissions and limitations
+           under the License.
+
 Terms of Use for Apache OpenOffice web site
 
 1. INTRODUCTION. This Site and its contents are made available by Apache Software Foundation, OpenOffice Project Management Committee (AOO-PMC). These Terms of Use apply to everyone who Uses this Site (as defined below), or who participates in any projects hosted on this Site. PLEASE READ THESE TERMS CAREFULLY FIRST. BY USING THE SITE OR PARTICIPATING IN ANY PROJECTS, YOU ACKNOWLEDGE THAT YOU HAVE READ THE TERMS AND AGREE TO THEM. IF YOU DO NOT WISH TO BE BOUND BY THE TERMS, THEN DO NOT USE THE SITE OR PARTICIPATE IN ANY PROJECTS HOSTED ON THIS SITE.

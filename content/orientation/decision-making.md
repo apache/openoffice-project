@@ -1,7 +1,21 @@
-type=page
-title=Decision Making
-notice=https://www.apache.org/licenses/LICENSE-2.0
-~~~~~~
+Title:     Decision Making
+Notice:    Licensed to the Apache Software Foundation (ASF) under one
+           or more contributor license agreements.  See the NOTICE file
+           distributed with this work for additional information
+           regarding copyright ownership.  The ASF licenses this file
+           to you under the Apache License, Version 2.0 (the
+           "License"); you may not use this file except in compliance
+           with the License.  You may obtain a copy of the License at
+           .
+             http://www.apache.org/licenses/LICENSE-2.0
+           .
+           Unless required by applicable law or agreed to in writing,
+           software distributed under the License is distributed on an
+           "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+           KIND, either express or implied.  See the License for the
+           specific language governing permissions and limitations
+           under the License.
+
 In this Orientation Module you will learn about Decision Making within the project. As with the previous Level 1 Module, if you have prior experience with an open source software project, especially one at Apache, then much of this material will already be familiar to you.
 
 In the previous Module we read about collaboration on the mailings lists, how to do it efficiently and how to avoid the most common pitfalls. We use the mailing lists for many things, for asking questions, for sharing information or the like. But one of the most important uses of the mailing list is for decision making. It is important to understand how decisions are made in an Apache community. Here are a few general principles that you should keep in mind:

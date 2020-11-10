@@ -1,6 +1,3 @@
-type=navigator
-~~~~~~
-
 # General
 
   - [About](/index.html)
