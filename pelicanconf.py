@@ -48,7 +48,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # TOC Generator
-PLUGIN_PATHS = ['./theme/plugins']
+#PLUGIN_PATHS = ['./theme/plugins']
 #PLUGINS = ['toc']
 TOC_HEADERS = r"h[1-6]"
 
