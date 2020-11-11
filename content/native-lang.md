@@ -1,23 +1,6 @@
 Title: Native-Language Information
 
-## Native Language Projects
-
-The scope of Native Language support in Apache OpenOffice consists of:
-
-* Hosting of native language websites on [www.openoffice.org](http://www.openoffice.org/projects/native-lang.html).
-Established native language "friendly" links have also established &mdash; for example, [fr.openoffice.org](http://www.openoffice.org/fr/)
-* Native language mailing lists (as requested and needed). The establishment of any native language mailing list requires the approval of Apache OpenOffice
-PMC and typically at least two moderators. Requests for additional native language mailing lists can be
-made via the [dev mailing list](mailto:dev@openoffice.apache.org).
-* [Native Language User Support Forums](http://forum.openoffice.org/) (for some languages).
-* A [Pootle server](https://translate.apache.org/) to aid with translation.  Find more information on using Pootle in our local
-[Pootle User Guide](http://wiki.openoffice.org/wiki/Pootle_User_Guide).
-<br>The  [Translation](http://openoffice.apache.org/translate.html) page provides information on how to help with translation efforts.
-* Many [localized web sites](http://openoffice.apache.org/website-native.html).
-
-If you are interested is initiating (or re-starting) a native language project, please
-e-mail the [localization mailing list](http://openoffice.apache.org/mailing-lists.html#localization-mailing-list-public).
-
+## Natiguage User Support Forums](http://forum.openoffice.org/) (for some languages).
 ## Native Language Mailing Lists
 
 New native 
