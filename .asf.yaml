@@ -6,5 +6,5 @@ pelican:
   whoami:       main
 
 staging:
-  whoami:	asf-site
-  profile:	~
+  whoami:       asf-site
+  profile:      ~
