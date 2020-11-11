@@ -1,0 +1,284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+  -->
+  <title>Introduction to QA</title>
+<meta name="description" content="The official developer website of the Apache OpenOffice open source project, home of OpenOffice Writer, Calc, Impress, Draw and Base." />
+<meta name="keywords" content="OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format" />
+<meta name="google-site-verification" content="uu79eqa3Tzx81rhyk66kY0sIwrFIayoneGXFEy-FkNY" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link href="/theme/css/openoffice.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+</head>
+
+<body>
+  <div id="banner">
+      <div id="bannerleft"><a alt="Apache OpenOffice" href="/">
+          <img id="logo" alt="Apache OpenOffice" src="/images/AOO4_website_logo.png"/></a></div>
+
+   <div id="bannercenter"><br/>&nbsp;The Free and Open Productivity Suite</div>
+  </div>
+  <div id="clear"></div>
+  <div id="sidenav">
+<h1>General</h1>
+<ul>
+<li><a href="/index.html">About</a></li>
+<li><a href="/downloads.html">Downloads</a></li>
+<li><a href="/license.html">License</a></li>
+<li><a href="/trademarks.html">Trademarks</a></li>
+<li><a href="/press.html">Press</a></li>
+<li><a href="https://www.openoffice.org/">OpenOffice.org website</a></li>
+</ul>
+<h1>Community</h1>
+<ul>
+<li><a href="/get-involved.html">Get Involved</a></li>
+<li><a href="/orientation/index.html">Orientation</a></li>
+<li><a href="/mailing-lists.html">Mailing Lists</a></li>
+<li><a href="/social.html">Social Networking</a></li>
+<li><a href="/events.html">Events</a></li>
+<li><a href="https://www.openoffice.org/support/">Support</a></li>
+<li><a href="/native-lang.html">Native Language</a></li>
+<li><a href="https://cwiki.apache.org/confluence/display/OOOUSERS/">Planning Wiki</a></li>
+<li><a href="/people.html">People</a></li>
+<li><a href="/community-faqs.html">Community FAQs</a></li>
+</ul>
+<h1>Development</h1>
+<ul>
+<li><a href="/source.html">Source Code</a></li>
+<li><a href="/bug-tracking.html">Bug Tracking</a></li>
+<li><a href="/qa.html">Quality Assurance</a></li>
+<li><a href="/translate.html">Translation</a></li>
+<li><a href="/website-local.html">Website</a></li>
+<li><a href="/security.html">Security Reports</a></li>
+<li><a href="/contributing-code.html">Contributing Code</a></li>
+<li><a href="/developer-faqs.html">Developer FAQs</a></li>
+</ul>
+<h1>Project Management PMC</h1>
+<ul>
+<li><a href="https://blogs.apache.org/OOo/">Project Blog</a></li>
+<li><a href="/pmc-faqs.html">PMC FAQs</a></li>
+</ul>
+<h1>The Apache Software Foundation</h1>
+<ul>
+<li><a href="https://www.apache.org/">Website</a></li>
+<li><a href="https://www.apache.org/licenses/">License</a></li>
+<li><a href="https://www.apache.org/security/">Security</a></li>
+<li><a href="https://www.apache.org/events/current-event">Events</a></li>
+<li><a href="https://www.openoffice.org/donations.html">Donations</a></li>
+<li><a href="https://www.apache.org/foundation/sponsorship.html">Sponsorship</a></li>
+<li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+</ul>
+  </div>
+  <div id="contenta">
+    <h1>Introduction to QA</h1>
+    
+
+    <pre><code>       or more contributor license agreements.  See the NOTICE file
+       distributed with this work for additional information
+       regarding copyright ownership.  The ASF licenses this file
+       to you under the Apache License, Version 2.0 (the
+       &quot;License&quot;); you may not use this file except in compliance
+       with the License.  You may obtain a copy of the License at
+       .
+         http://www.apache.org/licenses/LICENSE-2.0
+       .
+       Unless required by applicable law or agreed to in writing,
+       software distributed under the License is distributed on an
+       &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+       KIND, either express or implied.  See the License for the
+       specific language governing permissions and limitations
+       under the License.
+</code></pre>
+<h2>Introductions</h2>
+<p>In this orientation module you will learn how Quality Assurance is done in our community. You will also learn about basic tasks that are easiest to do for new QA Volunteers.</p>
+<p>To complete this module, read through the material on this page, including the linked references. There will also be some start-up tasks for you to perform, such as signing up for an account in our defect tracking database.</p>
+<p>Your first task is to subscribe to our QA mailing list and to introduce yourself to the other QA volunteers. You can subscribe by sending an email to <a href="mailto:qa-subscribe@openoffice.apache.org">qa-subscribe@openoffice.apache.org</a>.</p>
+<p>Then you can introduce yourself by [sending an email to the list](mailto:<a href="mailto:qa@openoffice.apache.org">qa@openoffice.apache.org</a>?subject=New QA Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to  this same list.</p>
+<p>Note:  In parallel with the QA-specific items on this page, you may want to first review the <a href="http://openoffice.apache.org/orientation/index.html">Level 1 and Level 2 Orientation Modules</a> as well. They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.</p>
+<p>Now with the introductions out of the way, let's get started with the QA!</p>
+<h2>The Purpose of QA</h2>
+<p>Our goal is to maintain and improve the quality of Apache OpenOffice. We primarily accomplish this by finding defects (bugs) in the product before it is released to the general public. The defects are found by a combination of manual and automated tests that we perform on pre-release builds of OpenOffice. We also review and try to reproduce
+defects reported by end-users and submitted to us.</p>
+<p>Since OpenOffice is a core software application for millions of users, the role of QA is critical. Although our programmers are wonderful, talented and very experienced, they do make mistakes. Our task is to find these mistakes, report, prioritize them, and verify the fixes when they are made.</p>
+<p>QA is a discipline with many best-practices related to process and methodology, tools, techniques and theory. Although professional QA practitioners are welcome in this project, we are also happy to welcome those with no prior experience, or those who are learning about QA, perhaps as a possible career. Aside from the satisfaction of improving the Apache OpenOffice product, you can learn or practice new skills.</p>
+<h2>Why Help with QA?</h2>
+<p>As a volunteer why would you want to help with OpenOffice QA?  A few things to consider:</p>
+<ul>
+<li>We're a fun, international group of testers, of a range of skills and experience, dedicated to free software and making OpenOffice a high quality choice for users.</li>
+<li>This is a good way to learn about QA and get some practical experience. This is useful, for example, if you are thinking about Software Quality Engineering (SQE) as a possible career choice.</li>
+<li>Helping as a tester is a good way to &quot;give back&quot; to the open source community in a way that makes a direct difference in the product, but doesn't require programming skills.</li>
+<li>It is a good way to raise the visibility of bugs in your particular interest area. For example, maybe you personally are concerned about bugs that cause problems on the Mac, or bugs that impact color blind users, or bugs related to bidirectional text. Participating on the QA team is a good way to ensure that areas of personal interest are adequately tested.</li>
+<li>We have tasks for volunteers with a range of skills. From novices who can help with manual testing and fix verifications, to experts who can help with our test automation framework, we have a full range of QA activities.</li>
+<li>As an extremely popular open source product, with many millions of users, there are opportunities here to do some new and exciting things on the QA front, including possibilities of crowd sourcing some kinds of testing.</li>
+</ul>
+<h2>QA Activities</h2>
+<p>QA activities within the Apache OpenOffice project include:</p>
+<ul>
+<li>Reviewing incoming bug reports from users to see if the reported issues can be reproduced</li>
+<li>Verifying bugs that the developers say they have fixed, to confirm that they actually have been fixed</li>
+<li>Testing new builds of OpenOffice against a functional test plan</li>
+<li>Defining new test cases</li>
+<li>Running automated regression tests</li>
+<li>Specialized tests in areas such as performance, accessibility, localization, security, etc.</li>
+<li>Analyzing defect reports to gauge how we are doing, in terms of quality level, defect find and fix rates, etc.</li>
+<li>Reporting summary defect data and recommending whether a give build of OpenOffice has reached a sufficient quality level for release.</li>
+<li>Making recommendations for improving product quality and testing effectiveness.</li>
+</ul>
+<h2>Skills Wanted</h2>
+<p>The skills we need on the QA team include:</p>
+<ul>
+<li>Familiarity with OpenOffice as a user.</li>
+<li>Attention to detail. In QA we find the bugs that the developers missed. And our developers are pretty good.</li>
+<li>Access to a Windows, Mac or Linux machine for testing</li>
+<li>Good written communications</li>
+<li>Interest, enthusiasm and teamwork.</li>
+<li>Ability to volunteer at least 2 hours/week, on average.</li>
+</ul>
+<p>QA is as much an attitude as it is a skill set. A tester likes solving puzzles, likes a methodical approach, likes the challenge of finding an elegant way to reproducibly break software.</p>
+<h2>Mailing List</h2>
+<p>As mentioned above, QA volunteers need to subscribe to our dedicated QA mail list.</p>
+<p>The mailing list is for bug reports, quality assurance for release, beta tests, manual test, automated tests, etc. This is where the QA community coordinates its activities.</p>
+<p>Subscribe: <a href="mailto:qa-subscribe@openoffice.apache.org">qa-subscribe@openoffice.apache.org</a><br>Post (after subscription): <a href="mailto:qa@openoffice.apache.org">qa@openoffice.apache.org</a><br> Unsubscribe: <a href="mailto:qa-unsubscribe@openoffice.apache.org">qa-unsubscribe@openoffice.apache.org</a></p>
+<p>Archives:</p>
+<ul>
+<li><a href="http://markmail.org/search/+list:org.apache.incubator.ooo-qa">Markmail</a></li>
+<li><a href="http://mail-archives.apache.org/mod_mbox/openoffice-qa/">Apache</a></li>
+</ul>
+<p>We use the following special subject tags to identify QA activities:</p>
+<ul>
+<li>[QA REPORT] - topic related with  status report</li>
+<li>[QA AUTOMATION] - topic related with automation tools, scripts and scope</li>
+<li>[QA BUG] - topic related with bug discussion</li>
+<li>[QA CRITICAL] - important information related with QE</li>
+<li>[QA CALLFORREVIEW] - topic with some review</li>
+<li>[QA CALLFORVOLUNTEER] - if you want to call for volunteer for testing some features</li>
+<li>[QA] default if others don't fit.</li>
+</ul>
+<p>After you subscribe QA mail list then you can post your topic in the mail group.</p>
+<h2>Apache OpenOffice Test Builds</h2>
+<p>Since our job is to find bugs in OpenOffice, we must run pre-release builds that contain many bugs. These bugs could be major or minor. They could include document corruption bugs, crashes, even (in rare cases) bugs that could make your system unstable. So QA volunteers generally try to separate their QA work from their normal desktop activities. You don't want to write your thesis on a test build!</p>
+<p>Some volunteers simply use two machines: one dedicated to their testing work. If things become unstable they can then reinstall the operating system and start fresh.</p>
+<p>A more sophisticated approach is to use virtual machines, which can work quite well. <a href="https://www.virtualbox.org">VirtualBox</a> is a popular virtualization package.</p>
+<p>Feel free to ask questions on the QA list about effective ways to manage a test environment.</p>
+<p>Once you have your test environment set up, you need to download and install the latest OpenOffice build.</p>
+<ul>
+<li><a href="http://ci.apache.org/projects/openoffice/index.html">AOO nightly build</a> are built each night and are our &quot;rawest&quot; builds, with many possibilities for finding new bugs.</li>
+<li><a href="http://ci.apache.org/projects/openoffice/index.html">Snapshot builds</a>, (tagged with the word &quot;Snapshot&quot;) are made weekly against a code branch that is being considered for a release candidate.</li>
+</ul>
+<h2>Bug Handling</h2>
+<p>Apache Bugzilla is where we track defects:</p>
+<ul>
+<li><a href="https://bz.apache.org/ooo/">https://bz.apache.org/ooo/</a></li>
+</ul>
+<p>Bugzilla related documents:</p>
+<ul>
+<li>Bug lifecycle introduction <a href="http://wiki.openoffice.org/wiki/Issue_lifecycle">Issue Lifecycle</a><br></li>
+<li>A guide for reporting a new bug: <a href="http://wiki.openoffice.org/wiki/QA/HowToFileIssue">How to file bug</a></li>
+</ul>
+<p>Bugzilla related mailing list:</p>
+<ul>
+<li><a href="http://markmail.org/search/+list:org.apache.incubator.ooo-issues">issues@openoffice.apache.org</a>. Actvity on issues goes to this mailing list.</li>
+</ul>
+<p>Everyone in QA needs a Bugzilla account, which you can get <a href="https://bz.apache.org/ooo/createaccount.cgi">here</a>. Once you have a Bugzilla account, you should send a note to the QA list asking to be added to the &quot;qa-team&quot; group in Bugzilla. This will give you some additional permissions in Bugzilla. Include your Bugzilla login ID in your request.</p>
+<h2>Easy QA Task: Confirm New Defect Reports</h2>
+<p>Most new volunteers start by reviewing incoming defect reports and attempting to &quot;confirm&quot; them. The defect reports are often from users and are often not very clearly written. You learn to &quot;read between the lines&quot; and ask the user clarifying questions in order to turn the raw report into a reproducible defect that the developers can debug and fix.</p>
+<p>You can get a list of unconfirmed defect reports with from <a href="https://issues.apache.org/ooo/buglist.cgi?bug_status=UNCONFIRMED&amp;f2=keywords&amp;f3=cf_bug_type&amp;known_name=NeedConfirm&amp;list_id=39759&amp;o2=notsubstring&amp;o3=equals&amp;query_format=advanced&amp;resolution=---&amp;v2=needmoreinfo&amp;v3=DEFECT&amp;order=bug_id%20DESC&amp;query_based_on=NeedConfirm">this query</a>.</p>
+<p>Or, if you are just starting out, you can post a note to the QA mailing list and ask for a small batch of reports to be assigned to you. This can be a good first step, since we'll try to give you easier reports to review at first.</p>
+<p>Here's what to do to confirm a new defect report:</p>
+<ol>
+<li>First, assign the report to yourself by setting your Bugzilla username (your email address) in the &quot;QA Contact&quot; field. If you are not able to add yourself, then send a note to the QA mailing list asking to be added to the &quot;qa-team&quot; group in Bugzilla.</li>
+<li>Then read over the report. What are they really saying?  Are they reporting a bug?  Asking for a new feature?  Asking a support question?  Just because it is in Bugzilla does not mean that it is a defect report.</li>
+<li>Ask yourself:  Are they saying that something is working incorrectly?  Or are they asking for new functionality?
+If they are asking for a new feature, change the Issue Type field to &quot;FEATURE&quot;. If they are asking for an enhancement of an existing feature, set the Issue Type field to &quot;ENHANCEMENT&quot;.
+You can now set the Status to CONFIRMED and then save your changes. You are done with the report.</li>
+<li>Otherwise, search Bugzilla for keywords related to the bug report to see if this is a duplicate defect report. If it is, change the Status to RESOLVED/DUPLICATE and type in the defect number that this report is a duplicate of. You are now done with this report.
+<ol>
+<li>If the report is actually reporting a defect, then you have more work to do. Try to reproduce it with the latest release of OpenOffice. If you can reproduce the defect. set the Status to CONFIRMED, set the &quot;Last Confirmation&quot; field to the release that you tested with, and set the Importance field to an appropriate value, depending on the severity of the defect.</li>
+<li>If the report is not clear enough to reproduce, enter a comment asking the user for more information and add the &quot;needmoreinfo&quot; to the Keyword field. Be specific about what information you need:  more detailed steps, a test document, clarification about what version they are running, etc. When the user responds you will be copied on their response and can continue with this report. But for now you are done with this report.</li>
+<li>If your testing cannot reproduce the bug, and you <strong>do not</strong> need more information from the user, then change the status to RESOLVED/IRREPRODUCIBLE.</li>
+<li>If the user was confused, did not understand the functionality or was asking a support question, then point them to the <a href="http://forum.openoffice.org">Community Support Forums</a> and mark the issue as RESOLVED/INVALID. Of course, you can help if it is a simple question, but the forums are the better place for a user to find help. Bugzilla is not for support. It is for reporting bugs.</li>
+</ol>
+</li>
+</ol>
+<p>Note: Once you have reviewed a bug report, it should only be left in the UNCONFIRMED state if you are waiting for more information from the user, in which case you should also set the &quot;needmoreinfo&quot; value into the Keyword field. In all other cases you should push the report forward to a new status, either CONFIRMED, RESOLVED/IRREPRODUCIBLE, RESOLVED/INVALID or RESOLVED/DUPLICATE, or by changing the Issue Type to FEATURE or ENHANCEMENT.</p>
+<p>It is a judgement call on whether to immediately mark an issue RESOLVED/IRREPRODUCIBLE or to send the user a question and wait for a response. An intermediate approach, when confirming defects report written against older versions of OpenOffice, is to mark the bug as RESOLVED/IRREPRODUCIBLE and at the same time add a comment saying, &quot;I was not able to confirm the
+bug given these steps in the current version of OpenOffice (AOO 4.1.3), so I'm closing this report. If you are still seeing this problem after upgrading to AOO 4.1.3 please post the details and we can reopen the report&quot;.</p>
+<p>Finally, think of the confirmation process as the opportunity for the QA Team to improve the value of information we receive from users. We're taking the raw bug reports, sorting through them, eliminating the ones that do not report new bugs, and then passing on the good ones to the programmers. So anything you can do to improve the quality of the incoming defect reports will help. This includes clarifying the steps needed to reproduce the problem, attaching sample documents that you might create to reproduce the
+problem, improving report titles to make them more accurate/relevant to the real issue, correcting classifications and adjusting defect priorities.</p>
+<h2>Easy QA Task: Verifying Fixed Defects</h2>
+<p>Verifying bug fixes (re-testing a bug report after a developer has fixed it) is also very important, since some bug fixes either fail to fix the bug, or cause a new bug.</p>
+<p>You can get a list of fixed bugs from this query: <a href="https://issues.apache.org/ooo/buglist.cgi?cmdtype=dorem&amp;remaction=run&amp;namedcmd=Fixed_After_340&amp;sharer_id=248432">All fixed bugs after AOO 3.4 release</a></p>
+<p>Select the bug you want to verify:</p>
+<ol>
+<li>First you need to understand which problem the defect report is referring to.</li>
+<li>Install the latest build.</li>
+<li>Follow the steps to reproduce and check to see if the defect has been fixed.</li>
+<li>Add additional comments to the bug with your test result. e.g. build revision number, platform you have been tested etc.</li>
+<li>&quot;Test around&quot; the bug to make sure that nothing was broken when fixing it. You will develop and intuition for this as you learn to &quot;think like a bug&quot;.</li>
+<li>Change defect status to &quot;Verified&quot;</li>
+</ol>
+<h2>Easy QA Task: Manual Testing</h2>
+<p>Manual testing gains you further familiarity with QA process, by executing pre-defined test cases and writing up defect reports for any new defects found.</p>
+<p>To get more familiar with AOO, now you can try to perform some manual test cases.</p>
+<ul>
+<li>Browse test management tool, <a href="http://aootesting.adfinis-sygroup.org">Testlink</a> to find available test cases.</li>
+<li>Read this guide if you are not familiar with Testlink tool. <a href="http://wiki.openoffice.org/wiki/QA/Testlink">Testlink usage guide</a></li>
+</ul>
+<h2>Easy QA Task: Test Case Authoring</h2>
+<p>This is a more advanced topic, but after mastery of the above two steps, and learning to &quot;think like a bug&quot;, you will be ready for this.</p>
+<p>After some practice on test case execution, now you can start writing new test cases.</p>
+<p>Useful guide for writing manual test cases:</p>
+<ul>
+<li><a href="https://wiki.openoffice.org/wiki/QA/Testcase/How_to_write_test_case">A guide for writing test case</a></li>
+<li><a href="https://wiki.openoffice.org/wiki/QA/Testcase/Sample">A simple test case sample</a></li>
+</ul>
+<h2>Module Completion</h2>
+<p>Once you have done the above, go to our our <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers">Directory of Volunteers</a> wiki page and add or update your information. Also, add an entry for yourself to the <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/QA+Testing+Preferences">QA Testing Preferences</a> page. Congratulations! Please send a note to [<a href="mailto:qa@openoffice.apache.org">qa@openoffice.apache.org</a>](mailto:<a href="mailto:qa@openoffice.apache.org">qa@openoffice.apache.org</a>?subject=Completed Introduction to QA) so we know.</p>
+
+
+  </div>
+
+  <div id="footera">
+
+    <div id="asfbanner">
+      <p><a href="https://www.apache.org/events/current-event.html"><img src="https://www.apache.org/events/current-event-234x60.png" alt="Apache Events" height="60" width="234" /></a></p>
+    </div>
+
+    <div id="poweredby">
+      <p><a href="https://www.apache.org/"><img src="/images/asf_logo_small.png" alt="Apache Software Foundation" height="76" width="188"/></a></p>
+    </div>
+
+    <div id="copyrighta">
+      <p style="text-align:center;">
+          Copyright &copy; 2011-2020 The Apache Software Foundation, Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a> | <a href="/contact.html">Contact Us</a> | <a href="/terms.html">Terms of Use</a> | <a href="/privacy.html">Privacy</a>
+      </p>
+      <p>
+  Apache and the Apache feather logo are trademarks of The Apache Software Foundation.
+  OpenOffice, OpenOffice.org and the seagull logo are registered trademarks of The Apache Software Foundation.
+  Other names appearing on the site may be trademarks of their respective owners.
+      </p>
+
+    </div>
+  </div>
+
+</body>
+</html>
