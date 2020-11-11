@@ -1,0 +1,10 @@
+pelican:
+  notify:       commits@openoffice.apache.org
+  autobuild:    true
+  target:       asf-site
+  theme:        theme/openoffice
+  whoami:       main
+
+staging:
+  whoami:	asf-site
+  profile:	~
