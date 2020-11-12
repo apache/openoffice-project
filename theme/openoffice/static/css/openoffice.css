@@ -39,7 +39,7 @@ body {
 
 #bannercenter {
   padding: 12pt 2pt 34pt 2pt;
-  color: #107EC0;
+  color: #555555;
 }
 
 #bannerleft {
@@ -54,6 +54,7 @@ body {
 
 a {
   color: #107EC0;
+  text-decoration:none;
 }
 
 a:visited {
