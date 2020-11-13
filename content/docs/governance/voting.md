@@ -37,16 +37,16 @@ The notation used in voting is:
 #### Example for a vote mail:
 
     Address: private@
-    Subject: [VOTE] John Doe should become a regular committer
+    Subject: [VOTE] Jane Doe should become a regular committer
     
     Text:
-    "I would like to propose to vote in John Doe as committer. John has showed in
-    the last months that he has the skills and oversight for improving things (think
+    "I would like to propose to vote in Jan Doe as committer. Jan has showed in
+    the last months that they have the skills and oversight for improving things (think
     about the last UI change of the "Find" dialog)."
     
-    +1 (means I vote for John)
+    +1 (means I vote for Jan)
      0 (means vote abstention)
-    -1 (means I vote against John because of the following reason:
+    -1 (means I vote against Jan because of the following reason:
     
     Voting time frame is finished 72 hours from now until June 30, 12:00 PM UTC.
 
@@ -55,12 +55,12 @@ The notation used in voting is:
     Text:
     +1
     
-    I like his work and want him to stay and to go on with his good improvements.
+    I like their work and want them to stay and to go on with their good improvements.
 
 
 #### Example for a result mail:
 
-    Subject: [VOTE][RESULTS] John Doe should become a regular committer
+    Subject: [VOTE][RESULTS] Jan Doe should become a regular committer
     
     Text:
     Vote started Thu, Jun 27, 2011 at 12:00 PM UTC, voting is now closed.
@@ -75,15 +75,15 @@ The notation used in voting is:
     
     --- Details ---
     
-    +1 John Low
+    +1 Patricia
     +1 Marc
     +1 David
-    +1 Robert
+    +1 Erica
     +1 Steve
-    +1 Chris
+    +1 Christine
     +1 Stefan
-    +1 Andrew
-    +1 Dennis
+    +1 Carla
+    +1 Andrea
     +1 Karl
     +1 Simon
     +1 Greg
