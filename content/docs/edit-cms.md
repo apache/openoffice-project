@@ -1,6 +1,22 @@
 Title:     How to edit the Apache OpenOffice website
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
+## New Workflow
+
+Both https://www.openoffice.org and this website - https://openoffice.apache.org are being
+moved to a new Git based process.
+
+- (openoffice.org)[https://github.com/apache/openoffice-org/]
+- (openoffice.apache.org)[https://github.com/apache/openoffice-project/]
+
+Workflow is described in the README files in each repository.
+
+-----
+
+**The Apache CMS is deprecated**. Some of the material below is still useful and can be repurposed.
+
+-----
+
 This documentation shows how to edit the Apache OpenOffice
 website. This includes creation of new pages, modification, and deletion - for files
 and sub-directories.
