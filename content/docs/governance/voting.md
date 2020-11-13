@@ -37,7 +37,7 @@ The notation used in voting is:
 #### Example for a vote mail:
 
     Address: private@
-    Subject: [VOTE] Jane Doe should become a regular committer
+    Subject: [VOTE] Jan Doe should become a regular committer
     
     Text:
     "I would like to propose to vote in Jan Doe as committer. Jan has showed in
