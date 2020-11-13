@@ -6,8 +6,8 @@ Notice: http://www.apache.org/licenses/LICENSE-2.0
 Both https://www.openoffice.org and this website - https://openoffice.apache.org are being
 moved to a new Git based process.
 
-- (openoffice.org)[https://github.com/apache/openoffice-org/]
-- (openoffice.apache.org)[https://github.com/apache/openoffice-project/]
+- [openoffice.org](https://github.com/apache/openoffice-org/)
+- [openoffice.apache.org](https://github.com/apache/openoffice-project/)
 
 Workflow is described in the README files in each repository.
 
