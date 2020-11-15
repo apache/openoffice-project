@@ -24,7 +24,7 @@ mailing list.
 
 ## Quick updates to a single file
 
-Updating a single file are simple. Simply edit the file and save with your commit message. The website will be published in a minute or two.
+Updating a single file is simple. Simply edit the file online and save with your commit message. The website will be published in a minute or two.
 
 ## Prerequisites for building the website locally
 
