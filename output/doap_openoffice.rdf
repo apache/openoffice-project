@@ -13,7 +13,7 @@
     (the "License"); you may not use this file except in compliance with
     the License.  You may obtain a copy of the License at
 
-         http://www.apache.org/licenses/LICENSE-2.0
+         https://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
@@ -23,14 +23,14 @@
 -->
   <Project rdf:about="https://openoffice.apache.org">
     <created>2013-01-03</created>
-    <license rdf:resource="http://usefulinc.com/doap/licenses/asl20" />
+    <license rdf:resource="https://spdx.org/licenses/Apache-2.0" />
     <name>Apache OpenOffice</name>
     <homepage rdf:resource="https://openoffice.apache.org" />
     <asfext:pmc rdf:resource="https://openoffice.apache.org" />
     <shortdesc>An open-source, office-document productivity suite</shortdesc>
     <description>Apache OpenOffice is an open-source, office-document productivity suite providing six productivity
     applications (Writer, Calc, Impress, Draw, Math, Base) based around the OpenDocument Format (ODF). OpenOffice is
-    released on Windows, macOS, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in dozens of languages.</description>
+    released on Windows, OS X, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in dozens of languages.</description>
     <bug-database rdf:resource="https://bz.apache.org/ooo/" />
     <mailing-list rdf:resource="https://openoffice.apache.org/mailing-lists.html" />
     <download-page rdf:resource="https://www.openoffice.org/download/" />
@@ -44,10 +44,10 @@
       </Version>
     </release>
     <repository>
-      <SVNRepository>
-        <location rdf:resource="http://svn.apache.org/repos/asf/openoffice/trunk"/>
-        <browse rdf:resource="http://svn.apache.org/viewvc/openoffice/trunk/"/>
-      </SVNRepository>
+      <GitRepository>
+        <location rdf:resource="https://gitbox.apache.org/repos/asf/openoffice.git"/>
+        <browse rdf:resource="https://gitbox.apache.org/repos/asf?p=openoffice.git"/>
+      </GitRepository>
     </repository>
     <maintainer>
       <foaf:Person>
