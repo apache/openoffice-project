@@ -13,7 +13,7 @@
     (the "License"); you may not use this file except in compliance with
     the License.  You may obtain a copy of the License at
 
-         http://www.apache.org/licenses/LICENSE-2.0
+         https://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
@@ -23,7 +23,7 @@
 -->
   <Project rdf:about="https://openoffice.apache.org">
     <created>2013-01-03</created>
-    <license rdf:resource="http://usefulinc.com/doap/licenses/asl20" />
+    <license rdf:resource="https://spdx.org/licenses/Apache-2.0" />
     <name>Apache OpenOffice</name>
     <homepage rdf:resource="https://openoffice.apache.org" />
     <asfext:pmc rdf:resource="https://openoffice.apache.org" />
