@@ -169,8 +169,8 @@ Manual testing gains you further familiarity with QA process, by executing pre-d
 
 To get more familiar with AOO, now you can try to perform some manual test cases.
 
-  - Browse test management tool, [Testlink](http://aootesting.adfinis-sygroup.org) to find available test cases.  
-  - Read this guide if you are not familiar with Testlink tool. [Testlink usage guide](http://wiki.openoffice.org/wiki/QA/Testlink)
+  - Browse our [manual test cases](https://www.openoffice.org/qa/testcase/ManualTesting/).
+  - Execute them with the current version of OpenOffice. Notify the QA mailing list if you find bugs.
 
 ## Easy QA Task: Test Case Authoring
 
