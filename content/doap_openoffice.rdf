@@ -44,10 +44,10 @@
       </Version>
     </release>
     <repository>
-      <SVNRepository>
-        <location rdf:resource="http://svn.apache.org/repos/asf/openoffice/trunk"/>
-        <browse rdf:resource="http://svn.apache.org/viewvc/openoffice/trunk/"/>
-      </SVNRepository>
+      <GitRepository>
+        <location rdf:resource="https://gitbox.apache.org/repos/asf/openoffice.git"/>
+        <browse rdf:resource="https://gitbox.apache.org/repos/asf?p=openoffice.git"/>
+      </GitRepository>
     </repository>
     <maintainer>
       <foaf:Person>
