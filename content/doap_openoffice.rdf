@@ -30,7 +30,7 @@
     <shortdesc>An open-source, office-document productivity suite</shortdesc>
     <description>Apache OpenOffice is an open-source, office-document productivity suite providing six productivity
     applications (Writer, Calc, Impress, Draw, Math, Base) based around the OpenDocument Format (ODF). OpenOffice is
-    released on Windows, macOS, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in dozens of languages.</description>
+    released on Windows, OS X, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in dozens of languages.</description>
     <bug-database rdf:resource="https://bz.apache.org/ooo/" />
     <mailing-list rdf:resource="https://openoffice.apache.org/mailing-lists.html" />
     <download-page rdf:resource="https://www.openoffice.org/download/" />
