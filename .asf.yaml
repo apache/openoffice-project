@@ -13,3 +13,6 @@ pelican:
 staging:
   whoami:       asf-site
   profile:      ~
+
+publish:
+  whoami:       asf-site
