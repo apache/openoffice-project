@@ -30,7 +30,7 @@ project like OpenOffice. Some of the more common ones include:
 
   - To help reduce the "digital divide" by ensuring continued access to free
 high-quality free productivity applications world-wide.
-  - To help bring the benefits of OpenOffice to you country or region
+  - To help bring the benefits of OpenOffice to your country or region
   - To "give back" to open source
   - To learn or practice a new skill
   - To enhance a résumé or portfolio, showcasing the work you've done in this project
