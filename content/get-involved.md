@@ -19,9 +19,6 @@ and introduce yourself. We'll help you get started.
 
 ## Why get involved with the OpenOffice project?
 
-There are many motivations for why volunteers participate in an open source project
-like OpenOffice. Some of the more common ones include:
-
 Although many want to [make a small donation](http://www.openoffice.org/donations.html)
 to support Apache OpenOffice and the Apache Software Foundation (we appreciate every
 contribution), some users want to do more and volunteer their time and expertise with
