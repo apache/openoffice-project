@@ -1,3 +1,12 @@
+github:
+  description: "Apache OpenOffice Project Website"
+  homepage: "https://openoffice.apache.org/"
+  labels:
+    - openoffice
+    - project
+    - website
+    - pelican
+
 notifications:
   commits:      commits@openoffice.apache.org
   issues:       dev@openoffice.apache.org
