@@ -3,7 +3,7 @@ github:
   homepage: "https://openoffice.apache.org/"
   labels:
     - openoffice
-    - project
+    - apache
     - website
     - pelican
 
