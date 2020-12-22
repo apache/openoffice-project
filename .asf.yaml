@@ -5,7 +5,6 @@ github:
     - openoffice
     - apache
     - website
-    - pelican
 
 notifications:
   commits:      commits@openoffice.apache.org
