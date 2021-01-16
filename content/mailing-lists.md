@@ -220,7 +220,7 @@ average of 20 posts/day and will increase in the future.
 
 ## Recruitment Mailing List (Public)
 
-This list is for welcoming new contributers. It coordinates the activities for new
+This list is for welcoming new contributors. It coordinates the activities for new
 people and tries to help to find the right part. This is a low traffic list.
 
   - Subscribe: [recruitment-subscribe@openoffice.apache.org][84]
