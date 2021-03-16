@@ -25,6 +25,7 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 <link href="/theme/css/openoffice.css" rel="stylesheet" type="text/css">
+<script src="https://www.apachecon.com/event-images/snippet.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -236,21 +237,17 @@ and how to publish to the production Apache OpenOffice sites from your local env
 <span class="err">cd aoo-web</span>
 </code></pre></div>
 
-
 <h4 id="download-the-svn-repos-for-the-aoo-project-site">Download the svn repos for the AOO  project site.<a class="headerlink" href="#download-the-svn-repos-for-the-aoo-project-site" title="Permanent link">&para;</a></h4>
 <div class="highlight"><pre><span></span><code><span class="err">svn co https://svn.apache.org/repos/asf/openoffice/site/trunk site</span>
 </code></pre></div>
-
 
 <h4 id="download-the-svn-repos-for-the-migrated-openofficeorg-website">Download the svn repos for the migrated OpenOffice.org website.<a class="headerlink" href="#download-the-svn-repos-for-the-migrated-openofficeorg-website" title="Permanent link">&para;</a></h4>
 <div class="highlight"><pre><span></span><code><span class="err">svn co https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk ooo-site</span>
 </code></pre></div>
 
-
 <h4 id="download-the-svn-repos-for-the-apache-cms">Download the svn repos for the Apache CMS.<a class="headerlink" href="#download-the-svn-repos-for-the-apache-cms" title="Permanent link">&para;</a></h4>
 <div class="highlight"><pre><span></span><code><span class="err">svn co https://svn.apache.org/repos/infra/websites/cms/ cms</span>
 </code></pre></div>
-
 
 <p>You will have three sub-directories in your local website directory &ndash; <code>site</code>, <code>ooo-site</code>, and <code>cms</code>.
 The &ldquo;cms&rdquo; directory will contain scripts needed to build either of the websites using the ASF CMS in a local environment. This is 
@@ -264,14 +261,12 @@ ASF CMS directory structure.</p>
 <div class="highlight"><pre><span></span><code><span class="err">python --version</span>
 </code></pre></div>
 
-
 <h4 id="follow-the-installation-instructions-for-setuptools">Follow the installation instructions for <a href="http://pypi.python.org/pypi/setuptools">setuptools</a>.<a class="headerlink" href="#follow-the-installation-instructions-for-setuptools" title="Permanent link">&para;</a></h4>
 <h4 id="install-dependencies">Install dependencies<a class="headerlink" href="#install-dependencies" title="Permanent link">&para;</a></h4>
 <div class="highlight"><pre><span></span><code><span class="err">sudo easy_install Pygments</span>
 <span class="err">sudo easy_install ElementTree</span>
 <span class="err">sudo easy_install Markdown</span>
 </code></pre></div>
-
 
 <h3 id="directory-layout">Directory Layout<a class="headerlink" href="#directory-layout" title="Permanent link">&para;</a></h3>
 <h4 id="content-directories">Content directories<a class="headerlink" href="#content-directories" title="Permanent link">&para;</a></h4>
@@ -309,13 +304,11 @@ ASF CMS directory structure.</p>
 <span class="n">python</span> <span class="n">cms</span><span class="o">/</span><span class="n">build</span><span class="o">/</span><span class="n">markdownd</span><span class="p">.</span><span class="n">py</span>
 </code></pre></div>
 
-
 <h4 id="build-the-sites">Build the sites.<a class="headerlink" href="#build-the-sites" title="Permanent link">&para;</a></h4>
 <p>Using the directory names from Download sections above &ndash;</p>
 <div class="highlight"><pre><span></span><code><span class="err">cms/build/build_site.pl --source-base site --target-base www</span>
 <span class="err">cms/build/build_site.pl --source-base ooo-site --target-base www</span>
 </code></pre></div>
-
 
 <p>This will generate the web content for the project site, &ldquo;site&rdquo;, or the openoffice site, &ldquo;ooo-site&rdquo;
 to directory &ldquo;www&rdquo;. </p>
@@ -323,7 +316,6 @@ to directory &ldquo;www&rdquo;. </p>
 <p>On my Mac:</p>
 <div class="highlight"><pre><span></span><code><span class="err">sudo scp -rp www/content /Library/WebServer/Documents/.</span>
 </code></pre></div>
-
 
 <p>The site is then available with <a href="http://localhost/openofficeorg">http://localhost/openofficeorg/</a> or <a href="http://localhost/">http://localhost/</a></p>
 <h3 id="submitting-your-results">Submitting your results.<a class="headerlink" href="#submitting-your-results" title="Permanent link">&para;</a></h3>
@@ -359,17 +351,22 @@ of JavaScript immediately before the closing &lt;/head&gt; in the HTML.</p>
 <span class="nt">&lt;/script&gt;</span>
 </code></pre></div>
 
-
 <p>Note: This is not needed for the project website, only for the openoffice.org pages.</p>
 <p>It is not necessary to add this to every single web page. The greatest benefit for
 the effort comes from adding it to the key destination pages.</p>
 
+        <p>
+        Last updated: Tue 16 March 2021
+        </p>
   </div>
 
   <div id="footera">
 
     <div id="asfbanner">
-      <p><a href="https://www.apache.org/events/current-event.html"><img src="https://www.apache.org/events/current-event-234x60.png" alt="Apache Events" height="60" width="234" /></a></p>
+      <p>
+         <a class="acevent" data-format="wide"></a>
+         <a class="acevent" data-format="wide" data-mode="light" data-event="acasia2021"></a>
+      </p>
     </div>
 
     <div id="poweredby">

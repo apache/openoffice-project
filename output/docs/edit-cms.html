@@ -25,6 +25,7 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 <link href="/theme/css/openoffice.css" rel="stylesheet" type="text/css">
+<script src="https://www.apachecon.com/event-images/snippet.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -139,23 +140,19 @@ the public web site.</p>
 <span class="err"> svn ci -m&quot;My log message&quot; myfile.mdtext</span>
 </code></pre></div>
 
-
 <p>Now wait a few seconds so that the entire website can be rebuilt.
 Verify the staged webpage in a web browser at:</p>
 <div class="highlight"><pre><span></span><code><span class="err"> http://openofficeorg.staging.apache.org/openofficeorg/myfile.html</span>
 </code></pre></div>
 
-
 <p>Then publish the site:</p>
 <div class="highlight"><pre><span></span><code><span class="err">curl -sL http://s.apache.org/cms-cli | perl</span>
 </code></pre></div>
-
 
 <p>If this does not work on your local machine just do it on &ldquo;people.apache.org&rdquo; by
 executing this:</p>
 <div class="highlight"><pre><span></span><code><span class="err">ssh -t &lt;user&gt;@people.apache.org publish.pl openofficeorg &lt;your Apache ID&gt;</span>
 </code></pre></div>
-
 
 <h2 id="browser-based-editing-workflow">Browser-based editing workflow<a class="headerlink" href="#browser-based-editing-workflow" title="Permanent link">&para;</a></h2>
 <h3 id="prerequisites">Prerequisites<a class="headerlink" href="#prerequisites" title="Permanent link">&para;</a></h3>
@@ -215,12 +212,18 @@ in the staging repository in order for those changes to propagate to the product
 <h2 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h2>
 <p><a href="http://www.apache.org/dev/cmsref.html">CMS Documentation Reference</a></p>
 
+        <p>
+        Last updated: Tue 16 March 2021
+        </p>
   </div>
 
   <div id="footera">
 
     <div id="asfbanner">
-      <p><a href="https://www.apache.org/events/current-event.html"><img src="https://www.apache.org/events/current-event-234x60.png" alt="Apache Events" height="60" width="234" /></a></p>
+      <p>
+         <a class="acevent" data-format="wide"></a>
+         <a class="acevent" data-format="wide" data-mode="light" data-event="acasia2021"></a>
+      </p>
     </div>
 
     <div id="poweredby">

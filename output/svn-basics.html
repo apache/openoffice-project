@@ -25,6 +25,7 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 <link href="/theme/css/openoffice.css" rel="stylesheet" type="text/css">
+<script src="https://www.apachecon.com/event-images/snippet.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -117,11 +118,9 @@
 <div class="highlight"><pre><span></span><code>$ svn --version
 </code></pre></div>
 
-
 <p>Run a sub-command</p>
 <div class="highlight"><pre><span></span><code><span class="err">$</span><span class="w"> </span><span class="n">svn</span><span class="w"> </span><span class="o">&lt;</span><span class="n">subcommand</span><span class="o">&gt;</span><span class="w"> </span><span class="o">[</span><span class="n">options</span><span class="o">]</span><span class="w"> </span><span class="o">[</span><span class="n">args</span><span class="o">]</span><span class="w"></span>
 </code></pre></div>
-
 
 <p>Most sub-commands take file and/or directory arguments, recursing on the directories. If no arguments are supplied to such a command, it recurses on the current directory (inclusive) by default. (from <code>svn help</code>)</p>
 <p>The following is only a partial list of sub-commands relating to this instruction. For a complete list, see the <a href="http://svnbook.red-bean.com">Subversion Book</a>, or use <code>svn help</code>.</p>
@@ -145,7 +144,6 @@
 <div class="highlight"><pre><span></span><code>$ <span class="nb">export</span> <span class="nv">EDITOR</span><span class="o">=</span>/usr/bin/vim
 </code></pre></div>
 
-
 <h2 id="repository-layout"><a id="repository_layout"></a>Repository Layout<a class="headerlink" href="#repository-layout" title="Permanent link">&para;</a></h2>
 <p>The AOO repository layout uses the following top-level directories <code>branches</code>, <code>site</code>, <code>tags</code>, and <code>trunk</code>.</p>
 <ul>
@@ -168,7 +166,6 @@ A    aoo-trunk/tools/dev/single-hg.sh
 Checked out revision <span class="m">1145818</span>.
 </code></pre></div>
 
-
 <p>&ldquo;A&rdquo; indicates file or directory is &ldquo;Added&rdquo; to working copy</p>
 <h2 id="basic-work-cycle"><a id="basic_work_cycle"></a>Basic Work Cycle<a class="headerlink" href="#basic-work-cycle" title="Permanent link">&para;</a></h2>
 <ul>
@@ -185,7 +182,6 @@ Checked out revision <span class="m">1145818</span>.
 ?       test-file.txt
 </code></pre></div>
 
-
 <p>? indicates test-file.txt is not under version control</p>
 <h3 id="scheduling-a-file-for-addition-to-repository">Scheduling a file for addition to repository<a class="headerlink" href="#scheduling-a-file-for-addition-to-repository" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>$ svn add test-file.txt
@@ -194,7 +190,6 @@ A         test-file.txt
 $ svn status
 A       test-file.txt
 </code></pre></div>
-
 
 <p>&ldquo;A&rdquo; indicates file is scheduled for addition</p>
 <h3 id="running-a-diff">Running a diff<a class="headerlink" href="#running-a-diff" title="Permanent link">&para;</a></h3>
@@ -212,7 +207,6 @@ Added: svn:eol-style
    + native
 </code></pre></div>
 
-
 <h3 id="committing-a-file">Committing a file<a class="headerlink" href="#committing-a-file" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>$ svn commit test-file.txt -m <span class="s2">&quot;added test-file.txt&quot;</span>
 Adding         test-file.txt
@@ -220,25 +214,21 @@ Transmitting file data .
 Committed revision <span class="m">2</span>.
 </code></pre></div>
 
-
 <h3 id="update-the-working-copy">Update the working copy<a class="headerlink" href="#update-the-working-copy" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>$ svn update
 U    test-file.txt
 Updated to revision <span class="m">3</span>.
 </code></pre></div>
 
-
 <p>&ldquo;U&rdquo; indicates an &ldquo;Update&rdquo; to a file or directory</p>
 <p>Modify the file (this example uses the vim editor)</p>
 <div class="highlight"><pre><span></span><code>$ vim test-file.txt
 </code></pre></div>
 
-
 <h3 id="check-the-status">Check the Status<a class="headerlink" href="#check-the-status" title="Permanent link">&para;</a></h3>
 <div class="highlight"><pre><span></span><code>$ svn status
 M       test-file.txt
 </code></pre></div>
-
 
 <p>&ldquo;M&rdquo; indicates the file has been &ldquo;Modified&rdquo;</p>
 <div class="highlight"><pre><span></span><code>$ svn diff
@@ -252,7 +242,6 @@ Index: test-file.txt
 +This line added by me.
 </code></pre></div>
 
-
 <h3 id="resolving-conflicts">Resolving Conflicts<a class="headerlink" href="#resolving-conflicts" title="Permanent link">&para;</a></h3>
 <p>Suppose someone edits the same line as you before you commit</p>
 <div class="highlight"><pre><span></span><code>$ svn update
@@ -261,7 +250,6 @@ Select: <span class="o">(</span>p<span class="o">)</span> postpone, <span class=
         <span class="o">(</span>mc<span class="o">)</span> mine-conflict, <span class="o">(</span>tc<span class="o">)</span> theirs-conflict,
         <span class="o">(</span>s<span class="o">)</span> show all options:
 </code></pre></div>
-
 
 <p>This is just like if you had ran the <code>svn resolve</code> command</p>
 <p>Selecting <code>df</code> displays this:</p>
@@ -280,12 +268,10 @@ Select: (p) postpone, (df) diff-full, (e) edit, (r) resolved,
         (s) show all options:
 </code></pre></div>
 
-
 <p>If you choose <code>e</code>, Subversion will launch an editor with both sets of changes included for you to edit. You can save your changes in the editor and then select <code>r</code> (for resolved).</p>
 <div class="highlight"><pre><span></span><code><span class="err">G    test-file.txt</span>
 <span class="err">Updated to revision 4.</span>
 </code></pre></div>
-
 
 <p>&ldquo;G&rdquo; indicates &ldquo;merGed&rdquo;</p>
 <h2 id="committing-changes"><a id="committing_changes"></a>Committing Changes<a class="headerlink" href="#committing-changes" title="Permanent link">&para;</a></h2>
@@ -296,7 +282,6 @@ Sending        test-file.txt
 Transmitting file data .
 Committed revision <span class="m">5</span>.
 </code></pre></div>
-
 
 <p>In general, you may not have to include always your username or password if you do a proper setup of your ssh key or have subversion store the password.</p>
 <p>Always check your changes with &ldquo;svn diff&rdquo; and &ldquo;svn status&rdquo;. Also be careful to specify the files and/or directories you want to change, if
@@ -319,7 +304,6 @@ Transmitting file data .
 Committed revision <span class="m">5</span>.
 </code></pre></div>
 
-
 <p>Use of the special fields will enable processing by scripts like the
 <a href="http://www.red-bean.com/svnproject/contribulyzer/">contribulyzer</a> to help quickly identify
 contributors.</p>
@@ -332,7 +316,6 @@ described in the previous Commit Message section to commit changes supplied by o
 <span class="err">Suggested by: Jane Brown &lt;janeb.at.notnull.org&gt;</span>
 </code></pre></div>
 
-
 <!-- Using the `-m (--message)` option only allows a single line log message. To commit a multi-line message use the `-F (--file)` option (with a previously created file) or use neither -m or -F and an editor will be started. -->
 
 <p>An alternative way is the following command. It adds a new line with &ldquo;\n&rdquo;:</p>
@@ -341,13 +324,11 @@ described in the previous Commit Message section to commit changes supplied by o
 <span class="s1">  &lt;john.doe.at.null.org&gt;&#39;</span> test-file.txt
 </code></pre></div>
 
-
 <h2 id="creating-and-submitting-patches"><a id="creating_and_submitting_patches"></a>Creating and Submitting Patches<a class="headerlink" href="#creating-and-submitting-patches" title="Permanent link">&para;</a></h2>
 <p>See the <a href="http://www.apache.org/dev/contributors.html#patches">Sending in Patches</a> section on the Contributors Tech Guide page.</p>
 <p>Create the patch file from <code>svn diff</code> where <code>your-patch-name.patch</code> is the full path to the patch file to create.</p>
 <div class="highlight"><pre><span></span><code><span class="err">svn diff &gt; your-patch-name.patch</span>
 </code></pre></div>
-
 
 <h2 id="merging-changes-to-a-branch"><a id="merging_changes"></a>Merging changes to a branch<a class="headerlink" href="#merging-changes-to-a-branch" title="Permanent link">&para;</a></h2>
 <p>New development is done in the &ldquo;trunk&rdquo;, development area, of the tree. Stable, release branches, are specifically named and can be found
@@ -363,7 +344,6 @@ you want to apply changes from trunk for a new release, maybe AOO341.</p>
  <span class="n">Checked</span> <span class="s">out</span> <span class="s">revision</span> <span class="s">1347362.</span>
 </code></pre></div>
 
-
 <p>This will put a placeholder branch for the AOO34 in directory &ldquo;aoo-stable&rdquo;.</p>
 <p>In the aoo-stable directory, you can keep saving space (rather convenient) until you reach the directory where you want to make changes:</p>
 <div class="highlight"><pre><span></span><code> <span class="c">% svn up --depth=empty main</span>
@@ -376,7 +356,6 @@ you want to apply changes from trunk for a new release, maybe AOO341.</p>
  <span class="n">Updated</span> <span class="s">to</span> <span class="s">revision</span> <span class="s">1347366.</span>
 </code></pre></div>
 
-
 <p>At this point, there are svn placeholder entries for /main/jvmfwk.</p>
 <p>To do a complete checkout from there:</p>
 <div class="highlight"><pre><span></span><code><span class="err"> svn up --set-depth=infinity</span>
@@ -387,13 +366,11 @@ you want to apply changes from trunk for a new release, maybe AOO341.</p>
 <span class="err"> ... (and so on)</span>
 </code></pre></div>
 
-
 <p>Now merge the specific revision(s) you want (in this case r1333165):</p>
 <div class="highlight"><pre><span></span><code><span class="err"> svn merge -c1333165 https://svn.apache.org/repos/asf/openoffice/trunk/main/jvmfwk .</span>
 <span class="err"> --- Merging r1333165 into &#39;.&#39;:</span>
 <span class="err"> U    distributions/OpenOfficeorg/javavendors_unx.xml</span>
 </code></pre></div>
-
 
 <p>At this point, you have merged r1333165 into r1347366. (For release from trunk to a new release, it&rsquo;s likely you would be merging a higher revision to a lower existing release revision.)</p>
 <p>After you finish merging, check your changes with &ldquo;svn status&rdquo; and &ldquo;svn diff&rdquo;
@@ -405,7 +382,6 @@ and commit from the aoo-update directory:</p>
 <span class="err"> Committed revision 1347377.</span>
 </code></pre></div>
 
-
 <h2 id="further-information"><a id="further_information"></a>Further Information<a class="headerlink" href="#further-information" title="Permanent link">&para;</a></h2>
 <p>For more information see: </p>
 <ul>
@@ -414,12 +390,18 @@ and commit from the aoo-update directory:</p>
 <li><a href="http://www.apache.org/dev/">Apache Developer Information</a></li>
 </ul>
 
+        <p>
+        Last updated: Tue 16 March 2021
+        </p>
   </div>
 
   <div id="footera">
 
     <div id="asfbanner">
-      <p><a href="https://www.apache.org/events/current-event.html"><img src="https://www.apache.org/events/current-event-234x60.png" alt="Apache Events" height="60" width="234" /></a></p>
+      <p>
+         <a class="acevent" data-format="wide"></a>
+         <a class="acevent" data-format="wide" data-mode="light" data-event="acasia2021"></a>
+      </p>
     </div>
 
     <div id="poweredby">
