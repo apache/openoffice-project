@@ -18,7 +18,7 @@ Archive Policy](http://www.apache.org/foundation/public-archives.html)
  - [Marketing Mailing List](#marketing-mailing-list-public)
  - [Announce Mailing List](#announce-mailing-list)
  - [Development Mailing List](#development-mailing-list-public)
- - [Recruitment Mailing List](#recruitment-mailing-list-public)
+ - [Volunteer Mailing List](#volunteer-mailing-list-public)
  - [Documentation Mailing List](#documentation-mailing-list-public)
  - [Quality Assurance (QA) Mailing List](#qa-mailing-list-public)
  - [Localization Mailing List](#localization-mailing-list-public)
@@ -218,14 +218,14 @@ average of 20 posts/day and will increase in the future.
   - Apache Archives: [current][55], [legacy][34]
   - Third-party Archives: [Mail Archive][80], [Markmail][33] (incomplete)
 
-## Recruitment Mailing List (Public)
+## Volunteer Mailing List (Public)
 
 This list is for welcoming new contributors. It coordinates the activities for new
 people and tries to help to find the right part. This is a low traffic list.
 
-  - Subscribe: [recruitment-subscribe@openoffice.apache.org][84]
-  - Post (after subscription): [recruitment@openoffice.apache.org][85]
-  - Unsubscribe: [recruitment-unsubscribe@openoffice.apache.org][86]
+  - Subscribe: [volunteer-subscribe@openoffice.apache.org][84]
+  - Post (after subscription): [volunteer@openoffice.apache.org][85]
+  - Unsubscribe: [volunteer-unsubscribe@openoffice.apache.org][86]
   - Apache Archives: [current][87]
   - Third-party Archives: [Mail Archive][81]
 
@@ -353,13 +353,13 @@ For any topic not covered by the above, send your post to: dev@openoffice.apache
   [78]: http://www.mail-archive.com/l10n@openoffice.apache.org/
   [79]: http://www.mail-archive.com/commits@openoffice.apache.org/
   [80]: http://www.mail-archive.com/issues@openoffice.apache.org/
-  [81]: http://www.mail-archive.com/recruitment@openoffice.apache.org/
+  [81]: http://www.mail-archive.com/volunteer@openoffice.apache.org/
 
   [82]: http://openoffice.2283327.n4.nabble.com/Development-f2916443.html
   [83]: http://openoffice.2283327.n4.nabble.com/Users-f2814619.html
 
-  [84]: mailto:recruitment-subscribe@openoffice.apache.org
-  [85]: mailto:recruitment@openoffice.apache.org
-  [86]: mailto:recruitment-unsubscribe@openoffice.apache.org
-  [87]: http://mail-archives.apache.org/mod_mbox/openoffice-recruitment/
+  [84]: mailto:volunteer-subscribe@openoffice.apache.org
+  [85]: mailto:volunteer@openoffice.apache.org
+  [86]: mailto:volunteer-unsubscribe@openoffice.apache.org
+  [87]: http://mail-archives.apache.org/mod_mbox/openoffice-volunteer/
 
