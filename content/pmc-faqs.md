@@ -53,22 +53,19 @@ Blog authors: You must be a committer. To establish a Roller account
 
 | ID            |  Author #         |
 |---------------|-------------------|
-| rbircher	|  Raphael Bircher  |
-| dpharbison	|  Don Harbison     |
-| khirano	|  Kazunari Hirano  |
-| alg		|  Armin Le Grand   |
-| clippka	|  Christian Lippka |
-| jsc		|  Jürgen Schmidt   |
-| robweir	|  Rob Weir         |
-| orw		|  Oliver-Rainer Wittmann |
+| sk		| Sally Khudairi    |
+| pesecetti	| Andrea Pescetti   |
+| petko		| Peter Kovacs      |
+| cmarcum	| Carl Marcum       |
 
 Blog admins: Admins authorize new authors once they have first established a Roller
-account.
+account. This requires a new login and registration. Then an Admin can grant them
+author permissions.
 
-| ID            |  Admin #         |
-|---------------|------------------|
-| wave		|  Dave Fisher     |
-| marcus	|  Marcus Lange    |
+| ID            |  Admin #          |
+|---------------|-------------------|
+| wave		|  Dave Fisher      |
+| marcus	|  Marcus Lange     |
 
 ## Bugzilla
 
