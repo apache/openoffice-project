@@ -54,7 +54,7 @@ Blog authors: You must be a committer. To establish a Roller account
 | ID            |  Author #         |
 |---------------|-------------------|
 | sk		| Sally Khudairi    |
-| pesecetti	| Andrea Pescetti   |
+| pescetti	| Andrea Pescetti   |
 | petko		| Peter Kovacs      |
 | cmarcum	| Carl Marcum       |
 
@@ -88,7 +88,7 @@ Admin: Matthias Seidel
 
 ## [Twitter](https://twitter.com/ApacheOO)
 
-Admin: vacant (was: Roberto Galoppini)<p>
+Admin: Jim Jagielski<p>
 
 # How to participate? # {#participate}
 
