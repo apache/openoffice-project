@@ -38,9 +38,9 @@
     <category rdf:resource="https://projects.apache.org/category/content" />
     <release>
       <Version>
-        <name>Apache OpenOffice 4.1.8</name>
-        <created>2020-11-10</created>
-        <revision>4.1.8</revision>
+        <name>Apache OpenOffice 4.1.9</name>
+        <created>2021-02-07</created>
+        <revision>4.1.9</revision>
       </Version>
     </release>
     <repository>
