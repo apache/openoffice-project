@@ -28,9 +28,10 @@
     <homepage rdf:resource="https://openoffice.apache.org" />
     <asfext:pmc rdf:resource="https://openoffice.apache.org" />
     <shortdesc>An open-source, office-document productivity suite</shortdesc>
-    <description>Apache OpenOffice is an open-source, office-document productivity suite providing six productivity
-    applications (Writer, Calc, Impress, Draw, Math, Base) based around the OpenDocument Format (ODF). OpenOffice is
-    released on Windows, OS X, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in dozens of languages.</description>
+    <description>Apache OpenOffice is an leading open-source, office-document productivity suite providing six
+    productivity applications (Writer, Calc, Impress, Draw, Math, Base) based around the OpenDocument Format
+    (ODF). OpenOffice is released on Windows, OS X, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in 41
+    languages.</description>
     <bug-database rdf:resource="https://bz.apache.org/ooo/" />
     <mailing-list rdf:resource="https://openoffice.apache.org/mailing-lists.html" />
     <download-page rdf:resource="https://www.openoffice.org/download/" />
@@ -38,9 +39,9 @@
     <category rdf:resource="https://projects.apache.org/category/content" />
     <release>
       <Version>
-        <name>Apache OpenOffice 4.1.9</name>
-        <created>2021-02-07</created>
-        <revision>4.1.9</revision>
+        <name>Apache OpenOffice 4.1.10</name>
+        <created>2021-05-04</created>
+        <revision>4.1.10</revision>
       </Version>
     </release>
     <repository>
