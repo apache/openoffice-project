@@ -28,7 +28,7 @@
     <homepage rdf:resource="https://openoffice.apache.org" />
     <asfext:pmc rdf:resource="https://openoffice.apache.org" />
     <shortdesc>An open-source, office-document productivity suite</shortdesc>
-    <description>Apache OpenOffice is an leading open-source, office-document productivity suite providing six
+    <description>Apache OpenOffice is a leading open-source, office-document productivity suite providing six
     productivity applications (Writer, Calc, Impress, Draw, Math, Base) based around the OpenDocument Format
     (ODF). OpenOffice is released on Windows, OS X, Linux 32-bit DEB+RPM, Linux 64-bit DEB+RPM and in 41
     languages.</description>
