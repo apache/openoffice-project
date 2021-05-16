@@ -8,7 +8,7 @@ Level 1 is focused on connecting you to the project.
 If you have prior experience with an open source software project, especially one at
 Apache, then much of this will already be familiar to you.
 
-1. Introduce yourself to the other project Volunteers by sending an email to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Starting Introduction to Contributing to Apache OpenOffice Module). Who are you, where are you from, what are you interested in? These are all good things to cover. Also, as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this list.
+1. Introduce yourself to the other project Volunteers by sending an email to [volunteer@openoffice.apache.org](mailto:volunteer@openoffice.apache.org?subject=Starting Introduction to Contributing to Apache OpenOffice Module). Who are you, where are you from, what are you interested in? These are all good things to cover. Also, as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this list.
 
 1. It is important that you understand a little about the Apache Software Foundation and OpenOffice, what it is, how it is organized and how the Apache OpenOffice Project fits into the overall Foundation. This is partially organizational knowledge and a little history. But it is important for understanding how things work here, and understanding the culture of this open source community. Suggested readings are:
 
@@ -41,4 +41,4 @@ Apache, then much of this will already be familiar to you.
 	1. Our [Community Forums](https://forum.openoffice.org/) These are available in several languages. This is the primary way in which we engage with the user community.
 	1. Join our [Social Networks](https://openoffice.apache.org/social.html)
 
-1. Finally, once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed Introduction to Contributing to Apache OpenOffice Module) so we know.
+1. Finally, once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add your information. Congratulations! Please send a note to [volunteer@openoffice.apache.org](mailto:volunteer@openoffice.apache.org?subject=Completed Introduction to Contributing to Apache OpenOffice Module) so we know.

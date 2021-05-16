@@ -7,9 +7,9 @@ In this orientation module you will learn how to get started programming OpenOff
 
 To complete this module, read through the material on this page, including the linked references. There will also be some start-up tasks for you to perform, such as signing up for an account in our defect tracking database.
 
-Your first task is to subscribe to our Recruitment mailing list. You can subscribe by sending an email to [recruitment-subscribe@openoffice.apache.org](mailto:recruitment-subscribe@openoffice.apache.org).
+Your first task is to subscribe to our Recruitment mailing list. You can subscribe by sending an email to [volunteer-subscribe@openoffice.apache.org](mailto:volunteer-subscribe@openoffice.apache.org).
 
-Then you can introduce yourself by [sending an email to the list](mailto:recruitment@openoffice.apache.org?subject=New Dev Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
+Then you can introduce yourself by [sending an email to the list](mailto:volunteer@openoffice.apache.org?subject=New Dev Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
 
 Note: In parallel with the Dev-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](http://openoffice.apache.org/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
 
@@ -77,4 +77,4 @@ Please review these [guidelines for submitting patches](https://openoffice.apach
 
 ## Module Completion
 
-Once you have completed this Module, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed Introduction to Development) so we know.
+Once you have completed this Module, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [volunteer@openoffice.apache.org](mailto:volunteer@openoffice.apache.org?subject=Completed Introduction to Development) so we know.
