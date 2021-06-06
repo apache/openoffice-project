@@ -117,7 +117,7 @@ OpenOffice.org][5].
 
 [0]: https://www.apache.org/
 [1]: https://www.openoffice.org/
-[2]: http://www.marketwire.com/press-release/statements-on-openofficeorg-contribution-to-apache-nasdaq-orcl-1521400.htm
+[2]: https://web.archive.org/web/20110606030535/http://www.marketwire.com/press-release/statements-on-openofficeorg-contribution-to-apache-nasdaq-orcl-1521400.htm
 [3]: https://blogs.apache.org/OOo/entry/openoffice_graduates_from_the_apache
 [4]: https://www.openoffice.org/
 [5]: https://www.openoffice.org/about/
