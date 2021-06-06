@@ -13,14 +13,16 @@ notifications:
 
 pelican:
   notify:       commits@openoffice.apache.org
-  autobuild:    true
+  autobuild:    preview/*
   target:       asf-site
   theme:        theme/openoffice
+  minimum_page_count: 10
   whoami:       main
 
 staging:
-  whoami:       asf-site
-  profile:      ~
+  profile: ~
+  whoami: asf-site
+  autostage: preview/*
 
 publish:
   whoami:       asf-site
