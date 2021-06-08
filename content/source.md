@@ -2,7 +2,7 @@ Title:     Source Control
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 As of August, 2019, we use GIT for version control. You can [browse our
-repository][10] using the "tree" view from gitbox in your web browser. The [README.md](https://github.com/apache/openoffice) at github.com provides useful information on how to download and build Apache OpenOffice.
+repository][10] using the "tree" view from gitbox in your web browser. The [README.md](https://github.com/apache/openoffice#readme) at github.com provides useful information on how to download and build Apache OpenOffice.
 
 The previous svn repository, now read only, using [Apache Subversion][1] for version control is [still viewable][2] in your web browser.
 
