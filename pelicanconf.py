@@ -25,7 +25,7 @@ STATIC_PATHS = [ '.' ]
 PATH_METADATA= '(?P<path_no_ext>.*)\..*'
 PAGE_SAVE_AS= '{path_no_ext}.html'
 PAGE_URL= '{path_no_ext}.html'
-#SLUGIFY_SOURCE = 'basename'
+SLUGIFY_SOURCE = 'basename'
 #PAGE_SAVE_AS = '{slug}.html'
 
 # We don't use articles, but we don't want pelican to think
