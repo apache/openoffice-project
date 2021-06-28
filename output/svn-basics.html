@@ -109,10 +109,10 @@
 <li><a href="#merging_changes">Merging changes to a branch</a></li>
 <li><a href="#further_information">Further Information</a></li>
 </ul>
-<h2><a id="overview"></a>Overview</h2>
+<h2 id="overview_1"><a id="overview"></a>Overview<a class="headerlink" href="#overview_1" title="Permalink">&para;</a></h2>
 <p>You begin using Subversion by copying a directory from a remote repository to a local directory on your file system. This is known as a checkout of a working copy.</p>
 <p>Subversion uses a copy-modify-merge model meaning that you can add and edit files and directories in your working copy like any other files on your system, but you should use subversion commands for everything else such as <code>svn copy</code> and <code>svn move</code> instead of the operating system commands.</p>
-<h2><a id="sub-commands_and_abbreviations"></a>Sub-commands and Abbreviations</h2>
+<h2 id="sub-commands-and-abbreviations"><a id="sub-commands_and_abbreviations"></a>Sub-commands and Abbreviations<a class="headerlink" href="#sub-commands-and-abbreviations" title="Permalink">&para;</a></h2>
 <p>Subversion commands can be run from a command shell such as Bash on Linux. The subversion client command is <code>svn</code> followed by optional sub-commands, options, and arguments.</p>
 <p>Show the program version and modules</p>
 <pre><code>$ svn --version
@@ -136,12 +136,12 @@
 <li><code>status</code> - Print the status of working copy files and directories</li>
 <li><code>update</code> - Bring changes from the repository into your working copy</li>
 </ul>
-<h2><a id="client_configuration"></a>Client Configuration</h2>
+<h2 id="client-configuration"><a id="client_configuration"></a>Client Configuration<a class="headerlink" href="#client-configuration" title="Permalink">&para;</a></h2>
 <p>Committers need to <a href="http://www.apache.org/dev/version-control.html#https-svn-config">configure their Subversion client</a> to handle the differences in line endings of text files on different operating systems.</p>
 <p>There are instances where Subversion may need to open an editor. You need to have the environment variable EDITOR set to the editor you would like to use. To set it for the current terminal session in Bash (your path may differ):</p>
 <pre><code>$ export EDITOR=/usr/bin/vim
 </code></pre>
-<h2><a id="repository_layout"></a>Repository Layout</h2>
+<h2 id="repository-layout"><a id="repository_layout"></a>Repository Layout<a class="headerlink" href="#repository-layout" title="Permalink">&para;</a></h2>
 <p>The AOO repository layout uses the following top-level directories <code>branches</code>, <code>site</code>, <code>tags</code>, and <code>trunk</code>.</p>
 <ul>
 <li><code>branches</code> - Contains branches used for continued development of a specific version, experimental versions, or for  developing features to be merged into the trunk or a branch later. (needs examples)</li>
@@ -150,7 +150,7 @@
 <li><code>trunk</code> - Contains the current source code.
 For more information see the <a href="http://www.apache.org/dev/contributors.html#svnbasics">Contributors Tech Guide</a>.</li>
 </ul>
-<h2>Getting the source code</h2>
+<h2 id="getting-the-source-code">Getting the source code<a class="headerlink" href="#getting-the-source-code" title="Permalink">&para;</a></h2>
 <p>From the parent directory of where you want the working copy. In this example the <code>aoo-trunk</code> directory will be created if it does not exist.</p>
 <pre><code>$ svn co https://svn.apache.org/repos/asf/openoffice/trunk aoo-trunk
 A    aoo-trunk/tools
@@ -162,8 +162,8 @@ A    aoo-trunk/tools/dev/web-list.txt
 A    aoo-trunk/tools/dev/single-hg.sh
 Checked out revision 1145818.
 </code></pre>
-<p>&quot;A&quot; indicates file or directory is &quot;Added&quot; to working copy</p>
-<h2><a id="basic_work_cycle"></a>Basic Work Cycle</h2>
+<p>"A" indicates file or directory is "Added" to working copy</p>
+<h2 id="basic-work-cycle"><a id="basic_work_cycle"></a>Basic Work Cycle<a class="headerlink" href="#basic-work-cycle" title="Permalink">&para;</a></h2>
 <ul>
 <li>Update your working copy - For this you use the <code>svn update</code> command</li>
 <li>Make changes - For this you may edit files in an editor, or use the <code>svn add</code>, <code>svn delete</code>, <code>svn copy</code>, <code>svn-move</code> commands</li>
@@ -172,21 +172,21 @@ Checked out revision 1145818.
 <li>Resolve Conflicts - There is a chance others have committed changes while you have been changing your working copy. You should run the <code>svn update</code> command to bring your copy up to date. This may create a local conflict where someone may have added a file with a name that you also want to add, or may have made changes to the same line of a file as you. For this use the <code>svn resolve</code> command.</li>
 <li>Publish Changes - For this you use the <code>svn commit</code> command</li>
 </ul>
-<h3>Adding a File</h3>
-<p>After creating the file &quot;test-file.txt&quot; in the working copy.</p>
+<h3 id="adding-a-file">Adding a File<a class="headerlink" href="#adding-a-file" title="Permalink">&para;</a></h3>
+<p>After creating the file "test-file.txt" in the working copy.</p>
 <pre><code>$ svn status
 ?       test-file.txt
 </code></pre>
 <p>? indicates test-file.txt is not under version control</p>
-<h3>Scheduling a file for addition to repository</h3>
+<h3 id="scheduling-a-file-for-addition-to-repository">Scheduling a file for addition to repository<a class="headerlink" href="#scheduling-a-file-for-addition-to-repository" title="Permalink">&para;</a></h3>
 <pre><code>$ svn add test-file.txt
 A         test-file.txt
 
 $ svn status
 A       test-file.txt
 </code></pre>
-<p>&quot;A&quot; indicates file is scheduled for addition</p>
-<h3>Running a diff</h3>
+<p>"A" indicates file is scheduled for addition</p>
+<h3 id="running-a-diff">Running a diff<a class="headerlink" href="#running-a-diff" title="Permalink">&para;</a></h3>
 <pre><code>$ svn diff
 Index: test-file.txt
 ===================================================================
@@ -200,26 +200,26 @@ ___________________________________________________________________
 Added: svn:eol-style
    + native
 </code></pre>
-<h3>Committing a file</h3>
-<pre><code>$ svn commit test-file.txt -m &quot;added test-file.txt&quot;
+<h3 id="committing-a-file">Committing a file<a class="headerlink" href="#committing-a-file" title="Permalink">&para;</a></h3>
+<pre><code>$ svn commit test-file.txt -m "added test-file.txt"
 Adding         test-file.txt
 Transmitting file data .
 Committed revision 2.
 </code></pre>
-<h3>Update the working copy</h3>
+<h3 id="update-the-working-copy">Update the working copy<a class="headerlink" href="#update-the-working-copy" title="Permalink">&para;</a></h3>
 <pre><code>$ svn update
 U    test-file.txt
 Updated to revision 3.
 </code></pre>
-<p>&quot;U&quot; indicates an &quot;Update&quot; to a file or directory</p>
+<p>"U" indicates an "Update" to a file or directory</p>
 <p>Modify the file (this example uses the vim editor)</p>
 <pre><code>$ vim test-file.txt
 </code></pre>
-<h3>Check the Status</h3>
+<h3 id="check-the-status">Check the Status<a class="headerlink" href="#check-the-status" title="Permalink">&para;</a></h3>
 <pre><code>$ svn status
 M       test-file.txt
 </code></pre>
-<p>&quot;M&quot; indicates the file has been &quot;Modified&quot;</p>
+<p>"M" indicates the file has been "Modified"</p>
 <pre><code>$ svn diff
 Index: test-file.txt
 ===================================================================
@@ -230,7 +230,7 @@ Index: test-file.txt
  This is a new line added by someone else.
 +This line added by me.
 </code></pre>
-<h3>Resolving Conflicts</h3>
+<h3 id="resolving-conflicts">Resolving Conflicts<a class="headerlink" href="#resolving-conflicts" title="Permalink">&para;</a></h3>
 <p>Suppose someone edits the same line as you before you commit</p>
 <pre><code>$ svn update
 Conflict discovered in 'test-file.txt'.
@@ -258,21 +258,21 @@ Select: (p) postpone, (df) diff-full, (e) edit, (r) resolved,
 <pre><code>G    test-file.txt
 Updated to revision 4.
 </code></pre>
-<p>&quot;G&quot; indicates &quot;merGed&quot;</p>
-<h2><a id="committing_changes"></a>Committing Changes</h2>
+<p>"G" indicates "merGed"</p>
+<h2 id="committing-changes"><a id="committing_changes"></a>Committing Changes<a class="headerlink" href="#committing-changes" title="Permalink">&para;</a></h2>
 <p>Only Committers can commit directly to the repository. The following example shows using your Apache ID and password.</p>
 <pre><code>$ svn commit test-file.c --username your-name --password your-password \
-  -m &quot;added new C file&quot;
+  -m "added new C file"
 Sending        test-file.txt
 Transmitting file data .
 Committed revision 5.
 </code></pre>
 <p>In general, you may not have to include always your username or password if you do a proper setup of your ssh key or have subversion store the password.</p>
-<p>Always check your changes with &quot;svn diff&quot; and &quot;svn status&quot;. Also be careful to specify the files and/or directories you want to change, if
+<p>Always check your changes with "svn diff" and "svn status". Also be careful to specify the files and/or directories you want to change, if
 you don't specify, SVN will commit <strong>all</strong> your changes.</p>
 <p>For further information see the <a href="http://svnbook.red-bean.com/nightly/en/svn.tour.cycle.html">Basic Work Cycle</a> page from <a href="http://svnbook.red-bean.com">Subversion Book</a>.</p>
-<h2><a id="commit_message"></a>Commit Message</h2>
-<p>The examples in the previous sections use a simple commit message with the &quot;-m&quot; option.</p>
+<h2 id="commit-message"><a id="commit_message"></a>Commit Message<a class="headerlink" href="#commit-message" title="Permalink">&para;</a></h2>
+<p>The examples in the previous sections use a simple commit message with the "-m" option.</p>
 <p>This is fine for some quick testing or for large bulk commits of code that you wrote.</p>
 <p>We ask that your commits include special tagging to appropriately credit the patch.
 See the <a href="http://subversion.apache.org/docs/community-guide/conventions.html#crediting">crediting section</a> of the Coding and Commit
@@ -290,7 +290,7 @@ Committed revision 5.
 <p>Use of the special fields will enable processing by scripts like the
 <a href="http://www.red-bean.com/svnproject/contribulyzer/">contribulyzer</a> to help quickly identify
 contributors.</p>
-<h2><a id="committing_changes_by_others"></a>Committing Changes By Others</h2>
+<h2 id="committing-changes-by-others"><a id="committing_changes_by_others"></a>Committing Changes By Others<a class="headerlink" href="#committing-changes-by-others" title="Permalink">&para;</a></h2>
 <p>See the <a href="http://www.apache.org/dev/committers.html#applying-patches">Applying Patches</a> section of the Committer FAQ page. Please use the special fields
 described in the previous Commit Message section to commit changes supplied by others.</p>
 <p>Example similar to one on Committer FAQ:</p>
@@ -299,30 +299,30 @@ Patch by: John Doe &lt;john.doe.at.null.org&gt;
 Suggested by: Jane Brown &lt;janeb.at.notnull.org&gt;
 </code></pre>
 <!-- Using the `-m (--message)` option only allows a single line log message. To commit a multi-line message use the `-F (--file)` option (with a previously created file) or use neither -m or -F and an editor will be started. -->
-<p>An alternative way is the following command. It adds a new line with &quot;\n&quot;:</p>
+<p>An alternative way is the following command. It adds a new line with "\n":</p>
 <pre><code>$ svn commit -m $'#i999999# Added some cool new feature.\nPatch by: /
   John Doe &lt;john.doe.at.null.org&gt;\nSubmitted by: John Doe /
   &lt;john.doe.at.null.org&gt;' test-file.txt
 </code></pre>
-<h2><a id="creating_and_submitting_patches"></a>Creating and Submitting Patches</h2>
+<h2 id="creating-and-submitting-patches"><a id="creating_and_submitting_patches"></a>Creating and Submitting Patches<a class="headerlink" href="#creating-and-submitting-patches" title="Permalink">&para;</a></h2>
 <p>See the <a href="http://www.apache.org/dev/contributors.html#patches">Sending in Patches</a> section on the Contributors Tech Guide page.</p>
 <p>Create the patch file from <code>svn diff</code> where <code>your-patch-name.patch</code> is the full path to the patch file to create.</p>
 <pre><code>svn diff &gt; your-patch-name.patch
 </code></pre>
-<h2><a id="merging_changes"></a>Merging changes to a branch</h2>
-<p>New development is done in the &quot;trunk&quot;, development area, of the tree. Stable, release branches, are specifically named and can be found
+<h2 id="merging-changes-to-a-branch"><a id="merging_changes"></a>Merging changes to a branch<a class="headerlink" href="#merging-changes-to-a-branch" title="Permalink">&para;</a></h2>
+<p>New development is done in the "trunk", development area, of the tree. Stable, release branches, are specifically named and can be found
 in the <a href="http://svn.apache.org/viewvc/openoffice/branches/">branches</a>  area of the openoffice svn tree. With few exceptions you do <strong>NOT</strong> do direct commits to the stable, release,
-branches. Changes, commits, to stable branch are typically only done during a formal release cycle and must be discussed on the &quot;dev&quot; list.</p>
-<p>When a new release is in preparation, bug fixes are reviewed, and fixes that have been made to &quot;trunk&quot; get applied to the stable, release, branch. This is done using the &quot;svn merge&quot; command which finds  previous changes and replays them.  SVN also keeps a record
+branches. Changes, commits, to stable branch are typically only done during a formal release cycle and must be discussed on the "dev" list.</p>
+<p>When a new release is in preparation, bug fixes are reviewed, and fixes that have been made to "trunk" get applied to the stable, release, branch. This is done using the "svn merge" command which finds  previous changes and replays them.  SVN also keeps a record
 of the specific commits that have been merged so the changes are much easier to track down.</p>
 <p>The first step is to do a check out of the stable, release, branch. The following examples use the AOO34 release branch, and assume
 you want to apply changes from trunk for a new release, maybe AOO341.</p>
-<p>You can do a complete checkout of the release branch or you can save some space by using the &quot;--depth=empty&quot; option:</p>
+<p>You can do a complete checkout of the release branch or you can save some space by using the "--depth=empty" option:</p>
 <pre><code> % svn co --depth=empty https://svn.apache.org/repos/asf/openoffice/branches/AOO34 aoo-stable
  U   aoo-stable
  Checked out revision 1347362.
 </code></pre>
-<p>This will put a placeholder branch for the AOO34 in directory &quot;aoo-stable&quot;.</p>
+<p>This will put a placeholder branch for the AOO34 in directory "aoo-stable".</p>
 <p>In the aoo-stable directory, you can keep saving space (rather convenient) until you reach the directory where you want to make changes:</p>
 <pre><code> % svn up --depth=empty main
  Updating 'main':
@@ -348,15 +348,15 @@ you want to apply changes from trunk for a new release, maybe AOO341.</p>
  U    distributions/OpenOfficeorg/javavendors_unx.xml
 </code></pre>
 <p>At this point, you have merged r1333165 into r1347366. (For release from trunk to a new release, it's likely you would be merging a higher revision to a lower existing release revision.)</p>
-<p>After you finish merging, check your changes with &quot;svn status&quot; and &quot;svn diff&quot;
+<p>After you finish merging, check your changes with "svn status" and "svn diff"
 and commit from the aoo-update directory:</p>
-<pre><code> svn commit -m &quot;Merge r1329539, r1329547, 1333165 - Add Oracle as a Java vendor on unix.&quot; distributions/OpenOfficeorg/javavendors_unx.xml distributions/OpenOfficeorg/javavendors_freebsd.xml
+<pre><code> svn commit -m "Merge r1329539, r1329547, 1333165 - Add Oracle as a Java vendor on unix." distributions/OpenOfficeorg/javavendors_unx.xml distributions/OpenOfficeorg/javavendors_freebsd.xml
  Sending        distributions/OpenOfficeorg/javavendors_freebsd.xml
  Sending        distributions/OpenOfficeorg/javavendors_unx.xml
  Transmitting file data ..
  Committed revision 1347377.
 </code></pre>
-<h2><a id="further_information"></a>Further Information</h2>
+<h2 id="further-information"><a id="further_information"></a>Further Information<a class="headerlink" href="#further-information" title="Permalink">&para;</a></h2>
 <p>For more information see:</p>
 <ul>
 <li><a href="http://subversion.apache.org">Apache Subversion Project</a></li>

@@ -94,53 +94,53 @@
     
 
     <p>As of August, 2019, we use GIT for version control. You can <a href="https://gitbox.apache.org/repos/asf?p=openoffice.git">browse our
-repository</a> using the &quot;tree&quot; view from gitbox in your web browser. The <a href="https://github.com/apache/openoffice#readme">README.md</a> at github.com provides useful information on how to download and build Apache OpenOffice.</p>
+repository</a> using the "tree" view from gitbox in your web browser. The <a href="https://github.com/apache/openoffice#readme">README.md</a> at github.com provides useful information on how to download and build Apache OpenOffice.</p>
 <p>The previous svn repository, now read only, using <a href="https://subversion.apache.org/">Apache Subversion</a> for version control is <a href="https://svn.apache.org/viewvc/openoffice/trunk/">still viewable</a> in your web browser.</p>
 <p>Currently, subversion is still used for the two OpenOffice web sites.
 See our <a href="http://openoffice.apache.org/svn-basics.html">Subversion Basics</a>
 for more information on using subversion (svn) for the Apache OpenOffice project.</p>
 <!--- For further information see the [Apache Source Code Repository][3] page.-->
-<h2>Getting the source code</h2>
-<h3>Using GIT</h3>
+<h2 id="getting-the-source-code">Getting the source code<a class="headerlink" href="#getting-the-source-code" title="Permalink">&para;</a></h2>
+<h3 id="using-git">Using GIT<a class="headerlink" href="#using-git" title="Permalink">&para;</a></h3>
 <!--- You can use our git repository for downloading source but not committing (read only):
     [https://github.com/apache/openoffice](https://github.com/apache/openoffice)-->
 <p>Instructions provided in <a href="https://github.com/apache/openoffice">README.md</a> from github.com can be used successfully to get a local copy of the complete source for Apache OpenOffice.</p>
-<h3>Using SVN (applies to code through July, 2019)</h3>
+<h3 id="using-svn-applies-to-code-through-july-2019">Using SVN (applies to code through July, 2019)<a class="headerlink" href="#using-svn-applies-to-code-through-july-2019" title="Permalink">&para;</a></h3>
 <p>This will get you everything, including the language files:</p>
 <pre><code>svn co https://svn.apache.org/repos/asf/openoffice/trunk aoo
 </code></pre>
 <p>Including SVN overhead, this requires approximately 4 GB of storage.</p>
-<h3>Source archive of the latest release</h3>
+<h3 id="source-archive-of-the-latest-release">Source archive of the latest release<a class="headerlink" href="#source-archive-of-the-latest-release" title="Permalink">&para;</a></h3>
 <p>An archive of the source for the latest release can be obtainted from the Apache Software Foundation repository:
 <a href="https://archive.apache.org/dist/openoffice/">https://archive.apache.org/dist/openoffice</a></p>
-<h2>Browsing/Searching Source Code</h2>
+<h2 id="browsingsearching-source-code">Browsing/Searching Source Code<a class="headerlink" href="#browsingsearching-source-code" title="Permalink">&para;</a></h2>
 <!--- We have an instance of [Atlassian FishEye][4] for source browsing, searching,
 reporting and visualization of main trunk (main development area).-->
 <p>We host an <a href="http://opengrok.openoffice.org/">OpenGrok</a> instance for our
 main repository areas.</p>
-<h2>Building and Running</h2>
+<h2 id="building-and-running">Building and Running<a class="headerlink" href="#building-and-running" title="Permalink">&para;</a></h2>
 <p>See the <a href="https://wiki.openoffice.org/wiki/Documentation/Building_Guide_AOO">Apache OpenOffice Building Guide page</a>
 for an overview on building.</p>
 <p>The <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Development+Snapshot+Builds#DevelopmentSnapshotBuilds-buildflags">Development Snapshots builds</a> page, pre-release builds, also provide additional information on building.</p>
-<h2>Testing Developer Installation Sets</h2>
+<h2 id="testing-developer-installation-sets">Testing Developer Installation Sets<a class="headerlink" href="#testing-developer-installation-sets" title="Permalink">&para;</a></h2>
 <p>See <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Development+Snapshot+Builds#DevelopmentSnapshotBuilds-fullsets">Development Snapshot Builds: Full installation sets</a>, pre-release builds, or <a href="https://www.openoffice.org/download/devbuilds.html">Development Builds</a>, nightly builds from the buildbots, for complete installation sets for available platforms.</p>
 <p>Install developer builds to a new directory if you don't want to overwrite your
 existing Apache OpenOffice installation.</p>
 <ul>
 <li>Linux: Create a new directory for the AOO developer install.
-Install the RPM pack with --prefix=&quot;some new AOO directory&quot; option.</li>
+Install the RPM pack with --prefix="some new AOO directory" option.</li>
 <li>Windows: Use the custom install option, and choose a new directory location for the
 AOO developer install.</li>
-<li>Mac: create a new folder for AOO developer install. Download the &quot;.dmg&quot; file there, and install
+<li>Mac: create a new folder for AOO developer install. Download the ".dmg" file there, and install
 to the new directory.</li>
 </ul>
-<h2>Code and Contribution Statistics</h2>
+<h2 id="code-and-contribution-statistics">Code and Contribution Statistics<a class="headerlink" href="#code-and-contribution-statistics" title="Permalink">&para;</a></h2>
 <!--- Our SVN tree is read by the [Open Hub tracker][6] to generate some various statistics.
 Note that the migration from the legacy Mercurial repository to SVN at Apache has
 caused pre-existing files to be double-counted. But the contribution history should
 be intact.-->
 <p><a href="https://gitbox.apache.org/repos/asf?p=openoffice.git">The Apache OpenOffice Gitbox site</a> provides useful statistics on code contributions and changes.</p>
-<h2>Special Development Branches</h2>
+<h2 id="special-development-branches">Special Development Branches<a class="headerlink" href="#special-development-branches" title="Permalink">&para;</a></h2>
 <p>For larger, extensive code modifications, specialized branches are created. These branches can also be found in our git repository.</p>
 <!--- You can find out more information on them from the Wiki [Source Code](https://wiki.openoffice.org/wiki/Source_Code) page.-->
 
