@@ -2,8 +2,6 @@
 
 This is the content and theme for https://openoffice.apache.org/
 
-Currently the site is built into https://openoffice.staged.apache.org/
-
 ## Contributing to the website content
 
 You can fork from https://github.com/apache/openoffice-project, test your changes as described below
