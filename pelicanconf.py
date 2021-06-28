@@ -48,7 +48,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # TOC Generator
-#PLUGIN_PATHS = ['./theme/plugins']
+PLUGIN_PATHS = ['./theme/plugins']
 #PLUGINS = ['toc']
 TOC_HEADERS = r"h[1-6]"
 
@@ -71,19 +71,3 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.extra': {},
-        'markdown.extensions.admonition': {},
-        'markdown.extensions.codehilite': {
-            'css_class': 'highlight'
-        },
-        'markdown.extensions.meta': {},
-        'smarty' : {
-            'smart_angled_quotes' : 'true'
-        },
-        'markdown.extensions.toc': {
-            'permalink': 'true',
-        },
-    }
-}
