@@ -93,53 +93,54 @@
     <h1>Introduction to Development</h1>
     
 
-    <h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
+    <p>##Introduction</p>
 <p>In this orientation module you will learn how to get started programming OpenOffice.</p>
 <p>To complete this module, read through the material on this page, including the linked references. There will also be some start-up tasks for you to perform, such as signing up for an account in our defect tracking database.</p>
 <p>Your first task is to subscribe to our Recruitment mailing list. You can subscribe by sending an email to <a href="mailto:volunteer-subscribe@openoffice.apache.org">volunteer-subscribe@openoffice.apache.org</a>.</p>
-<p>Then you can introduce yourself by <a href="mailto:volunteer@openoffice.apache.org?subject=New Dev Volunteer">sending an email to the list</a>. We&rsquo;d love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.</p>
+<p>Then you can introduce yourself by [sending an email to the list](mailto:<a href="mailto:volunteer@openoffice.apache.org">volunteer@openoffice.apache.org</a>?subject=New Dev Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.</p>
 <p>Note: In parallel with the Dev-specific items on this page, you may want to also review the <a href="http://openoffice.apache.org/orientation/index.html">Level 1 and Level 2 Orientation Modules</a>. They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.</p>
-<p>Now with the introductions out of the way, let&rsquo;s get started!</p>
-<h2 id="openoffice-development-good-the-bad-and-the-ugly">OpenOffice Development: Good, the Bad and the Ugly<a class="headerlink" href="#openoffice-development-good-the-bad-and-the-ugly" title="Permanent link">&para;</a></h2>
-<p>Let&rsquo;s be honest. The size, age and complexity of OpenOffice&rsquo;s C++ codebase makes coding a challenge. This is not a trivial codebase to learn. But if you like a good challenge then you&rsquo;ll love this project! There are tasks suitable for programmers with a range of programming experience, and we have many veteran OpenOffice hackers in the project who are happy to answer your questions.</p>
+<p>Now with the introductions out of the way, let's get started!</p>
+<p>##OpenOffice Development: Good, the Bad and the Ugly</p>
+<p>Let's be honest. The size, age and complexity of OpenOffice's C++ codebase makes coding a challenge. This is not a trivial codebase to learn. But if you like a good challenge then you'll love this project! There are tasks suitable for programmers with a range of programming experience, and we have many veteran OpenOffice hackers in the project who are happy to answer your questions.</p>
 <p>And in its favor, there are few other programs that you can help develop, that have the reach of OpenOffice. Many millions of users depend on OpenOffice, with another half a million downloads every week, from almost every country in the world. So the work you do, the bugs you fix, the features you add, will benefit millions of users around the world.</p>
-<h2 id="building-openoffice">Building OpenOffice<a class="headerlink" href="#building-openoffice" title="Permanent link">&para;</a></h2>
+<h2>Building OpenOffice</h2>
 <p>It all starts by establishing a local build environment. Building OpenOffice on Linux or Mac is relatively easy, but expect the first attempt to require some trial and error. Every configuration is slightly different.</p>
 <p>Building on Windows is more complicated, due to the need to install more prerequisite tools.</p>
 <p>Our <a href="https://wiki.openoffice.org/wiki/Documentation/Building_Guide_AOO">Building Guide</a> on the wiki is your starting point. Follow the instructions there, step by step. Ask questions on the dev list if you get stuck. If you get an error it can be useful to search our <a href="https://markmail.org/search/+list:org.apache.incubator.ooo-dev">mailing list archives</a> to see if it is a known problem with a known solution.</p>
 <p>Note also the current list of configuration flags used in building the development snapshot builds at the bottom of the <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Development+Snapshot+Builds#DevelopmentSnapshotBuilds-AOO3.4.1">development snapshot builds page</a>.
 Although there are many other combinations of flags you can use, some of which are very useful for development, the flags on that page are what we use in our official releases.</p>
-<p>Once you have a successful build, <a href="mailto:dev@openoffice.apache.org?subject=Successful 1st Build!">post a note to the dev list</a> for some well-earned congratulations!</p>
-<h2 id="orienting-yourself">Orienting Yourself<a class="headerlink" href="#orienting-yourself" title="Permanent link">&para;</a></h2>
+<p>Once you have a successful build, [post a note to the dev list](mailto:<a href="mailto:dev@openoffice.apache.org">dev@openoffice.apache.org</a>?subject=Successful 1st Build!) for some well-earned congratulations!</p>
+<h2>Orienting Yourself</h2>
 <p>A few suggestions to help you find your way around this massive codebase:</p>
 <ul>
 <li>An explanation of the purpose/function of the various <a href="https://wiki.openoffice.org/wiki/Source_code_directories">source directories</a></li>
 <li>We have an <a href="https://fisheye.apache.org/changelog/openoffice">instance of Atlassian Fisheye</a> which can be useful for browsing the code base and understanding dependencies.</li>
 </ul>
-<h2 id="finding-easy-tasks">Finding Easy Tasks<a class="headerlink" href="#finding-easy-tasks" title="Permanent link">&para;</a></h2>
+<h2>Finding Easy Tasks</h2>
 <p>As a new developer you will want to find some easy coding tasks. These are tasks that generally can be done with good C++ skills, but do not require comprehensive knowledge of how OpenOffice is put together. The tasks are more localized. By doing easy tasks you gain experience and confidence hacking with the code base.</p>
-<p>We use a <a href="https://bz.apache.org/ooo/">Bugzilla issue tracker</a> to track reported defects in OpenOffice. Some of us also use Bugzilla for tracking feature and enhancement tasks as well. The value of tracking all coding-related tasks in Bugzilla is that it helps our QA volunteers know which areas to test. Whether code was changed to fix a bug or enhance a feature &ndash; the QA impact is pretty much the same.</p>
+<p>We use a <a href="https://bz.apache.org/ooo/">Bugzilla issue tracker</a> to track reported defects in OpenOffice. Some of us also use Bugzilla for tracking feature and enhancement tasks as well. The value of tracking all coding-related tasks in Bugzilla is that it helps our QA volunteers know which areas to test. Whether code was changed to fix a bug or enhance a feature -- the QA impact is pretty much the same.</p>
 <p>If you have not done so already, please <a href="https://issues.apache.org/ooo/createaccount.cgi">sign up for a Bugzilla account</a>. This will allow you to enter new bugs or tasks, but also assign yourself existing ones.</p>
-<p>Many tasks are classified in the &ldquo;difficulty&rdquo; field. The ones classified as &ldquo;easy&rdquo; or &ldquo;simple&rdquo; (one level harder than &ldquo;easy&rdquo;) are good ones to start with. You can find these with the <a href="https://issues.apache.org/ooo/buglist.cgi?f1=cf_fix_difficulty&amp;o1=equals&amp;resolution=---&amp;query_format=advanced&amp;v1=easy&amp;list_id=42478">easy-hacks</a> and <a href="https://issues.apache.org/ooo/buglist.cgi?f1=cf_fix_difficulty&amp;o1=equals&amp;resolution=---&amp;query_format=advanced&amp;v1=simple&amp;list_id=42478">simple-hacks</a> queries.</p>
+<p>Many tasks are classified in the &quot;difficulty&quot; field. The ones classified as &quot;easy&quot; or &quot;simple&quot; (one level harder than &quot;easy&quot;) are good ones to start with. You can find these with the <a href="https://issues.apache.org/ooo/buglist.cgi?f1=cf_fix_difficulty&amp;o1=equals&amp;resolution=---&amp;query_format=advanced&amp;v1=easy&amp;list_id=42478">easy-hacks</a> and <a href="https://issues.apache.org/ooo/buglist.cgi?f1=cf_fix_difficulty&amp;o1=equals&amp;resolution=---&amp;query_format=advanced&amp;v1=simple&amp;list_id=42478">simple-hacks</a> queries.</p>
 <p>Once you pick a bug and assign it to yourself, you might want to post a note to the dev list, letting us know. We might have some helpful hints to get you started.</p>
-<h2 id="coding-standards">Coding Standards<a class="headerlink" href="#coding-standards" title="Permanent link">&para;</a></h2>
+<h2>Coding Standards</h2>
 <p>For reference note the following coding standards for the project:</p>
 <ul>
 <li><a href="https://wiki.openoffice.org/wiki/Coding_Standards">Coding Standards</a></li>
 <li><a href="https://wiki.openoffice.org/wiki/Writer/Code_Conventions">Writer/Code Conventions</a></li>
 </ul>
-<p>The Geneva Convention prevents us from forcing you to read all of those rules, but know that they are there, and when your code is reviewed your reviewer might refer to some of those rules if there is an issue. So you&rsquo;ll absorb them over time.</p>
-<h2 id="submitting-patches">Submitting Patches<a class="headerlink" href="#submitting-patches" title="Permanent link">&para;</a></h2>
-<p>As you read in the <a href="https://openoffice.apache.org/orientation/intro-contributing.html">Introduction to Contributing to OpenOffice module</a>, contributors who have demonstrated merit via their project contributions can be voted in as Committers. Committers have the ability to check code into project&rsquo;s source control. Contributors who are not (yet) Committers must submit their patches and have them be reviewed first.</p>
+<p>The Geneva Convention prevents us from forcing you to read all of those rules, but know that they are there, and when your code is reviewed your reviewer might refer to some of those rules if there is an issue. So you'll absorb them over time.</p>
+<h2>Submitting Patches</h2>
+<p>As you read in the <a href="https://openoffice.apache.org/orientation/intro-contributing.html">Introduction to Contributing to OpenOffice module</a>, contributors who have demonstrated merit via their project contributions can be voted in as Committers. Committers have the ability to check code into project's source control. Contributors who are not (yet) Committers must submit their patches and have them be reviewed first.</p>
 <p>Please review these <a href="https://openoffice.apache.org/svn-basics.html#creating_and_submitting_patches">guidelines for submitting patches</a>. A good practice is to attach the patch to the Bugzilla issue and then send a link to the issue to the Dev list, asking for someone to review and commit the patch.</p>
-<h2 id="other-useful-resources">Other Useful Resources<a class="headerlink" href="#other-useful-resources" title="Permanent link">&para;</a></h2>
+<p>##Other Useful Resources</p>
 <ul>
 <li>The <a href="https://www.openoffice.org/development/">OpenOffice.org for Developers</a> web area has useful information for getting started.</li>
 <li>The <a href="https://wiki.openoffice.org/wiki/Development">OpenOffice.org Development Wiki Area</a> has a lot of good general development information.</li>
 <li>The <a href="https://openoffice.apache.org/mailing-lists.html#commits-mailing-list">commits mailing list</a> echos every checkin made to the code base. Developers are encouraged to subscribe so they are aware of other changes, and can help review.</li>
 </ul>
-<h2 id="module-completion">Module Completion<a class="headerlink" href="#module-completion" title="Permanent link">&para;</a></h2>
-<p>Once you have completed this Module, go to our our <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers">Directory of Volunteers</a> wiki page and add or update your information. Congratulations! Please send a note to <a href="mailto:volunteer@openoffice.apache.org?subject=Completed Introduction to Development">volunteer@openoffice.apache.org</a> so we know.</p>
+<h2>Module Completion</h2>
+<p>Once you have completed this Module, go to our our <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers">Directory of Volunteers</a> wiki page and add or update your information. Congratulations! Please send a note to [<a href="mailto:volunteer@openoffice.apache.org">volunteer@openoffice.apache.org</a>](mailto:<a href="mailto:volunteer@openoffice.apache.org">volunteer@openoffice.apache.org</a>?subject=Completed Introduction to Development) so we know.</p>
+
 
         <p>
         Last updated: Mon 28 June 2021
