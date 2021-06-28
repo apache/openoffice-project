@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+  -->
+  <title>How to edit the Apache OpenOffice website</title>
+<meta name="description" content="The official developer website of the Apache OpenOffice open source project, home of OpenOffice Writer, Calc, Impress, Draw and Base." />
+<meta name="keywords" content="OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format" />
+<meta name="google-site-verification" content="uu79eqa3Tzx81rhyk66kY0sIwrFIayoneGXFEy-FkNY" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link href="/theme/css/openoffice.css" rel="stylesheet" type="text/css">
+<script src="https://www.apachecon.com/event-images/snippet.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+</head>
+
+<body>
+  <div id="banner">
+      <div id="bannerleft"><a alt="Apache OpenOffice" href="/">
+          <img id="logo" alt="Apache OpenOffice" src="/images/AOO4_website_logo.png"/></a></div>
+
+   <div id="bannercenter"><br/>&nbsp;The Free and Open Productivity Suite</div>
+  </div>
+  <div id="clear"></div>
+  <div id="sidenav">
+<h1>General</h1>
+<ul>
+<li><a href="/index.html">About</a></li>
+<li><a href="/downloads.html">Downloads</a></li>
+<li><a href="/license.html">License</a></li>
+<li><a href="/trademarks.html">Trademarks</a></li>
+<li><a href="/press.html">Press</a></li>
+<li><a href="https://www.openoffice.org/">OpenOffice.org website</a></li>
+</ul>
+<h1>Community</h1>
+<ul>
+<li><a href="/get-involved.html">Get Involved</a></li>
+<li><a href="/orientation/index.html">Orientation</a></li>
+<li><a href="/mailing-lists.html">Mailing Lists</a></li>
+<li><a href="/social.html">Social Networking</a></li>
+<li><a href="/events.html">Events</a></li>
+<li><a href="https://www.openoffice.org/support/">Support</a></li>
+<li><a href="/native-lang.html">Native Language</a></li>
+<li><a href="https://cwiki.apache.org/confluence/display/OOOUSERS/">Planning Wiki</a></li>
+<li><a href="/people.html">People</a></li>
+<li><a href="/community-faqs.html">Community FAQs</a></li>
+</ul>
+<h1>Development</h1>
+<ul>
+<li><a href="/source.html">Source Code</a></li>
+<li><a href="/bug-tracking.html">Bug Tracking</a></li>
+<li><a href="/qa.html">Quality Assurance</a></li>
+<li><a href="/translate.html">Translation</a></li>
+<li><a href="/website-local.html">Website</a></li>
+<li><a href="/security.html">Security Reports</a></li>
+<li><a href="/contributing-code.html">Contributing Code</a></li>
+<li><a href="/developer-faqs.html">Developer FAQs</a></li>
+</ul>
+<h1>Project Management PMC</h1>
+<ul>
+<li><a href="https://blogs.apache.org/OOo/">Project Blog</a></li>
+<li><a href="/pmc-faqs.html">PMC FAQs</a></li>
+</ul>
+<h1>The Apache Software Foundation</h1>
+<ul>
+<li><a href="https://www.apache.org/">Website</a></li>
+<li><a href="https://www.apache.org/licenses/">License</a></li>
+<li><a href="https://www.apache.org/security/">Security</a></li>
+<li><a href="https://www.apache.org/events/current-event">Events</a></li>
+<li><a href="https://www.openoffice.org/donations.html">Donations</a></li>
+<li><a href="https://www.apache.org/foundation/sponsorship.html">Sponsorship</a></li>
+<li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+</ul>
+  </div>
+  <div id="contenta">
+    <h1>How to edit the Apache OpenOffice website</h1>
+    
+
+    <h2 id="new-workflow">New Workflow<a class="headerlink" href="#new-workflow" title="Permanent link">&para;</a></h2>
+<p>Both https://www.openoffice.org and this website - https://openoffice.apache.org are being
+moved to a new Git based process.</p>
+<ul>
+<li><a href="https://github.com/apache/openoffice-org/">openoffice.org</a></li>
+<li><a href="https://github.com/apache/openoffice-project/">openoffice.apache.org</a></li>
+</ul>
+<p>Workflow is described in the README files in each repository.</p>
+<hr />
+<p><strong>The Apache CMS is deprecated</strong>. Some of the material below is still useful and can be repurposed.</p>
+<hr />
+<p>This documentation shows how to edit the Apache OpenOffice
+website. This includes creation of new pages, modification, and deletion - for files
+and sub-directories.</p>
+<h2 id="how-it-works-in-general">How it works in general<a class="headerlink" href="#how-it-works-in-general" title="Permanent link">&para;</a></h2>
+<p>The website is hosted in a Content Management System (CMS). When you edit a web page
+there are potentially four different versions of it to think about:</p>
+<ol>
+<li>There is the latest version of the page source stored in subversion.</li>
+<li>There is your working copy of that page source, which you are editing.</li>
+<li>There is the generated HTML from that source, in the staging directory.</li>
+<li>There is the production version of the HTML, which is what the public sees.</li>
+</ol>
+<p>The general flow for updating the website is:</p>
+<ol>
+<li>You check out the latest version of the web page&rsquo;s source.</li>
+<li>You edit the page source using <a href="http://daringfireball.net/projects/markdown/syntax">Markdown text syntax</a> (mdtext).</li>
+<li>You commit the source into the repository.  (You will see the SVN commit mail with
+    your log message.)</li>
+<li>The commit automatically triggers a build that converts the markdown files 
+    into HTML files in the staging directory.  (You will see a commit mail with &ldquo;Staging
+    update by buildbot&rdquo; as log message.)</li>
+<li>You verify that the staged webpage is correct and then tell the CMS to publish 
+    the changes to the production directory.  (You will see a commit mail with &ldquo;Publishing
+    merge to openofficeorg site by <your Apache ID>&rdquo; as log message.)</li>
+</ol>
+<p>The intent of this workflow is to allow committers flexibility in changing 
+webpages and testing changes on a staging website, before moving these changes to
+the public web site.</p>
+<h2 id="command-line-editing-workflow">Command line editing workflow<a class="headerlink" href="#command-line-editing-workflow" title="Permanent link">&para;</a></h2>
+<p>It is assumed that you have already checked out the code from the SVN repository
+(https://svn.apache.org/repos/asf/openoffice).</p>
+<p>Edit the file via your favorite editor like vi and finally commit via SVN:</p>
+<div class="highlight"><pre><span></span><code><span class="err"> vi myfile.mdtext</span>
+<span class="err"> svn ci -m&quot;My log message&quot; myfile.mdtext</span>
+</code></pre></div>
+
+<p>Now wait a few seconds so that the entire website can be rebuilt.
+Verify the staged webpage in a web browser at:</p>
+<div class="highlight"><pre><span></span><code><span class="err"> http://openofficeorg.staging.apache.org/openofficeorg/myfile.html</span>
+</code></pre></div>
+
+<p>Then publish the site:</p>
+<div class="highlight"><pre><span></span><code><span class="err">curl -sL http://s.apache.org/cms-cli | perl</span>
+</code></pre></div>
+
+<p>If this does not work on your local machine just do it on &ldquo;people.apache.org&rdquo; by
+executing this:</p>
+<div class="highlight"><pre><span></span><code><span class="err">ssh -t &lt;user&gt;@people.apache.org publish.pl openofficeorg &lt;your Apache ID&gt;</span>
+</code></pre></div>
+
+<h2 id="browser-based-editing-workflow">Browser-based editing workflow<a class="headerlink" href="#browser-based-editing-workflow" title="Permanent link">&para;</a></h2>
+<h3 id="prerequisites">Prerequisites<a class="headerlink" href="#prerequisites" title="Permanent link">&para;</a></h3>
+<h4 id="browser-bookmark">Browser bookmark<a class="headerlink" href="#browser-bookmark" title="Permanent link">&para;</a></h4>
+<p>Normally you see the webpage in your browser. To update this page with an
+inline-editor and little preview you use the <a href="javascript:void(location.href='https://cms.apache.org/redirect?uri='+escape(location.href))">Apache CMS</a> JavaScript bookmarklet.  Drag that 
+link to your browser&rsquo;s toolbar.  For more information see <a href="https://cms.apache.org/#bookmark">here</a>.</p>
+<h4 id="apache-id">Apache ID<a class="headerlink" href="#apache-id" title="Permanent link">&para;</a></h4>
+<p>Furthermore, you need an Apache ID to authenticate to the system.</p>
+<h3 id="starting">Starting<a class="headerlink" href="#starting" title="Permanent link">&para;</a></h3>
+<p>Browse to the webpage or directory you would like to edit and click on
+the bookmarklet. Now click on the [Edit this directory] link on the top. The following
+is displayed as content from the CMS.</p>
+<h3 id="edit-an-existing-webpage">Edit an existing webpage<a class="headerlink" href="#edit-an-existing-webpage" title="Permanent link">&para;</a></h3>
+<p>Click on the actions link [Edit] in the appropriate table cell for editing the
+current file. If the file is not in this directory but in a subdirectory, just click on
+the directory name (e.g., &ldquo;docs/&rdquo;) to enter this directory.</p>
+<p>Now you should see a new webpage with four fields:</p>
+<ol>
+<li>Upper left is the inline editor for text in markdown syntax.</li>
+<li>Upper right shows the written text as a permanent preview or as HTML source code.</li>
+<li>Below the editor you can enter a log message.</li>
+<li>Enter a general header text, e.g., the license of the entered text.</li>
+</ol>
+<p>When you have finished writing your text, check the &ldquo;Quick Commit&rdquo; box, enter a
+commit message and click on [Submit].  This commits your changes to the Subversion 
+repository.</p>
+<h3 id="verifying-the-staged-web-site">Verifying the staged web site<a class="headerlink" href="#verifying-the-staged-web-site" title="Permanent link">&para;</a></h3>
+<p>As noted above, committing your changes triggers a build of the markdown files
+into HTML in the staging directory.  Wait a few
+seconds and then click the [Staged] link to view your web page as staged.</p>
+<p>At this point you should test your web page.  Does it look right?  Any spelling 
+errors? Do the links work?  If you&rsquo;ve made substantial changes, perhaps test in
+more than one browser.</p>
+<p>Once you are satisfied that the page is correct, you are ready to publish it
+to the production site.</p>
+<h3 id="publishing-to-the-production-directory">Publishing to the production directory<a class="headerlink" href="#publishing-to-the-production-directory" title="Permanent link">&para;</a></h3>
+<p>After you have edited your files and/or directories, you need now to publish your
+modifications into production. For this please click on the link
+[Publish site] on the top of the webpage. Enter a commit message on click 
+on [Submit].  After a few seconds you can check the [Production] link to see the
+live version of your changes.  </p>
+<h3 id="create-a-new-webpage">Create a new webpage<a class="headerlink" href="#create-a-new-webpage" title="Permanent link">&para;</a></h3>
+<p>When in the correct directory, at the top enter a name for the new text file (e.g.,
+&ldquo;my-file.mdtext&rdquo;). Now you enter your text (see topic above).</p>
+<h3 id="create-new-subdirectory">Create new subdirectory<a class="headerlink" href="#create-new-subdirectory" title="Permanent link">&para;</a></h3>
+<p>When in the correct directory, at the top enter a name for the new directory (e.g.,
+&ldquo;my-dir/&rdquo;). Make sure you entered a trailing &ldquo;/&rdquo;!</p>
+<h3 id="delete-a-webpage-or-subdirectory">Delete a webpage or subdirectory<a class="headerlink" href="#delete-a-webpage-or-subdirectory" title="Permanent link">&para;</a></h3>
+<p>When in the correct directory, click on the actions link [Delete] in the appropriate
+table cell and enter a commit message. Finally click on [Submit].  Generally speaking
+it is always a good idea to use the CMS to delete files and directories over using
+the command-line svn interface, as the CMS will ensure everything gets deleted from
+the staging (and eventually production) repository on commit.  If you use the command-
+line interface instead, you will also need to manually delete the corresponding entities
+in the staging repository in order for those changes to propagate to the production site.</p>
+<h2 id="links">Links<a class="headerlink" href="#links" title="Permanent link">&para;</a></h2>
+<p><a href="http://www.apache.org/dev/cmsref.html">CMS Documentation Reference</a></p>
+
+        <p>
+        Last updated: Mon 28 June 2021
+        </p>
+  </div>
+
+  <div id="footera">
+
+    <div id="asfbanner">
+      <p>
+         <a class="acevent" data-format="wide" data-mode="light" data-event="random"></a>
+      </p>
+    </div>
+
+    <div id="poweredby">
+      <p><a href="https://www.apache.org/"><img src="/images/asf_logo_small.png" alt="Apache Software Foundation" height="76" width="188"/></a></p>
+    </div>
+
+    <div id="copyrighta">
+      <p style="text-align:center;">
+          Copyright &copy; 2011-2021 The Apache Software Foundation, Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a> | <a href="/contact.html">Contact Us</a> | <a href="/terms.html">Terms of Use</a> | <a href="/privacy.html">Privacy</a>
+      </p>
+      <p>
+          Apache, OpenOffice, OpenOffice.org and the seagull logo are registered trademarks of The Apache Software Foundation.
+          The Apache feather logo is a trademark of The Apache Software Foundation.
+          Other names appearing on the site may be trademarks of their respective owners.
+      </p>
+
+    </div>
+  </div>
+
+</body>
+</html>

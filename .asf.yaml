@@ -1,0 +1,28 @@
+github:
+  description: "Apache OpenOffice Project Website"
+  homepage: "https://openoffice.apache.org/"
+  labels:
+    - openoffice
+    - apache
+    - website
+
+notifications:
+  commits:      commits@openoffice.apache.org
+  issues:       dev@openoffice.apache.org
+  pullrequests: dev@openoffice.apache.org
+
+pelican:
+  notify:       commits@openoffice.apache.org
+  autobuild:    preview/*
+  target:       asf-site
+  theme:        theme/openoffice
+  minimum_page_count: 10
+  whoami:       main
+
+staging:
+  profile: ~
+  whoami: asf-site
+  autostage: preview/*
+
+publish:
+  whoami:       asf-site
