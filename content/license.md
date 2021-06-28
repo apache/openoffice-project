@@ -171,7 +171,7 @@ liability.
 
 END OF TERMS AND CONDITIONS
 
-# APPENDIX: How to apply the Apache License to your work # {#apply}
+# APPENDIX: How to apply the Apache License to your work {#apply}
 
 To apply the Apache License to your work, attach the following boilerplate
 notice, with the fields enclosed by brackets "[]" replaced with your own

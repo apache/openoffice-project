@@ -18,13 +18,13 @@ This page gives instructions on performing basic development tasks using the Sub
 * [Merging changes to a branch](#merging_changes)
 * [Further Information](#further_information)
 
-## <a id="overview"></a>Overview
+## Overview {#overview}
 
 You begin using Subversion by copying a directory from a remote repository to a local directory on your file system. This is known as a checkout of a working copy.
 
 Subversion uses a copy-modify-merge model meaning that you can add and edit files and directories in your working copy like any other files on your system, but you should use subversion commands for everything else such as `svn copy` and `svn move` instead of the operating system commands.
 
-## <a id="sub-commands_and_abbreviations"></a>Sub-commands and Abbreviations
+## Sub-commands and Abbreviations {#sub-commands_and_abbreviations}
 
 Subversion commands can be run from a command shell such as Bash on Linux. The subversion client command is `svn` followed by optional sub-commands, options, and arguments.
 
@@ -53,7 +53,7 @@ The following is only a partial list of sub-commands relating to this instructio
 * `status` - Print the status of working copy files and directories
 * `update` - Bring changes from the repository into your working copy
 
-## <a id="client_configuration"></a>Client Configuration
+## Client Configuration {#client_configuration}
 
 Committers need to [configure their Subversion client][6] to handle the differences in line endings of text files on different operating systems.
 
@@ -61,7 +61,7 @@ There are instances where Subversion may need to open an editor. You need to hav
 
     $ export EDITOR=/usr/bin/vim
 
-## <a id="repository_layout"></a>Repository Layout
+## Repository Layout {#repository_layout}
 
 The AOO repository layout uses the following top-level directories `branches`, `site`, `tags`, and `trunk`.
 
@@ -87,7 +87,7 @@ From the parent directory of where you want the working copy. In this example th
 
 "A" indicates file or directory is "Added" to working copy
 
-## <a id="basic_work_cycle"></a>Basic Work Cycle
+## Basic Work Cycle {#basic_work_cycle}
 
 * Update your working copy - For this you use the `svn update` command
 *  Make changes - For this you may edit files in an editor, or use the `svn add`, `svn delete`, `svn copy`, `svn-move` commands
@@ -201,7 +201,7 @@ If you choose `e`, Subversion will launch an editor with both sets of changes in
 
 "G" indicates "merGed"
 
-## <a id="committing_changes"></a>Committing Changes
+## Committing Changes {#committing_changes}
 
 Only Committers can commit directly to the repository. The following example shows using your Apache ID and password.
 
@@ -218,7 +218,7 @@ you don't specify, SVN will commit **all** your changes.
 
 For further information see the [Basic Work Cycle][8] page from [Subversion Book][2].
 
-## <a id="commit_message"></a>Commit Message
+## Commit Message {#commit_message}
 The examples in the previous sections use a simple commit message with the "-m" option.
 
 This is fine for some quick testing or for large bulk commits of code that you wrote.
@@ -244,7 +244,7 @@ Use of the special fields will enable processing by scripts like the
 contributors.
 
 
-## <a id="committing_changes_by_others"></a>Committing Changes By Others
+## Committing Changes By Others {#committing_changes_by_others}
 
 See the [Applying Patches][9] section of the Committer FAQ page. Please use the special fields 
 described in the previous Commit Message section to commit changes supplied by others. 
@@ -263,7 +263,7 @@ An alternative way is the following command. It adds a new line with "\n":
       John Doe <john.doe.at.null.org>\nSubmitted by: John Doe /
       <john.doe.at.null.org>' test-file.txt
 
-## <a id="creating_and_submitting_patches"></a>Creating and Submitting Patches
+## Creating and Submitting Patches {#creating_and_submitting_patches}
 
 See the [Sending in Patches][10] section on the Contributors Tech Guide page.
 
@@ -271,7 +271,7 @@ Create the patch file from `svn diff` where `your-patch-name.patch` is the full 
 
     svn diff > your-patch-name.patch
 
-## <a id="merging_changes"></a>Merging changes to a branch
+## Merging changes to a branch {#merging_changes}
 
 New development is done in the "trunk", development area, of the tree. Stable, release branches, are specifically named and can be found
 in the [branches](http://svn.apache.org/viewvc/openoffice/branches/)  area of the openoffice svn tree. With few exceptions you do **NOT** do direct commits to the stable, release,
@@ -331,7 +331,7 @@ and commit from the aoo-update directory:
      Transmitting file data ..
      Committed revision 1347377.
 
-## <a id="further_information"></a>Further Information
+## Further Information  {#further_information}
 
 For more information see: 
 

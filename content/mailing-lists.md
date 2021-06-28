@@ -38,7 +38,7 @@ Every OpenOffice mailing list has a list address, of the form:
 *xyz*@openoffice.apache.org, where you **replace "*xyz*" with the actual list name**,
 such as "dev" or "qa" or "marketing".
 
-### Basic Operations ###
+### Basic Operations
 
 There are three basic operations you should know about:
 
@@ -229,7 +229,7 @@ people and tries to help to find the right part. This is a low traffic list.
 - Apache Archives: [current][87]
 - Third-party Archives: [Mail Archive][81]
 
-##<a id="native-lang-lists"></a> Native Language (non-English) Mailing Lists
+## Native Language (non-English) Mailing Lists {#native-lang-lists}
 
 The project has several mailing lists for discussion about OpenOffice in native
 (non-English) languages.

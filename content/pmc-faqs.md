@@ -14,7 +14,7 @@ is responsible for the project and decides what to do and which direction to go.
 <br> ([see here for a list of PMC members][1])
 
 
-# Who is the Admin/Moderator/Owner for X? # {#moderator}
+# Who is the Admin/Moderator/Owner for X? {#moderator}
 
 Although Apache projects have few formal roles, there are some technical subsystems
 which have admin or similar roles filled by project volunteers. If you have a question

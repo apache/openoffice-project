@@ -1,7 +1,7 @@
 Title:     Introduction to Development
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-##Introduction
+## Introduction
 
 In this orientation module you will learn how to get started programming OpenOffice.
 
@@ -15,7 +15,7 @@ Note: In parallel with the Dev-specific items on this page, you may want to also
 
 Now with the introductions out of the way, let's get started!
 
-##OpenOffice Development: Good, the Bad and the Ugly
+## OpenOffice Development: Good, the Bad and the Ugly
 
 Let's be honest. The size, age and complexity of OpenOffice's C++ codebase makes coding a challenge. This is not a trivial codebase to learn. But if you like a good challenge then you'll love this project! There are tasks suitable for programmers with a range of programming experience, and we have many veteran OpenOffice hackers in the project who are happy to answer your questions.
 
