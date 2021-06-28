@@ -28,26 +28,28 @@ hope that as a Committer you will be even more active.
 But before you are officially given Committer permissions, there are a few 
 administrative steps that you will need to complete. 
 
- 1. Submit a signed [ICLA] [4] to Apache.
- 1. Wait for the ICLA to be received and recorded by Apache. You will know 
-when this has occurred when your name appears in the [Unlisted ICLAs] [5] section 
-on the Apache Committers page. This could take a couple of days, longer if you
-submitted the ICLA via post.
- 1. Once the your ICLA has been recorded, you should send a note to the [PMC] [6] 
-and request an Apache account. You will want to include your full name and email address, 
-as you entered in the ICLA, as well as your preferred userid. Please [check first] [7] 
-that your preferred userid is not already in use by another Apache Committer.
- 1. Once your Apache account has been created, you will receive an email with
-further instructions for setting up your account. This may take a couple of days.
- 1. If you were also voted as a PMC member, you should then [subscribe] [8] to the 
-PMC's private mailing list.
+1. Submit a signed [ICLA] [4] to Apache.
+1. Wait for the ICLA to be received and recorded by Apache. You will know 
+   when this has occurred when your name appears in the [Unlisted ICLAs] [5] section 
+   on the Apache Committers page. This could take a couple of days, longer if you
+   submitted the ICLA via post.
+1. Once the your ICLA has been recorded, you should send a note to the [PMC] [6] 
+   and request an Apache account. You will want to include your full name and email address, 
+   as you entered in the ICLA, as well as your preferred userid. Please [check first] [7] 
+   that your preferred userid is not already in use by another Apache Committer.
+1. Once your Apache account has been created, you will receive an email with
+   further instructions for setting up your account. This may take a couple of days.
+1. If you were also voted as a PMC member, you should then [subscribe] [8] to the 
+   PMC's private mailing list.
 
- 1. Finally, you should read the ["Guide for new committers"] [9]
+1. Finally, you should read the ["Guide for new committers"] [9]
 
 
 ## I'm not a committer, but would like to contribute, what should I do? 
 
 Apache OpenOffice welcomes your contributions!
+
+> The project now uses Git.
 
 To contribute to the OpenOffice product, you will need to submit subversion patches ("diff" files), and attach them to issues in our [issues reporting system](https://bz.apache.org/ooo/), Bugzilla.
 
@@ -78,7 +80,7 @@ Apache OpenOffice makes use of buildbots for some of our environments. You can r
 
 Development snapshots, which are manually generated, are used as the final step leading up to a release. These are used for final testing before an approved release. You will also find helpful hints for specific platform building here.
 
->[the Unofficial Development Snapshots page](https://cwiki.apache.org/confluence/display/OOOUSERS/Development+Snapshot+Builds)
+> [the Unofficial Development Snapshots page](https://cwiki.apache.org/confluence/display/OOOUSERS/Development+Snapshot+Builds)
 
 
 Also, please see the [Planning Area of the Project Wiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Project+Planning) for

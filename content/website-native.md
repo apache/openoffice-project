@@ -41,17 +41,17 @@ the following. If you are not a committer and are not familiar with Subversion t
 will want to get help with these steps by asking on the mailing list.
 
 1. Make a copy (svn copy) of the
-[ooo-site/trunk/content/xx directory](https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/content/xx/)
-as ooo-site/trunk/content/test-it. In the copy replace all instances of "/xx" in paths,
-files and also within files with "/test-it". Then replace occurrences of "xx" with "it" (not "test-it")
-and rename the "msg_prop_l10n_xx.js" file to "msg_prop_l10n_it.js"
+   [ooo-site/trunk/content/xx directory](https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/content/xx/)
+   as ooo-site/trunk/content/test-it. In the copy replace all instances of "/xx" in paths,
+   files and also within files with "/test-it". Then replace occurrences of "xx" with "it" (not "test-it")
+   and rename the "msg_prop_l10n_xx.js" file to "msg_prop_l10n_it.js"
 1. Also make a copy of
-[ooo-site/trunk/templates/xx](https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/templates/xx/)
-and call the copy ooo-site/trunk/templates/test-it.
+   [ooo-site/trunk/templates/xx](https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/templates/xx/)
+   and call the copy ooo-site/trunk/templates/test-it.
 1. Commit these changes and publish via the CMS
 1. If you are a committer then you can translate the contents of the files in /test-it
-locally or via the CMS, whatever you prefer. If you are not a committer then ask someone
-to do an "svn export" of the new /test-it and send a ZIP file of the contents.
+   locally or via the CMS, whatever you prefer. If you are not a committer then ask someone
+   to do an "svn export" of the new /test-it and send a ZIP file of the contents.
 
 **Important:**
 <br />
@@ -64,10 +64,10 @@ The files will be in two main formats:
 
 1. HTML files.
 1. Markdown text files.
-[Need to know more about Markdown Text?](https://daringfireball.net/projects/markdown/basics)
+   [Need to know more about Markdown Text?](https://daringfireball.net/projects/markdown/basics)
 
-In your translation, do not change the file or directory names. Be careful to preserve
-the markup of the HTML and the indentation levels of the MDText files.
+   In your translation, do not change the file or directory names. Be careful to preserve
+   the markup of the HTML and the indentation levels of the MDText files.
 
 ## The Template
 
@@ -104,18 +104,18 @@ exist.
 A few other things to watch out for.
 
 1. Some files contain an Apache License header at the top of the page. You should not
-translate that.
+   translate that.
 1. Some files contain comments. These don't need to be translated, but no harm is done if
-they are.
+   they are.
 1. The /download/index.html requires special care since the language strings are stored in
-a the separate Javascript file "msg_prop_l10n_xx.js". The file "index.html" contains only
-the variables. Look for the further section if you need more help on this.
+   a the separate Javascript file "msg_prop_l10n_xx.js". The file "index.html" contains only
+   the variables. Look for the further section if you need more help on this.
 1. It is easy to miss the social networking messages in /download/index.html.
-These are in the HTML header block and in function shareTwitter(). The string is something
-like "Join the OpenOffice revolution, the free office productivity suite with over 275
-million trusted downloads."
-You should translate these, but adapt if needed to keep the string within the 280 limit
-for Twitter.
+   These are in the HTML header block and in function shareTwitter(). The string is something
+   like "Join the OpenOffice revolution, the free office productivity suite with over 275
+   million trusted downloads."
+   You should translate these, but adapt if needed to keep the string within the 280 limit
+   for Twitter.
 
 ## How to find the right text for the file at the right place?
 
@@ -167,8 +167,8 @@ Also many links in the navigation bar refers to global webpages.
 It may be desired to add language-specific custom content to the website. For example:
 
 - A localized Arabic website might want a special page dedicated to a description of how
-to use the bidirectional text features in OpenOffice. The Tamil website might want a page
-that links to a particular open source font download that is recommended.
+  to use the bidirectional text features in OpenOffice. The Tamil website might want a page
+  that links to a particular open source font download that is recommended.
 - There may be a local OpenOffice-related event that you want to publicize.
 
 New content pages can be added to your NL directory and links page from a navigator or

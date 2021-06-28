@@ -7,10 +7,10 @@ Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 OpenOffice is currently looking for people with the following:
 
-  - Are you a software developer with C++ skills?
-  - Do you have expertise with build systems for different platforms?
-  - Are you proficient in English?
-  - Do you like contributing to open source projects?
+- Are you a software developer with C++ skills?
+- Do you have expertise with build systems for different platforms?
+- Are you proficient in English?
+- Do you like contributing to open source projects?
 
 Come and join us in helping OpenOffice to thrive. Subscribe to the
 [recruitment mailing list](http://openoffice.apache.org/mailing-lists.html#recruitment-mailing-list-public)
@@ -25,17 +25,17 @@ contribution), some users want to do more and volunteer their time and expertise
 the project. There are many motivations for why volunteers participate in an open source
 project like OpenOffice. Some of the more common ones include:
 
-  - To help reduce the "digital divide" by ensuring continued access to free
-high-quality free productivity applications world-wide.
-  - To help bring the benefits of OpenOffice to your country or region
-  - To "give back" to open source
-  - To learn or practice a new skill
-  - To enhance a résumé or portfolio, showcasing the work you've done in this project
-  - To support a customer or other commercial venture that relies on OpenOffice
-  - To develop credentials for consulting work related to OpenOffice
-  - To bring something to OpenOffice that you've always wanted to see done
-  - To have fun, working with a close-knit international team of volunteers working on
-one of the oldest and most famous open source projects around.
+- To help reduce the "digital divide" by ensuring continued access to free
+  high-quality free productivity applications world-wide.
+- To help bring the benefits of OpenOffice to your country or region
+- To "give back" to open source
+- To learn or practice a new skill
+- To enhance a résumé or portfolio, showcasing the work you've done in this project
+- To support a customer or other commercial venture that relies on OpenOffice
+- To develop credentials for consulting work related to OpenOffice
+- To bring something to OpenOffice that you've always wanted to see done
+- To have fun, working with a close-knit international team of volunteers working on
+  one of the oldest and most famous open source projects around.
 
 
 ## A multidisciplinary open source project
@@ -46,17 +46,17 @@ involved in OpenOffice, there is almost certainly a role for you.
 
 We are looking for people to:
 
-  - Work on bug reports and try to reproduce them
-  - Write new or improve existing documentation and about technical topics 
-  - Help support new users
-  - Test the program and report problems
-  - Fix bugs
-  - Code new features
-  - Design artwork and other marketing materials
-  - Translate the UI and help topics to different languages
-  - Maintain the website and develop new materials
-  - Promote OpenOffice and help explain its benefits
-  - Anything you can see that needs doing
+- Work on bug reports and try to reproduce them
+- Write new or improve existing documentation and about technical topics 
+- Help support new users
+- Test the program and report problems
+- Fix bugs
+- Code new features
+- Design artwork and other marketing materials
+- Translate the UI and help topics to different languages
+- Maintain the website and develop new materials
+- Promote OpenOffice and help explain its benefits
+- Anything you can see that needs doing
 
 All of these contributions help to keep a project active and strengthen the community.
 We welcome and encourage participation, and try to make it as easy as possible for

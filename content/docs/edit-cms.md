@@ -13,7 +13,7 @@ Workflow is described in the README files in each repository.
 
 -----
 
-**The Apache CMS is deprecated**. Some of the material below is still useful and can be repurposed.
+**The Apache CMS is obsolete**. Some of the workflow below _might_ be useful and can be repurposed.
 
 -----
 

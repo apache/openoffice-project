@@ -1,7 +1,7 @@
 Title:     Introduction to Documentation
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-##Introduction
+## Introduction
 
 In this orientation module you will learn how to get started in the OpenOffice Documentation Team.
 
@@ -15,7 +15,7 @@ Note: In parallel with the Doc-specific items on this page, you may want to also
 
 Now with the introductions out of the way, let's get started!
 
-##The Big Picture
+## The Big Picture
 
 As a popular end-user facing product, Apache OpenOffice is used by millions of people around the world, with a wide range of skills and backgrounds. Some have been using OpenOffice for decades. Others are just moving over from Microsoft Office. Some are very familiar with computers and their operating systems. Others may be using a computer for the first time. Some are doing just basic editing. Others are "power users" and are creating complex applications built on top of OpenOffice.
 
@@ -29,7 +29,7 @@ When users have a question, when they get stuck, there are a wide range of optio
 
 The documentation we write aids both the end-users as well as those who support the end users. We aim to provide authoritative, up-to-date material for Apache OpenOffice, and to aid users of all skill levels. If we do our tasks well, users are more satisfied and more productive.
 
-##Varieties of Documentation
+## Varieties of Documentation
 
 We maintain documentation in a variety of forms:
 
@@ -39,7 +39,7 @@ We maintain documentation in a variety of forms:
 
 All OpenOffice documentation is housed on the [OpenOffice wiki](https://wiki.openoffice.org/wiki/Documentation) for ease of maintenance by volunteers with the exception of the help files which are integrated with the OpenOffice product itself.
 
-##Goals and Constraints
+## Goals and Constraints
 
 In our documentation work we need to be aware of the following goals and constraints:
 
@@ -48,7 +48,7 @@ In our documentation work we need to be aware of the following goals and constra
   - We use the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) for all project deliverables. This "permissive" open source license ensures that everyone has the ability to adapt and reuse the documentation that we create. But it also means that we need to be careful about what other 3rd party material we use in our documentation. Until you are familiar with the Apache rules for using 3rd party material into an Apache product, you should start a discussion on the mailing list for any 3rd party material you want to reuse. This includes material from the legacy OpenOffice.org project as well, since some of that was under a different license.
   - We're aiming to provide as much content as possible in the form of MWiki pages. These are easy for users to access, from any device. Also, since they are indexed by search engines they will be easy to find for the users who like to resolve issues by searching Google for solutions.
 
-##Volunteers are Welcome
+## Volunteers are Welcome
 
 We're looking for volunteers with technical writing experience, a good working knowledge of OpenOffice, or ideally both. The ability to collaborate with others in written English on the mailing list is required, but you just need to be understandable. For the actual writing, we have editor volunteers who will review and edit the rough drafts to fix any language errors. So you don't need to have native-level English skills.
 
@@ -62,7 +62,7 @@ Volunteers on the Documentation Team work on a variety of tasks, including:
   - Preparing screenshots, diagrams and artwork for covers.
   - Developing tools and scripts to aid in repetitive tasks, such as document format conversions.
 
-##Getting Started
+## Getting Started
 
 The Documentation Team is the easiest one to get started with. There are just a few basic steps:
 

@@ -12,16 +12,16 @@ Apache, then much of this will already be familiar to you.
 
 1. It is important that you understand a little about the Apache Software Foundation and OpenOffice, what it is, how it is organized and how the Apache OpenOffice Project fits into the overall Foundation. This is partially organizational knowledge and a little history. But it is important for understanding how things work here, and understanding the culture of this open source community. Suggested readings are:
 
-	1. [How It Works](https://apache.org/foundation/how-it-works.html) (to learn about how the ASF is organized and how its meritocracy works)
-	1. [ASF FAQ's](https://www.apache.org/foundation/faq.html) (browse to see if it answers any questions you might have)
-	1. [OpenOffice Wikipedia article](https://en.wikipedia.org/wiki/OpenOffice) (for basic historical background)
-	1. [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/)
+   1. [How It Works](https://apache.org/foundation/how-it-works.html) (to learn about how the ASF is organized and how its meritocracy works)
+   1. [ASF FAQ's](https://www.apache.org/foundation/faq.html) (browse to see if it answers any questions you might have)
+   1. [OpenOffice Wikipedia article](https://en.wikipedia.org/wiki/OpenOffice) (for basic historical background)
+   1. [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](https://smartbear.com/blog/test-and-monitor/14-ways-to-contribute-to-open-source-without-being/)
 
 1. As a globally-distributed all-volunteer open source project, there is never a time or place where we can all meet together in the same room or even on a telephone call. Because of this, and out of respect for everyone's busy and varying schedule, we use mailing lists to coordinate our work, make proposals, gather consensus and resolve community issues. There are three mailing lists that every Volunteer should be on:
 
-	1. [dev](https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public) This is the main mailing list for the project, and gets a lot of traffic. But this is where project-wide discussions occur.
-	1. [announce](https://openoffice.apache.org/mailing-lists.html#announce-mailing-list) This is the official announcement list for the project. It is used for announcing things like new releases, security patches, conferences, etc.
-	1. [users](https://openoffice.apache.org/mailing-lists.html#users-mailing-list-public) This is our users list and is one way in which we provide support to end users. Although you may not be interested specifically in user support, it is still recommended that you follow this list, even if just to get a feel for user concerns, problems, feature ideas, etc.
+   1. [dev](https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public) This is the main mailing list for the project, and gets a lot of traffic. But this is where project-wide discussions occur.
+   1. [announce](https://openoffice.apache.org/mailing-lists.html#announce-mailing-list) This is the official announcement list for the project. It is used for announcing things like new releases, security patches, conferences, etc.
+   1. [users](https://openoffice.apache.org/mailing-lists.html#users-mailing-list-public) This is our users list and is one way in which we provide support to end users. Although you may not be interested specifically in user support, it is still recommended that you follow this list, even if just to get a feel for user concerns, problems, feature ideas, etc.
 
 1. You can also review other mailing lists we host and which may be of interest, including ones focused on specific [project functions](https://openoffice.apache.org/mailing-lists.html) and [native languages](https://openoffice.apache.org/native-lang.html).
 
@@ -35,10 +35,10 @@ Apache, then much of this will already be familiar to you.
 
 1. Aside from the mailing lists there are several online services that every volunteer should be signed up for:
 
-	1. Our [MediaWiki](https://wiki.openoffice.org/wiki/Main_Page) (sometimes called MWiki) used for user documentation and many other things.
-	1. Our [ConfluenceWiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home) (sometimes called CWiki) where we do project planning.
-	1. Our [Bugzilla database](https://bz.apache.org/ooo/) (sometimes called BZ) where we report and track status on bugs.
-	1. Our [Community Forums](https://forum.openoffice.org/) These are available in several languages. This is the primary way in which we engage with the user community.
-	1. Join our [Social Networks](https://openoffice.apache.org/social.html)
+   1. Our [MediaWiki](https://wiki.openoffice.org/wiki/Main_Page) (sometimes called MWiki) used for user documentation and many other things.
+   1. Our [ConfluenceWiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home) (sometimes called CWiki) where we do project planning.
+   1. Our [Bugzilla database](https://bz.apache.org/ooo/) (sometimes called BZ) where we report and track status on bugs.
+   1. Our [Community Forums](https://forum.openoffice.org/) These are available in several languages. This is the primary way in which we engage with the user community.
+   1. Join our [Social Networks](https://openoffice.apache.org/social.html)
 
 1. Finally, once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add your information. Congratulations! Please send a note to [volunteer@openoffice.apache.org](mailto:volunteer@openoffice.apache.org?subject=Completed Introduction to Contributing to Apache OpenOffice Module) so we know.

@@ -12,10 +12,12 @@ pages are updated by the project community.
 The Apache OpenOffice project maintains two websites:
 
 * The [project website](https://openoffice.apache.org/), primarily for development and technical information (which you're viewing now). 
- All content for this website uses [Markdown](http://daringfireball.net/projects/markdown/) syntax (.mdtext files).
+  All content for this website uses [Markdown](http://daringfireball.net/projects/markdown/) syntax (.mdtext files).
 * The user portal, [www.openoffice.org](https://www.openoffice.org), primarily for end user information and support.
- Content for the user portal primarily uses html, but some content is in
- [Markdown](http://daringfireball.net/projects/markdown/) syntax (.mdtext files).
+  Content for the user portal primarily uses html, but some content is in
+  [Markdown](http://daringfireball.net/projects/markdown/) syntax (.mdtext files).
+
+> **The following instructions are obsolete! Both websites have been migrated away from the deprecated Apache CMS!**
 
 Both of these sites use the [Apache Content Management System](https://www.apache.org/dev/cms.html) (CMS) to manage editing, submitting changes, and updating the live websites.
 In essence, regardless of how you make changes to either web area, the changes first go
@@ -39,7 +41,7 @@ You can make changes to either site using svn (subversion). This typically invol
 doing an svn checkout, making changes to files and --
 
 * committing your changes
-if you are an "Apache committer", or 
+  if you are an "Apache committer", or 
 * submitting a "patch" (an svn "diff" file) if you are a contributor but not a "committer". 
 
 Consult your local svn implementation for how to do commits or create patches. (See also, the [SVN Book](http://svnbook.red-bean.com/) ). 
@@ -47,12 +49,12 @@ Consult your local svn implementation for how to do commits or create patches. (
 Patches, svn "diff" files can be submitted in a variety of ways:
 
 * File an issue using [OpenOffice Bugzilla](https://bz.apache.org/ooo/) and select the "www"
-category to file it. You should then use your saved patch as an attachment to the
-issue. Please send a follow-up e-mail to [dev](mailto:dev@openoffice.apache.org) and provide the
-issue number so we can follow-up.
+  category to file it. You should then use your saved patch as an attachment to the
+  issue. Please send a follow-up e-mail to [dev](mailto:dev@openoffice.apache.org) and provide the
+  issue number so we can follow-up.
 
 * Patches can be submitted as attachments to e-mail to the 
-[Apache OpenOffice developer](mailto:dev@openoffice.apache.org) list.
+  [Apache OpenOffice developer](mailto:dev@openoffice.apache.org) list.
 
 Changes committed with SVN commit your changes to the "staging area". These changes will need to be published to become active on the "production" site.
 
@@ -75,13 +77,12 @@ As previously noted, changes you make, either through an svn commit or using the
 are enacted on the staging sites. Once you review your changes on the staging site,
 you can "publish" the site -- enacting your changes on the production site. Only Apache "committers" can actually publish sites.  
 
-
 * You can use the CMS GUI tool to also commit, review, and publish your changes from the 
-staging site. 
+  staging site. 
 * Or, you can use the "publish" link for a site from the [CMS Web Site](https://cms.apache.org/)
-after reviewing it in staging from a "commit" operations.
+  after reviewing it in staging from a "commit" operations.
 * Or, you can use the command line, **publish.pl "site-name"**. For our purposes,
-**"site-name"** will either be **"openofficeorg"** or **"ooo-site"**. 
+  **"site-name"** will either be **"openofficeorg"** or **"ooo-site"**. 
 
 Generally speaking, unless you have established a full **Complete Local Website Development** environment as described in the next
 section, you will likely be running **publish.pl** from your "people.apache.org" account.

@@ -33,7 +33,7 @@ Including SVN overhead, this requires approximately 4 GB of storage.
 ### Source archive of the latest release
 
 An archive of the source for the latest release can be obtainted from the Apache Software Foundation repository:
-    [https://archive.apache.org/dist/openoffice](https://archive.apache.org/dist/openoffice/)
+[https://archive.apache.org/dist/openoffice](https://archive.apache.org/dist/openoffice/)
 
 
 ## Browsing/Searching Source Code
@@ -47,7 +47,7 @@ main repository areas.
 ## Building and Running
 
 See the [Apache OpenOffice Building Guide page][5]
-    for an overview on building.
+for an overview on building.
 
 The [Development Snapshots builds][7] page, pre-release builds, also provide additional information on building.
 

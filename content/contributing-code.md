@@ -9,27 +9,27 @@ if one of the first things we question you about is the license and the pedigree
 
 The main requirements for contributing code to Apache OpenOffice are:
 
-  - The code must be under the Apache License 2.0 and it must be
-contributed by or with permission of the original author(s) of the code.
-Dependencies on third party libraries should be
-discussed on the [dev list](https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public),
-to see how these can be brought into conformance with
-[ASF policy](https://www.apache.org/legal/resolved.html#category-a).
-  - The code must be of sufficient quality and value  to the project that our programmer (Committers) approve it, or at least don't reject it.
-  - We're happy to accept a small patch to fix a bug here or there, without further commitment from the code author. But the larger the contribution 
-the greater is the need for help integrating, testing and maintaining the code. This doesn't necessarily
-require participation from the original author(s) of the code, though this is encouraged. But we will want to see that there is support in the community
-sufficient for sustaining the development of significant contributions.
+- The code must be under the Apache License 2.0 and it must be
+  contributed by or with permission of the original author(s) of the code.
+  Dependencies on third party libraries should be
+  discussed on the [dev list](https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public),
+  to see how these can be brought into conformance with
+  [ASF policy](https://www.apache.org/legal/resolved.html#category-a).
+- The code must be of sufficient quality and value  to the project that our programmer (Committers) approve it, or at least don't reject it.
+- We're happy to accept a small patch to fix a bug here or there, without further commitment from the code author. But the larger the contribution 
+  the greater is the need for help integrating, testing and maintaining the code. This doesn't necessarily
+  require participation from the original author(s) of the code, though this is encouraged. But we will want to see that there is support in the community
+  sufficient for sustaining the development of significant contributions.
 
 Some specific scenarios:
 
-  - For small bug fixes and enhancements, contributed by the original author of the code, these are best submitted as patches attached to a [Bugzilla issue](https://bz.apache.org/ooo/)
-  - For larger contributions, contributed by a single original author, we might ask you to
+- For small bug fixes and enhancements, contributed by the original author of the code, these are best submitted as patches attached to a [Bugzilla issue](https://bz.apache.org/ooo/)
+- For larger contributions, contributed by a single original author, we might ask you to
   submit an [Individual Contributor License Agreement (ICLA)](https://www.apache.org/licenses/icla.txt) form.
   The copyright on your code will still belong to you, but the ICLA helps
   protect the users of Apache OpenOffice. All project Committers have also signed this form.
-  - For contributions of multi-author code, it is best to start a discussion on our [dev mailing list](mailto:dev@openoffice.apache.org) so we can discuss the most appropriate way of processing it.
-  - For large codebases developed outside of Apache, especially ones created behind a corporate firewall, we typically require a [Software Grant Agreement](https://www.apache.org/licenses/cla-corporate.txt) 
+- For contributions of multi-author code, it is best to start a discussion on our [dev mailing list](mailto:dev@openoffice.apache.org) so we can discuss the most appropriate way of processing it.
+- For large codebases developed outside of Apache, especially ones created behind a corporate firewall, we typically require a [Software Grant Agreement](https://www.apache.org/licenses/cla-corporate.txt) 
   before we can accept the contribution. Again, an early discussion on our [dev mailing list](mailto:dev@openoffice.apache.org) is recommended.
 
 Note: It is perfectly fine for a programmer to contribute the same bug fix or feature patch to multiple open source projects. As the author you have the right to make your code available

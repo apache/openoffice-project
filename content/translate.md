@@ -1,7 +1,7 @@
 Title:     How to Help Translate Apache OpenOffice
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-##Introduction
+## Introduction
 
 OpenOffice traditionally has always had excellent localization support,
 especially with its support of over 100 languages, including many
@@ -25,7 +25,7 @@ while the full list of available translations,
 including incomplete and dormant ones, is available
 [here](https://github.com/apache/openoffice/tree/trunk/extras/l10n/source).
 
-##How to Help
+## How to Help
 
 First, subscribe to our localization ("L10N")
 mailing list by sending an email to
