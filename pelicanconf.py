@@ -48,10 +48,23 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Configure the asfgenid plugin                                                                                                                                                                                    
+ASF_GENID = {
+    'unsafe_tags': True,
+    'metadata': False,
+    'elements': True,
+    'headings': True,
+    'headings_re': '^h[1-4]',
+    'permalinks': True,
+    'toc': True,
+    'toc_headers': '^h[1-6]',
+    'tables': True,
+    'debug': False
+}
+
 # TOC Generator
 PLUGIN_PATHS = ['./theme/plugins']
-#PLUGINS = ['toc']
-TOC_HEADERS = r"h[1-6]"
+PLUGINS = ['asfgenid', 'pelican-gfm']
 
 # Unused links
 LINKS = ( )
