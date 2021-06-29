@@ -53,8 +53,8 @@
 | PMC/Project Blog | blogs.apache.org/OOo/ | **we can now display the most recent N blogs on the index.md** |
 | ASF/Website | www.apache.org |  |
 | ASF/License | www.apache.org/licenses |  |
-| ASF/Security | www.apache.org/security |  |
-| ASF/Events | www.apache.org/events/current-event |  |
+| ASF/Security | www.apache.org/security | **There should only be one security link** |
+| ASF/Events | **www.apache.org/events/current-event** | **There is a new approach** |
 | ASF/Donations | **www.openoffice.org/donations**  | **404** |
 | ASF/Sponsorship | www.apache.org/foundation/sponsorship |  |
 | ASF/Thanks | www.apache.org/foundation/thanks |  |
