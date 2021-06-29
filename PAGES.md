@@ -50,11 +50,11 @@
 | General/Trademarks | content/trademarks.md |     Apache OpenOffice Trademarks |
 | Community/Support  | www.openoffice.org/support/ |  |
 | Community/Planning Wiki | cwiki.apache.org/confluence/display/OOOUsers | |
-| PMC/Project Blog | blogs.apache.org/OOo/ |  |
+| PMC/Project Blog | blogs.apache.org/OOo/ | **we can now display the most recent N blogs on the index.md** |
 | ASF/Website | www.apache.org |  |
 | ASF/License | www.apache.org/licenses |  |
 | ASF/Security | www.apache.org/security |  |
 | ASF/Events | www.apache.org/events/current-event |  |
-| ASF/Donations | www.openoffice.org/donations  |  |
+| ASF/Donations | **www.openoffice.org/donations**  | **404** |
 | ASF/Sponsorship | www.apache.org/foundation/sponsorship |  |
-| ASF/Thanks | www,apache.org/foundation/thanks |  |
+| ASF/Thanks | www.apache.org/foundation/thanks |  |
