@@ -18,79 +18,79 @@ OpenOffice.org][5].
 
 *2021-05-04 -- [Apache OpenOffice][1] 4.1.10 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html)
+- [Download Source and SDK](/downloads.html)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.10+Release+Notes)
 
 *2021-02-07 -- [Apache OpenOffice][1] 4.1.9 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html)
+- [Download Source and SDK](/downloads.html)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.9+Release+Notes)
 
 *2020-11-10 -- [Apache OpenOffice][1] 4.1.8 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html)
+- [Download Source and SDK](/downloads.html)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.8+Release+Notes)
 
 *2019-09-21 -- [Apache OpenOffice][1] 4.1.7 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html)
+- [Download Source and SDK](/downloads.html)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.7+Release+Notes)
 
 *2018-11-18 -- [Apache OpenOffice][1] 4.1.6 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html)
+- [Download Source and SDK](/downloads.html)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.6+Release+Notes)
 
 *2017-12-30 -- [Apache OpenOffice][1] 4.1.5 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.5+Release+Notes)
 
 *2017-10-19 -- [Apache OpenOffice][1] 4.1.4 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.4+Release+Notes)
 
 *2016-10-12 -- [Apache OpenOffice][1] 4.1.3 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.3+Release+Notes)
 
 *2015-10-28 -- [Apache OpenOffice][1] 4.1.2 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.2+Release+Notes)
 
 *2014-08-21 -- [Apache OpenOffice][1] 4.1.1 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.1+Release+Notes)
 
 *2014-04-29 -- [Apache OpenOffice][1] 4.1.0 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1+Release+Notes)
 
 *2013-10-01 -- [Apache OpenOffice][1] 4.0.1 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.0.1+Release+Notes)
 
 *2013-07-23 -- [Apache OpenOffice][1] 4.0.0 is released!*
 
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/)
 - [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.0+Release+Notes)
 
@@ -105,13 +105,13 @@ OpenOffice.org][5].
 *2012-08-23 -- [Apache OpenOffice][1] 3.4.1 (incubating) is released!*
 
 - [Release announcement](https://blogs.apache.org/OOo/entry/announcing_apache_openoffice_3_41)
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download)
 
 *2012-05-08 -- [Apache OpenOffice][1] 3.4.0 (incubating) is released!*
 
 - [Release announcement](https://www.openoffice.org/news/aoo34.html)
-- [Download Source and SDK](https://openoffice.apache.org/downloads.html#release-archives)
+- [Download Source and SDK](/downloads.html#release-archives)
 - [Download Binaries](https://www.openoffice.org/download/archive.html)
 
 

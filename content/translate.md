@@ -37,7 +37,7 @@ in your language, you should download and
 install it. If you find errors in the translation, you can report them
 via bug reports in [Bugzilla](https://issues.apache.org/ooo/enter_bug.cgi?product=native-lang) 
 or enter a suggested fix into Pootle (more on Pootle below). You can
-contact the [L10n list](https://openoffice.apache.org/mailing-lists.html#localization-mailing-list-public)
+contact the [L10n list](/mailing-lists.html#localization-mailing-list-public)
 also for reporting errors in the English version.
 
 If an OpenOffice build is not yet available for your language, then that typically
@@ -52,7 +52,7 @@ to know how to request access to Pootle and
 find useful tips for translators.
 
 When you have completed the initial translation, send a note to the 
-[L10n list](https://openoffice.apache.org/mailing-lists.html#localization-mailing-list-public).
+[L10n list](/mailing-lists.html#localization-mailing-list-public).
 At that point we can make a special test build of Apache
 OpenOffice for you to review. If more changes are required in the
 translation, we can iterate on these steps, making changes, making new
@@ -65,6 +65,6 @@ can help review the test build and point out errors in
 translation, as well as other localization errors. Others on the
 OpenOffice project might be able to help you find other interested
 users, so let us know, via a note to the
-[L10n list](https://openoffice.apache.org/mailing-lists.html#localization-mailing-list-public)
+[L10n list](/mailing-lists.html#localization-mailing-list-public)
 if you want that help.
 

@@ -60,10 +60,10 @@ website.  You can send your links to us at our [marketing][7] mailing list.
 Also, if you run into problems, we want to hear about that as well.
 
 
-[1]: https://openoffice.apache.org/images/get-it-here/en.png
-[2]: https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public
+[1]: /images/get-it-here/en.png
+[2]: /mailing-lists.html#development-mailing-list-public
 [3]: https://www.openoffice.org
 [4]: https://www.openoffice.org/download
 [5]: https://www.openoffice.org/download/other.html
-[6]: https://openoffice.apache.org/trademarks.html
+[6]: /trademarks.html
 [7]: mailto:marketing@openoffice.apache.org

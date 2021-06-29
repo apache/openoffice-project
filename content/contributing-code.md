@@ -12,7 +12,7 @@ The main requirements for contributing code to Apache OpenOffice are:
 - The code must be under the Apache License 2.0 and it must be
   contributed by or with permission of the original author(s) of the code.
   Dependencies on third party libraries should be
-  discussed on the [dev list](https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public),
+  discussed on the [dev list](/mailing-lists.html#development-mailing-list-public),
   to see how these can be brought into conformance with
   [ASF policy](https://www.apache.org/legal/resolved.html#category-a).
 - The code must be of sufficient quality and value  to the project that our programmer (Committers) approve it, or at least don't reject it.

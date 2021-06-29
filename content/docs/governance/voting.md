@@ -91,6 +91,6 @@ that you are willing and able to implement (where appropriate).
 [See here for more mail templates][3]
 
 
-  [1]: http://openoffice.apache.org/docs/governance/consensusBuilding.html
+  [1]: /docs/governance/consensusBuilding.html
   [2]: http://rave.apache.org/docs/governance/voting.html
   [3]: http://community.apache.org/newcommitter.html

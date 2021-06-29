@@ -51,7 +51,7 @@ In the previous Module we read about collaboration on the mailings lists, how to
 
    Because the Volunteers are spread out all across the globe, in various time zones, and many have day jobs or other commitments, the convention is to wait *at least* 72 hours for feedback on a proposal.
 
-   In cases where the proposer wants to act on their proposal, if there are no objections, they should state this in the proposal. For example, "If there are no objections voiced within 72 hours, I'll go ahead and make these changes". This is called "stating lazy consensus". You can read more about lazy consensus [here](https://openoffice.apache.org/docs/governance/lazyConsensus.html).
+   In cases where the proposer wants to act on their proposal, if there are no objections, they should state this in the proposal. For example, "If there are no objections voiced within 72 hours, I'll go ahead and make these changes". This is called "stating lazy consensus". You can read more about lazy consensus [here](/docs/governance/lazyConsensus.html).
 
 4. Voting, Consensus, and Vetoes
 
@@ -63,7 +63,7 @@ In the previous Module we read about collaboration on the mailings lists, how to
 
    4. There is one disorder of community decision making that is common enough to warrant a colorful name: [bikeshedding](http://bikeshed.com/). Follow the link and read more about this topic.
 
-   5. To apply the above skills, be sure you are subscribed to the project's [main mailing list](https://openoffice.apache.org/mailing-lists.html#development-mailing-list-public). Keep your eye out for terms like "proposal", "lazy consensus", "vote" or "veto" and see how they are used in practice. Compare actual practice to the above descriptions. No, we're not perfect. But we work best and have the most fun when we follow the above guidelines. And so will you when you apply then in your own list communications!
+   5. To apply the above skills, be sure you are subscribed to the project's [main mailing list](/mailing-lists.html#development-mailing-list-public). Keep your eye out for terms like "proposal", "lazy consensus", "vote" or "veto" and see how they are used in practice. Compare actual practice to the above descriptions. No, we're not perfect. But we work best and have the most fun when we follow the above guidelines. And so will you when you apply then in your own list communications!
 
 Congratulations, you have completed this Module!
 

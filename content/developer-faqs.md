@@ -12,13 +12,13 @@ development](https://www.openoffice.org/development/). Or, take
 a look at information posted on the [Apache OpenOffice wiki](https://wiki.openoffice.org/wiki/Main_Page)
 under *Documentation - For Developers*.
 
-Of course, you will need the [source code](https://openoffice.apache.org/source.html) to do anything. We recommend building in your own environment as a first step.
+Of course, you will need the [source code](/source.html) to do anything. We recommend building in your own environment as a first step.
 
 You don't have to be an actual committer to submit code. You can submit patches through
 the Apache OpenOffice Bugzilla issue reporting system. You simply need to file an issue
 and supply your patch as an attachment to the issue.
 
-Please also see our [Orientation Modules](https://openoffice.apache.org/orientation/index.html) for information on how the project works and identifying outstanding development tasks.
+Please also see our [Orientation Modules](/orientation/index.html) for information on how the project works and identifying outstanding development tasks.
 
 ## I've just been voted in as a Committer. What do I need to do?
 
@@ -92,7 +92,7 @@ additional information on current and future releases.
 
   [1]: http://www.simpleeditions.com/59001/markdown-an-introduction
   [2]: https://svn.apache.org/repos/asf/openoffice/site
-  [3]: https://openoffice.apache.org/docs/edit-cms.html
+  [3]: /docs/edit-cms.html
   [4]: https://www.apache.org/licenses/icla.txt
   [5]: https://people.apache.org/committer-index.html#unlistedclas
   [6]: mailto:private@openoffice.apache.org

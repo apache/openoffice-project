@@ -187,7 +187,7 @@ that means also to count the votes and present the result. Every member has 1 vo
 keys: [https://dist.apache.org/repos/dist/release/openoffice](https://dist.apache.org/repos/dist/release/openoffice).
 
 [1]: https://people.apache.org/committers-by-project.html#openoffice-pmc
-[2]: https://openoffice.apache.org/mailing-lists.html
+[2]: /mailing-lists.html
 [3]: https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home
 [4]: https://incubator.apache.org/guides/participation.html
 [5]: https://www.apache.org/licenses/icla.txt
@@ -196,6 +196,6 @@ keys: [https://dist.apache.org/repos/dist/release/openoffice](https://dist.apach
 [8]: https://svn.apache.org/repos/private/committers
 [9]: https://www.apache.org/dev/new-committers-guide.html
 [10]: https://www.apache.org/dev/committers.html
-[11]: https://openoffice.apache.org/docs/governance/voting.html
+[11]: /docs/governance/voting.html
 [12]: https://issues.apache.org/jira/browse/INFRA/
 [13]: https://cwiki.apache.org/confluence/display/OOOUSERS/Help+Wanted

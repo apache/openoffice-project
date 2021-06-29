@@ -29,7 +29,7 @@ Levels 3 and 4 are specialized Levels, that focus on basic and intermediate know
 
   * [Introduction to Development](intro-development.html)
   * [Introduction to QA](intro-qa.html)
-  * [Introduction to Localization](http://openoffice.apache.org/translate.html) (How to Help Translate OpenOffice)
+  * [Introduction to Localization](/translate.html) (How to Help Translate OpenOffice)
   * [Introduction to Marketing](intro-marketing.html)
   * [Introduction to Documentation](intro-doc.html)
   * Introduction to Website Content Authoring

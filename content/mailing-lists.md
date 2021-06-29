@@ -263,7 +263,7 @@ the OpenOffice project:
 
 For any topic not covered by the above, send your post to: dev@openoffice.apache.org
 
-  [1]:  http://openoffice.apache.org/list-conduct.html
+  [1]:  /list-conduct.html
 
   [2]:  mailto:users-subscribe@openoffice.apache.org
   [3]:  mailto:users@openoffice.apache.org
@@ -305,7 +305,7 @@ For any topic not covered by the above, send your post to: dev@openoffice.apache
   [33]: http://markmail.org/search/list:org.apache.incubator.ooo-issues
   [34]: http://mail-archives.apache.org/mod_mbox/incubator-ooo-issues/
 
-  [35]: http://openoffice.apache.org/native-lang.html
+  [35]: /native-lang.html
 
   [36]: http://openoffice.markmail.org/
 

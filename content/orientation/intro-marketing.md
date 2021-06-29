@@ -5,9 +5,9 @@ In this orientation module you will be introduced to Marketing within the Apache
 
 To complete this module you should read the following material, along with associated links.
 
-But first, please subscribe to our [Marketing Mailing List](http://openoffice.apache.org/mailing-lists.html#marketing-mailing-list), and then [send a note](mailto:marketing@openoffice.apache.org?subject=Starting Intro to Marketing Module) to introduce yourself.
+But first, please subscribe to our [Marketing Mailing List](/mailing-lists.html#marketing-mailing-list), and then [send a note](mailto:marketing@openoffice.apache.org?subject=Starting Intro to Marketing Module) to introduce yourself.
 
-Note:  You may also want to review the [Level 1 and Level 2 Orientation Modules](http://openoffice.apache.org/orientation/index.html) which give an overview of the project as a whole, and a perspective on working on open source at Apache.
+Note:  You may also want to review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html) which give an overview of the project as a whole, and a perspective on working on open source at Apache.
 
 ## What is Marketing?
 
@@ -59,13 +59,13 @@ The Apache Software Foundation owns the trademarks for its projects, and they ha
 
 ## Tools for Communications
 
-- Mailing Lists: Our project-wide mailing lists are listed [here](http://openoffice.apache.org/mailing-lists.html). From a marketing perspective, the two most relevant are the dev list, which reaches the "core" team, and the announce list which reaches 9000+ users.
-- Website:  [http://www.openoffice.org](http://www.openoffice.org) and [http://openoffice.apache.org](http://openoffice.apache.org). The former gets 750K+ visits/day. We have the ability to add news stories to the front page as well as a banner message on all pages.
-- Events: Our events page is [here](http://openoffice.apache.org/events.html).
+- Mailing Lists: Our project-wide mailing lists are listed [here](/mailing-lists.html). From a marketing perspective, the two most relevant are the dev list, which reaches the "core" team, and the announce list which reaches 9000+ users.
+- Website:  [https://www.openoffice.org](https://www.openoffice.org) and [https://openoffice.apache.org](/). The former gets 750K+ visits/day. We have the ability to add news stories to the front page as well as a banner message on all pages.
+- Events: Our events page is [here](/events.html).
 - Project Blog: The Blog is [here](http://blogs.apache.org/OOo/). New posts are easily cross-promoted. With a new post, the blog easily gets 4000+ visits/day.
-- Social Networking: A list of our accounts is [here](http://openoffice.apache.org/social.html)
-- Word of Mouth:  Along with other occasional programs we have a ["Get it here!"](http://openoffice.apache.org/get-it-here.html) logo that we encourage users to put on their websites.
-- The Press: Our press contact page is [here](http://openoffice.apache.org/press.html). As you can see we seriously need some work there, and any volunteer who can make a more meaningful page here, with most-requested information, would be most welcome.
+- Social Networking: A list of our accounts is [here](/social.html)
+- Word of Mouth:  Along with other occasional programs we have a ["Get it here!"](/get-it-here.html) logo that we encourage users to put on their websites.
+- The Press: Our press contact page is [here](/press.html). As you can see we seriously need some work there, and any volunteer who can make a more meaningful page here, with most-requested information, would be most welcome.
 - Surveys:  We have the ability to poll users via surveys both informal and formal.
 - Statistics:  We maintain a variety of product and project statistics [here](http://www.openoffice.org/stats/).
 

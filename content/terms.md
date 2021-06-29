@@ -52,7 +52,7 @@ Terms of Use for Apache OpenOffice web site
 
    e. Other Licenses/Terms. Some Projects are governed by their own terms regarding Submissions and may require You to sign agreements (such as an Apache Software Foundation Individual Contributor License Agreement) licensing Your rights in Your Submissions. In all such cases, and to the extent there is a conflict, the terms of those Projects and agreements take precedence over these Terms.
 
-   f. Privacy. You consent to the collection, processing and storage by the Host of any personal information provided by You in accordance with the terms of AOO-PMC Privacy Policy, which is available at [http://openoffice.apache.org/privacy.html][1]. You agree to comply with all applicable laws and regulations, and the terms of Apache OpenOffice Privacy Policy, with respect to any use by You of any personal information in connection with this Site.
+   f. Privacy. You consent to the collection, processing and storage by the Host of any personal information provided by You in accordance with the terms of AOO-PMC Privacy Policy, which is available at [https://openoffice.apache.org/privacy.html][1]. You agree to comply with all applicable laws and regulations, and the terms of Apache OpenOffice Privacy Policy, with respect to any use by You of any personal information in connection with this Site.
 
 5. MISCELLANEOUS.
 
@@ -70,4 +70,4 @@ Terms of Use for Apache OpenOffice web site
 
    g. General. You agree that these Terms of Use are the complete agreement for the Site, Materials and Submissions, and these Terms of Use supersedes all prior or contemporaneous agreements or representations. If any term of these Terms of Use is found to be invalid or unenforceable, the remaining provisions will remain effective
 
-[1]: http://openoffice.apache.org/privacy.html
+[1]: /privacy.html

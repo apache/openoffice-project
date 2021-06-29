@@ -1,7 +1,7 @@
 Title:     Get Involved in Apache OpenOffice
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-[Diese Seite in Deutsch](https://openoffice.apache.org/get-involved-de.html)
+[Diese Seite in Deutsch](/get-involved-de.html)
 
 ## Help Needed
 
@@ -13,7 +13,7 @@ OpenOffice is currently looking for people with the following:
 - Do you like contributing to open source projects?
 
 Come and join us in helping OpenOffice to thrive. Subscribe to the
-[recruitment mailing list](http://openoffice.apache.org/mailing-lists.html#recruitment-mailing-list-public)
+[recruitment mailing list](/mailing-lists.html#recruitment-mailing-list-public)
 and introduce yourself. We'll help you get started.
 
 
@@ -70,12 +70,12 @@ years as an independent project, combined with our experience at Apache.
 
 If you are familiar with Apache-style open source development then you might just jump
 in. Subscribe to the
-[recruitment mailing list](http://openoffice.apache.org/mailing-lists.html#recruitment-mailing-list-public)
+[recruitment mailing list](/mailing-lists.html#recruitment-mailing-list-public)
 and introduce yourself. We'll help you get started.
 
 If, however, you are new to Apache, or want a more methodical approach to getting started, 
 then we have a set of graduated
-[New Volunteer Orientation Modules](http://openoffice.apache.org/orientation/index.html) 
+[New Volunteer Orientation Modules](/orientation/index.html) 
 designed for new volunteers that takes you through a number of background topics related 
 to OpenOffice and how we do things.
 
@@ -86,6 +86,6 @@ We also maintain a list of specific areas where we need volunteers on our
 page of the wiki.
 
 If you are a student, looking to contribute to the project as part of your school work, 
-please also see our [Advice for Students](http://openoffice.apache.org/students.html) 
+please also see our [Advice for Students](/students.html) 
 page.
 

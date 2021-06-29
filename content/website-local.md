@@ -11,7 +11,7 @@ pages are updated by the project community.
 
 The Apache OpenOffice project maintains two websites:
 
-* The [project website](https://openoffice.apache.org/), primarily for development and technical information (which you're viewing now). 
+* The [project website](/), primarily for development and technical information (which you're viewing now). 
   All content for this website uses [Markdown](http://daringfireball.net/projects/markdown/) syntax (.mdtext files).
 * The user portal, [www.openoffice.org](https://www.openoffice.org), primarily for end user information and support.
   Content for the user portal primarily uses html, but some content is in
@@ -68,7 +68,7 @@ See detailed how-to steps in the [Apache CMS Reference](https://www.apache.org/d
 
 ### More Details
 
-Additional details on the above methods can be found on  [How to edit the Apache OpenOffice website](https://openoffice.apache.org/docs/edit-cms.html).
+Additional details on the above methods can be found on  [How to edit the Apache OpenOffice website](/docs/edit-cms.html).
 
 ## Publishing Changes to the Production Websites
 
@@ -90,7 +90,7 @@ section, you will likely be running **publish.pl** from your "people.apache.org"
 ### For Contributors -- non-committers
 If you are not a committer, you will need
 to follow the procedures for "contributors" in the
-[Developer FAQ](https://openoffice.apache.org/developer-faqs.html#im_not_a_committer)
+[Developer FAQ](/developer-faqs.html#im_not_a_committer)
 for getting your changes published by a committer of the project, after you submit a patch.
 
 ## Complete Local Website Development (for technical users and committers)

@@ -11,7 +11,7 @@ Your first task is to subscribe to our Documentation mailing list. You can subsc
 
 Then you can introduce yourself by [sending an email to the list](mailto:doc@openoffice.apache.org?subject=New Doc Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
 
-Note: In parallel with the Doc-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](https://openoffice.apache.org/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
+Note: In parallel with the Doc-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
 
 Now with the introductions out of the way, let's get started!
 

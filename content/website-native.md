@@ -209,6 +209,6 @@ and file structure is the same.
 ## You need a helping hand?
 
 You can get in contact with us via the
-[L10N mailing list](https://openoffice.apache.org/mailing-lists.html#localization-mailing-list-public).
+[L10N mailing list](/mailing-lists.html#localization-mailing-list-public).
 See the general explanation for
-[what a mailing list is](https://openoffice.apache.org/mailing-lists.html#using-mailing-lists).
+[what a mailing list is](/mailing-lists.html#using-mailing-lists).

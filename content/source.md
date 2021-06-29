@@ -7,7 +7,7 @@ repository][10] using the "tree" view from gitbox in your web browser. The [READ
 The previous svn repository, now read only, using [Apache Subversion][1] for version control is [still viewable][2] in your web browser.
 
 Currently, subversion is still used for the two OpenOffice web sites.
-See our [Subversion Basics](http://openoffice.apache.org/svn-basics.html)
+See our [Subversion Basics](/svn-basics.html)
 for more information on using subversion (svn) for the Apache OpenOffice project.
 
 <!--- For further information see the [Apache Source Code Repository][3] page.-->

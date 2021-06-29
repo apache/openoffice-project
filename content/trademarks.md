@@ -70,7 +70,7 @@ requirements listed on that page.
 
 [1]: https://www.apache.org/foundation/marks/
 [2]: mailto:private@openoffice.apache.org?subject=Trademark
-[3]: https://openoffice.apache.org/get-it-here.html
+[3]: /get-it-here.html
 [4]: mailto:private@openoffice.apache.org?subject=Possible%20trademark%20infringement
 [5]: https://www.openoffice.org/marketing/art/galleries/logos/index.html
 [6]: https://www.apache.org/logos/?#openoffice

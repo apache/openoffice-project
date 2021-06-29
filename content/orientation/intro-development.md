@@ -11,7 +11,7 @@ Your first task is to subscribe to our Recruitment mailing list. You can subscri
 
 Then you can introduce yourself by [sending an email to the list](mailto:volunteer@openoffice.apache.org?subject=New Dev Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
 
-Note: In parallel with the Dev-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](http://openoffice.apache.org/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
+Note: In parallel with the Dev-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
 
 Now with the introductions out of the way, let's get started!
 
@@ -65,15 +65,15 @@ The Geneva Convention prevents us from forcing you to read all of those rules, b
 
 ## Submitting Patches
 
-As you read in the [Introduction to Contributing to OpenOffice module](https://openoffice.apache.org/orientation/intro-contributing.html), contributors who have demonstrated merit via their project contributions can be voted in as Committers. Committers have the ability to check code into project's source control. Contributors who are not (yet) Committers must submit their patches and have them be reviewed first.
+As you read in the [Introduction to Contributing to OpenOffice module](/orientation/intro-contributing.html), contributors who have demonstrated merit via their project contributions can be voted in as Committers. Committers have the ability to check code into project's source control. Contributors who are not (yet) Committers must submit their patches and have them be reviewed first.
 
-Please review these [guidelines for submitting patches](https://openoffice.apache.org/svn-basics.html#creating_and_submitting_patches). A good practice is to attach the patch to the Bugzilla issue and then send a link to the issue to the Dev list, asking for someone to review and commit the patch.
+Please review these [guidelines for submitting patches](/svn-basics.html#creating_and_submitting_patches). A good practice is to attach the patch to the Bugzilla issue and then send a link to the issue to the Dev list, asking for someone to review and commit the patch.
 
 ##Other Useful Resources
 
   * The [OpenOffice.org for Developers](https://www.openoffice.org/development/) web area has useful information for getting started.
   * The [OpenOffice.org Development Wiki Area](https://wiki.openoffice.org/wiki/Development) has a lot of good general development information.
-  * The [commits mailing list](https://openoffice.apache.org/mailing-lists.html#commits-mailing-list) echos every checkin made to the code base. Developers are encouraged to subscribe so they are aware of other changes, and can help review.
+  * The [commits mailing list](/mailing-lists.html#commits-mailing-list) echos every checkin made to the code base. Developers are encouraged to subscribe so they are aware of other changes, and can help review.
 
 ## Module Completion
 
