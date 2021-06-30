@@ -16,14 +16,14 @@
 */
 
 body {
-  color: white;
+  color: #333;
   font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
   font-size: 18px;
   margin: 0;
 }
 
 .footer {
-  border-top: 1px solid black;
+  border-top: 1px solid #0e85cd;
   padding-top: 3px;
 }
 .right-align {
