@@ -258,7 +258,7 @@ the OpenOffice project:
 - anything of a confidential nature should be sent to private@openoffice.apache.org
 - support questions related to the OpenOffice product should go to users@openoffice.apache.org
 - website related questions should go to dev@openoffice.apache.org
-- questions on recruitmenting for the project should go to dev@openoffice.apache.org
+- questions on volunteering for the project should go to dev@openoffice.apache.org
 - press queries should go to press@openoffice.apache.org
 
 For any topic not covered by the above, send your post to: dev@openoffice.apache.org

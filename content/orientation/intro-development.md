@@ -9,7 +9,7 @@ To complete this module, read through the material on this page, including the l
 
 Your first task is to subscribe to our Recruitment mailing list. You can subscribe by sending an email to [recruitment-subscribe@openoffice.apache.org](mailto:recruitment-subscribe@openoffice.apache.org).
 
-Then you can introduce yourself by [sending an email to the list](mailto:recruitment@openoffice.apache.org?subject=New%20Dev%20Recruitment). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
+Then you can introduce yourself by [sending an email to the list](mailto:recruitment@openoffice.apache.org?subject=New%20Dev%20Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
 
 Note: In parallel with the Dev-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
 
@@ -46,7 +46,7 @@ A few suggestions to help you find your way around this massive codebase:
 
 As a new developer you will want to find some easy coding tasks. These are tasks that generally can be done with good C++ skills, but do not require comprehensive knowledge of how OpenOffice is put together. The tasks are more localized. By doing easy tasks you gain experience and confidence hacking with the code base.
 
-We use a [Bugzilla issue tracker](https://bz.apache.org/ooo/) to track reported defects in OpenOffice. Some of us also use Bugzilla for tracking feature and enhancement tasks as well. The value of tracking all coding-related tasks in Bugzilla is that it helps our QA recruitments know which areas to test. Whether code was changed to fix a bug or enhance a feature -- the QA impact is pretty much the same.
+We use a [Bugzilla issue tracker](https://bz.apache.org/ooo/) to track reported defects in OpenOffice. Some of us also use Bugzilla for tracking feature and enhancement tasks as well. The value of tracking all coding-related tasks in Bugzilla is that it helps our QA volunteers know which areas to test. Whether code was changed to fix a bug or enhance a feature -- the QA impact is pretty much the same.
 
 If you have not done so already, please [sign up for a Bugzilla account](https://issues.apache.org/ooo/createaccount.cgi). This will allow you to enter new bugs or tasks, but also assign yourself existing ones.
 
@@ -77,4 +77,4 @@ Please review these [guidelines for submitting patches](/svn-basics.html#creatin
 
 ## Module Completion
 
-Once you have completed this Module, go to our our [Directory of Recruitments](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Recruitments) wiki page and add or update your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Introduction%20to%20Development) so we know.
+Once you have completed this Module, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Introduction%20to%20Development) so we know.

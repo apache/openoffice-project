@@ -5,13 +5,13 @@ Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 1. As you learned in the [previous module](intro-contributing.html) the Apache Software Foundation formally has Members, who elect a Board of Directors who appoint Officers, including PMC (Project Management Committee) Chairs, who work with the PMC's of the individual Top Level Projects and their communities, to publish open source software for the public good. In this module we'll take a closer look at how exactly we accomplish this within the Apache OpenOffice project, how we divide up the tasks and get all the stuff done that is needed to release a new version of OpenOffice.
 
-1. Recruitments in the project tend to self-identify themselves in one or more of the following categories, depending on their interests, skills and contributions:
+1. Volunteers in the project tend to self-identify themselves in one or more of the following categories, depending on their interests, skills and contributions:
 
    * Developers are the programmers who write, debug and fix the C++ code that is the core of the OpenOffice software.
-   * QA (Quality Assurance) are the recruitments to test OpenOffice builds, looking for bugs. They also develop test automation and test cases.
-   * Support are the recruitments who answer user questions on our Community Forums and User list.
+   * QA (Quality Assurance) are the volunteers to test OpenOffice builds, looking for bugs. They also develop test automation and test cases.
+   * Support are the volunteers who answer user questions on our Community Forums and User list.
    * UX (Usability)
-   * Localization/Internationalization are the recruitments whose expertise is in adapting OpenOffice so it works well with the writing and other cultural conventions and expectations of
+   * Localization/Internationalization are the volunteers whose expertise is in adapting OpenOffice so it works well with the writing and other cultural conventions and expectations of
      users around the globe. This includes translations and related activities.
    * Documentation
    * Admins, including moderators,
