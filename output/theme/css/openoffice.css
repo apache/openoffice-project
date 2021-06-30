@@ -18,7 +18,7 @@
 body {
   color: #333;
   font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   margin: 0;
 }
 
@@ -55,7 +55,7 @@ blockquote {
 }
 
 #bannercenter {
-  padding: 16pt 2pt 34pt 2pt;
+  padding: 22px 2px 22px 2px;
   color: #555555;
   white-space: nowrap;
   overflow: hidden;
