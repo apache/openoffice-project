@@ -88,6 +88,10 @@ a:hover {
 
 a img { border: none; }
 
+.dropdown-item a:active {
+    background-color: #0e85cd;
+}
+
 h1,h2,h3,h4,h5,h6 {
   color: #333333;
   text-transform:none;
