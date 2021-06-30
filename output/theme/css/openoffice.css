@@ -88,8 +88,8 @@ a:hover {
 
 a img { border: none; }
 
-.active {
-    color: #cccccc;
+.dropdownitem.active {
+    color: #fff;
     background-color: #0e85cd;
 }
 
