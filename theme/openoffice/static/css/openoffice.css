@@ -70,6 +70,7 @@ blockquote {
 }
 
 a {
+  font-weight: 600;
   color: #0e85cd;
   text-decoration:none;
 }
