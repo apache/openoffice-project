@@ -57,6 +57,9 @@ blockquote {
 #bannercenter {
   padding: 16pt 2pt 34pt 2pt;
   color: #555555;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 #bannerleft {
