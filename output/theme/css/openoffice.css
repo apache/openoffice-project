@@ -36,7 +36,7 @@ blockquote {
   background: bisque;
 }
 .bg-primary {
-  background-color: #005bff!important;
+  background-color: #0e85cd!important;
 }
 
 #banner {
@@ -65,21 +65,21 @@ blockquote {
 }
 
 #bannerleft a:hover {
- color: #107EC0;
+ color: #0e85cd;
  background-color: white;
 }
 
 a {
-  color: #107EC0;
+  color: #0e85cd;
   text-decoration:none;
 }
 
 a:visited {
- color: #107EC0;
+ color: #0e85cd;
 }
 
 a:hover {
- color: #107EC0;
+ color: #0e85cd;
  text-decoration:underline;
 }
 
@@ -129,7 +129,7 @@ h1,h2,h3,h4,h5,h6 {
 #content h1 {
   font-size: 1.4em;
   padding: 15px;
-  border-top: 1px solid #a3afb6;
+  border-top: 1px solid #0e85cd;
 }
 
 #content h2 {
@@ -182,7 +182,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta a:hover {
- color: #107EC0;
+ color: #0e85cd;
  text-decoration:underline;
  background-color: #e6ebed;
 }
@@ -195,14 +195,14 @@ table {
 th {
   height: 40px;
   background: #f5f8fa;
-  border: 1px solid #a3afb6;
+  border: 1px solid #0e85cd;
   vertical-align: middle;
   font-size: 0.9em;
 }
 
 td {
   vertical-align: top;
-  border: 1px solid #a3afb6;
+  border: 1px solid #0e85cd;
   padding: 0.4em 0.5em 0.4em 0.5em;
   font-size: 0.9em;
 }
@@ -282,7 +282,7 @@ td {
 }
 
 #sidenav li a:hover {
-  color: #107EC0;
+  color: #0e85cd;
   background-color: #e6ebed;
   text-decoration:underline;
 }
@@ -314,7 +314,7 @@ td {
   padding: 0;
   margin-top: 0.8em;
   margin-bottom: 0;
-  border-bottom: 1px solid #a3afb6;
+  border-bottom: 1px solid #0e85cd;
 }
 
 #navigation ul {
@@ -335,7 +335,7 @@ td {
 }
 
 #navigation li a:hover {
- color: #107EC0;
+ color: #0e85cd;
  background-color: #e6ebed;
 }
 
@@ -362,7 +362,7 @@ td {
 }
 
 #copyrighta a {
- color: #107EC0;
+ color: #0e85cd;
  text-decoration:none;
 }
 
