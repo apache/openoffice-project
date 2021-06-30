@@ -28,21 +28,21 @@ hope that as a Committer you will be even more active.
 But before you are officially given Committer permissions, there are a few 
 administrative steps that you will need to complete. 
 
-1. Submit a signed [ICLA] [4] to Apache.
+1. Submit a signed [ICLA][4] to Apache.
 1. Wait for the ICLA to be received and recorded by Apache. You will know 
-   when this has occurred when your name appears in the [Unlisted ICLAs] [5] section 
+   when this has occurred when your name appears in the [Unlisted ICLAs][5] section 
    on the Apache Committers page. This could take a couple of days, longer if you
    submitted the ICLA via post.
-1. Once the your ICLA has been recorded, you should send a note to the [PMC] [6] 
+1. Once the your ICLA has been recorded, you should send a note to the [PMC][6] 
    and request an Apache account. You will want to include your full name and email address, 
-   as you entered in the ICLA, as well as your preferred userid. Please [check first] [7] 
+   as you entered in the ICLA, as well as your preferred userid. Please [check first][7] 
    that your preferred userid is not already in use by another Apache Committer.
 1. Once your Apache account has been created, you will receive an email with
    further instructions for setting up your account. This may take a couple of days.
-1. If you were also voted as a PMC member, you should then [subscribe] [8] to the 
+1. If you were also voted as a PMC member, you should then [subscribe][8] to the 
    PMC's private mailing list.
 
-1. Finally, you should read the ["Guide for new committers"] [9]
+1. Finally, you should read the ["Guide for new committers"][9]
 
 
 ## I'm not a committer, but would like to contribute, what should I do? 
@@ -61,7 +61,7 @@ The following sections will explain more about this.
 
 ## How do I use Apache Subversion?
 
-Instructions can be found on the [Subversion Basics] [11] page.
+Instructions can be found on the [Subversion Basics][11] page.
 
 Please note that we are using a Subversion/Bugzilla integration,
 e.g. when you are committing something and mention the bugzilla issue in

@@ -13,10 +13,10 @@ src="https://openoffice.apache.org/images/get-it-here/en.png"/>
 </a>
 </p>
 
-The logo file may be [found here] [1].
+The logo file may be [found here][1].
 
 If translations of the "Get it here!" text are required, send a request to the 
-[dev mailing list] [2] and we can make a translated version for you.
+[dev mailing list][2] and we can make a translated version for you.
 
 ## Conditions:
 

@@ -44,7 +44,7 @@ blockquote {
   padding: 0 0 0 0;
   color: black;
   font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
-  font-size:1.1rem;
+  font-size:1rem;
   vertical-align: top;
 }
 
@@ -55,7 +55,7 @@ blockquote {
 }
 
 #bannercenter {
-  padding: 16pt 2pt 34pt 2pt;
+  padding: 14pt 2pt 34pt 2pt;
   color: #555555;
 }
 
