@@ -54,7 +54,7 @@
 | ASF/Website | www.apache.org |  |
 | ASF/License | www.apache.org/licenses |  |
 | ASF/Security | www.apache.org/security | **There should only be one security link** |
-| ASF/Events | **www.apache.org/events/current-event** | **There is a new approach** |
-| ASF/Donations | **www.openoffice.org/donations**  | **404** |
+| ASF/Events | **www.apache.org/events/current-event** | **There is a new in the footer** |
+| ASF/Donations | **www.openoffice.org/donations**  | **Page in openoffice.org is modified** |
 | ASF/Sponsorship | www.apache.org/foundation/sponsorship |  |
 | ASF/Thanks | www.apache.org/foundation/thanks |  |
