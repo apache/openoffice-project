@@ -9,7 +9,11 @@ import os
 
 AUTHOR = u'OpenOffice Community'
 SITENAME = 'Apache OpenOffice'
-SITEURL = ''
+SITEURL = 'https://openoffice.apache.org/'
+SITEDOMAIN = 'openoffice.apache.org'
+SITEDESC = 'The official developer website of the Apache OpenOffice open source project, home of OpenOffice Writer, Calc, Impress, Draw and Base.'
+SITEKEYS = 'OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format'
+SITELOGO = 'https://openoffice.apache.org/images/AOO4_website_logo.png'
 CURRENTYEAR = date.today().year
 
 PATH = 'content'
