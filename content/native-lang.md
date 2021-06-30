@@ -1,6 +1,6 @@
 Title: Native-Language Information
 
-## Natiguage User Support Forums](http://forum.openoffice.org/) (for some languages).
+## [Native Language User Support Forums](https://forum.openoffice.org/) (for some languages).
 ## Native Language Mailing Lists
 
 New native 
@@ -14,10 +14,8 @@ Native language mailing lists (This list is manually maintained and may not be u
 * dev-de@openoffice.apache.org (German mailing list for community planning)
 * general-ja@openoffice.apache.org (General Japanese mailing list)
 * general-es@openoffice.apache.org (General Spanish mailing list)
-* progetto-it@openoffice.apache.org (Italian mailing list for project-related discussions)
 * utenti-it@openoffice.apache.org (Italian users mailing list)
 * users-fr@openoffice.apache.org (French users mailing list)
-* geral-ptbr@openoffice.apache.org (General Portuguese from Brazil mailing list)
 
 Additional information and archives for these lists as well as any other Apache mailing
 list can be found at the [Available Mailing List page](http://mail-archives.apache.org/mod_mbox/).
