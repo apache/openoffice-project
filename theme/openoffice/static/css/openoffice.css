@@ -40,12 +40,12 @@ blockquote {
 }
 
 #banner {
-  height: 3rem;
+  height: 2.8rem;
   padding: 0 0 0 0;
   color: black;
   font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
-  font-size:1.2rem;
-  vertical-align: middle;
+  font-size:1.1rem;
+  vertical-align: top;
 }
 
 #bannerright {
