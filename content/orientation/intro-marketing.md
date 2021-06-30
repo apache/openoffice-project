@@ -5,7 +5,7 @@ In this orientation module you will be introduced to Marketing within the Apache
 
 To complete this module you should read the following material, along with associated links.
 
-But first, please subscribe to our [Marketing Mailing List](/mailing-lists.html#marketing-mailing-list), and then [send a note](mailto:marketing@openoffice.apache.org?subject=Starting Intro to Marketing Module) to introduce yourself.
+But first, please subscribe to our [Marketing Mailing List](/mailing-lists.html#marketing-mailing-list), and then [send a note](mailto:marketing@openoffice.apache.org?subject=Starting%20Intro%20to%20Marketing%20Module) to introduce yourself.
 
 Note:  You may also want to review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html) which give an overview of the project as a whole, and a perspective on working on open source at Apache.
 
@@ -91,4 +91,4 @@ Along with this orientation, and the ASF's [charitable mission](https://www.apac
 
 ## End of Module
 
-Congratulations!  You have completed this Module. Please send a note to [marketing@openoffice.apache.org](mailto:marketing@openoffice.apache.org?subject=Completed Marketing Module) so we all know you have completed this level. This is also a good opportunity to send along any feedback or questions you might have on this Orientation Module.
+Congratulations!  You have completed this Module. Please send a note to [marketing@openoffice.apache.org](mailto:marketing@openoffice.apache.org?subject=Completed%20Marketing%20Module) so we all know you have completed this level. This is also a good opportunity to send along any feedback or questions you might have on this Orientation Module.

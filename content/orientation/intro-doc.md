@@ -9,7 +9,7 @@ To complete this module, read through the material on this page, including the l
 
 Your first task is to subscribe to our Documentation mailing list. You can subscribe by sending an email to [doc-subscribe@openoffice.apache.org](mailto:doc-subscribe@openoffice.apache.org).
 
-Then you can introduce yourself by [sending an email to the list](mailto:doc@openoffice.apache.org?subject=New Doc Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
+Then you can introduce yourself by [sending an email to the list](mailto:doc@openoffice.apache.org?subject=New%20Doc%20Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to this same list.
 
 Note: In parallel with the Doc-specific items on this page, you may want to also review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html). They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
 
@@ -67,14 +67,14 @@ Volunteers on the Documentation Team work on a variety of tasks, including:
 The Documentation Team is the easiest one to get started with. There are just a few basic steps:
 
 1. Subscribe to our Documentation mailing list by sending an email to [doc-subscribe@openoffice.apache.org](mailto:doc-subscribe@openoffice.apache.org).
-1. Sign up for an account on our MWiki by sending an e-mail with your preferred user name and e-mail address to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Requesting MWiki Account)
-1. Sign up for an account on [our CWiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home) (Why do we have two wikis? It is a long story...)**Note:** **After creation the account must be whitelisted by sending a request with the account name to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Whitelist CWiki Account)**
+1. Sign up for an account on our MWiki by sending an e-mail with your preferred user name and e-mail address to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Requesting%20MWiki%20Account)
+1. Sign up for an account on [our CWiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home) (Why do we have two wikis? It is a long story...)**Note:** **After creation the account must be whitelisted by sending a request with the account name to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Whitelist%20CWiki%20Account)**
 1. Add your name to our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) and
 [Documentation Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Documentation+Volunteers) pages.
-1. Send an email to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=New Doc Volunteer) and introduce yourself.
+1. Send an email to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=New%20Doc%20Volunteer) and introduce yourself.
 
 We can then bring you up to speed on what we're currently working on.
 
 ## Module Completion
 
-Once you have completed this Module, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [doc@openoffice.apache.org](mailto:doc@openoffice.apache.org?subject=Completed Introduction to Documentation) so we know.
+Once you have completed this Module, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [doc@openoffice.apache.org](mailto:doc@openoffice.apache.org?subject=Completed%20Introduction%20to%20Documentation) so we know.

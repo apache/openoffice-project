@@ -9,7 +9,7 @@ To complete this module, read through the material on this page, including the l
 
 Your first task is to subscribe to our QA mailing list and to introduce yourself to the other QA volunteers. You can subscribe by sending an email to [qa-subscribe@openoffice.apache.org](mailto:qa-subscribe@openoffice.apache.org). 
 
-Then you can introduce yourself by [sending an email to the list](mailto:qa@openoffice.apache.org?subject=New QA Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to  this same list.
+Then you can introduce yourself by [sending an email to the list](mailto:qa@openoffice.apache.org?subject=New%20QA%20Volunteer). We'd love to hear who you are, where you are from, what your background is, etc. Also as you work through the items on this page, if you have questions or problems, please feel free to ask for help by sending a note to  this same list.
 
 Note:  In parallel with the QA-specific items on this page, you may want to first review the [Level 1 and Level 2 Orientation Modules](/orientation/index.html) as well. They have useful background information on The Apache Way, mailing list etiquette, decision making in the project, etc. A quick review is a good idea, especially if you are new to working in Apache-style open source projects.
 
@@ -185,4 +185,4 @@ Useful guide for writing manual test cases:
 
 ## Module Completion
 
-Once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Also, add an entry for yourself to the [QA Testing Preferences](https://cwiki.apache.org/confluence/display/OOOUSERS/QA+Testing+Preferences) page. Congratulations! Please send a note to [qa@openoffice.apache.org](mailto:qa@openoffice.apache.org?subject=Completed Introduction to QA) so we know.
+Once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Also, add an entry for yourself to the [QA Testing Preferences](https://cwiki.apache.org/confluence/display/OOOUSERS/QA+Testing+Preferences) page. Congratulations! Please send a note to [qa@openoffice.apache.org](mailto:qa@openoffice.apache.org?subject=Completed%20Introduction%20to%20QA) so we know.

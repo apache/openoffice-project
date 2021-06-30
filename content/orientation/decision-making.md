@@ -67,4 +67,4 @@ In the previous Module we read about collaboration on the mailings lists, how to
 
 Congratulations, you have completed this Module!
 
-If you have any questions or feedback on this module, please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Comments on Decision Making Module).
+If you have any questions or feedback on this module, please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Comments%20on%20Decision%20Making%20Module).

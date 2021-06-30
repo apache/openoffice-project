@@ -3,7 +3,7 @@ Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 In this Orientation Module you will learn about tools and servers that are part of the daily operations of the project. You will interact with many of these on a regular basis, or at least hear them discussed on the lists, so it is important to know what they are, and where to go if you need more information or run into problems.
 
-1. First, Please send an email to [volunteer@openoffice.apache.org](mailto:volunteer@openoffice.apache.org?subject=Starting Infrastructure Module) to let us know you are working on this module.
+1. First, Please send an email to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Starting%20Infrastructure%20Module) to let us know you are working on this module.
 
 1. List of tools and services we use
 
@@ -35,4 +35,4 @@ In this Orientation Module you will learn about tools and servers that are part 
    * Outages: [Current status](https://monitoring.apache.org/status/) is posted. You might also want to subscribe to Infra's [Twitter feed](https://twitter.com/infrabot). If you see an outage not noted there already, you can notify Infra via IRC channel #asfinfra on Freenode.
    * Requests to enhance or modify the service: Propose something on dev. Even though Infra is required to carry out some tasks, you still should get consensus first on the project's mailing list.
 
-1. Congratulations! You have completed this Module. Please send a note to [volunteer@openoffice.apache.org](mailto:volunteer@openoffice.apache.org?subject=Completed Infrastructure Module) so we all know you have completed this level. This is also a good opportunity to send along any feedback or questions you might have on this Orientation Module.
+1. Congratulations! You have completed this Module. Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Infrastructure%20Module) so we all know you have completed this level. This is also a good opportunity to send along any feedback or questions you might have on this Orientation Module.

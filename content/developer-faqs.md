@@ -93,7 +93,7 @@ additional information on current and future releases.
   [1]: http://www.simpleeditions.com/59001/markdown-an-introduction
   [2]: https://svn.apache.org/repos/asf/openoffice/site
   [3]: /docs/edit-cms.html
-  [4]: https://www.apache.org/licenses/icla.txt
+  [4]: https://www.apache.org/licenses/icla.pdf
   [5]: https://people.apache.org/committer-index.html#unlistedclas
   [6]: mailto:private@openoffice.apache.org
   [7]: https://people.apache.org/committer-index.html

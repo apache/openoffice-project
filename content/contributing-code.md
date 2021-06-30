@@ -25,7 +25,7 @@ Some specific scenarios:
 
 - For small bug fixes and enhancements, contributed by the original author of the code, these are best submitted as patches attached to a [Bugzilla issue](https://bz.apache.org/ooo/)
 - For larger contributions, contributed by a single original author, we might ask you to
-  submit an [Individual Contributor License Agreement (ICLA)](https://www.apache.org/licenses/icla.txt) form.
+  submit an [Individual Contributor License Agreement (ICLA)](https://www.apache.org/licenses/icla.pdf) form.
   The copyright on your code will still belong to you, but the ICLA helps
   protect the users of Apache OpenOffice. All project Committers have also signed this form.
 - For contributions of multi-author code, it is best to start a discussion on our [dev mailing list](mailto:dev@openoffice.apache.org) so we can discuss the most appropriate way of processing it.

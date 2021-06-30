@@ -190,7 +190,7 @@ keys: [https://dist.apache.org/repos/dist/release/openoffice](https://dist.apach
 [2]: /mailing-lists.html
 [3]: https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home
 [4]: https://incubator.apache.org/guides/participation.html
-[5]: https://www.apache.org/licenses/icla.txt
+[5]: https://www.apache.org/licenses/icla.pdf
 [6]: https://www.apache.org/licenses/cla-corporate.txt
 [7]: https://people.apache.org/committer-index.html
 [8]: https://svn.apache.org/repos/private/committers
