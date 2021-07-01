@@ -55,7 +55,7 @@ blockquote {
 }
 
 #bannercenter {
-  padding: 22px 2px 22px 2px;
+  padding: 21px 2px 15px 2px;
   color: #555555;
   white-space: nowrap;
   overflow: hidden;
@@ -158,19 +158,19 @@ h1,h2,h3,h4,h5,h6 {
 
 #contenta h1,h2,h3,h4,h5,h6 {
   font-weight: normal;
-  margin: 0px 0px 15px;
+  margin: 0px 0px 10px;
   padding: 5px 0px;
 }
 
 #contenta h1 {
   font-size: 1.4em;
-  padding: 15px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
   border-top: 1px solid #cccccc;
 }
 
 #contenta h2 {
   font-size: 1.2em;
-  margin-top: 2em;
+  margin-top: 1em;
   border-bottom: 1px solid #cccccc;
 }
 
@@ -181,7 +181,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
 }
 
 #contenta a:hover {
