@@ -13,7 +13,7 @@ Workflow is described in the README files in each repository.
 
 -----
 
-**The Apache CMS is deprecated**. Some of the material below is still useful and can be repurposed.
+**The Apache CMS is obsolete**. Some of the workflow below _might_ be useful and can be repurposed.
 
 -----
 
@@ -80,7 +80,7 @@ executing this:
 #### Browser bookmark
 
 Normally you see the webpage in your browser. To update this page with an
-inline-editor and little preview you use the [Apache CMS] [3] JavaScript bookmarklet.  Drag that 
+inline-editor and little preview you use the [Apache CMS][3] JavaScript bookmarklet.  Drag that 
 link to your browser's toolbar.  For more information see [here][2].
 
 #### Apache ID

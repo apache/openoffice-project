@@ -7,7 +7,7 @@ repository][10] using the "tree" view from gitbox in your web browser. The [READ
 The previous svn repository, now read only, using [Apache Subversion][1] for version control is [still viewable][2] in your web browser.
 
 Currently, subversion is still used for the two OpenOffice web sites.
-See our [Subversion Basics](http://openoffice.apache.org/svn-basics.html)
+See our [Subversion Basics](/svn-basics.html)
 for more information on using subversion (svn) for the Apache OpenOffice project.
 
 <!--- For further information see the [Apache Source Code Repository][3] page.-->
@@ -33,7 +33,7 @@ Including SVN overhead, this requires approximately 4 GB of storage.
 ### Source archive of the latest release
 
 An archive of the source for the latest release can be obtainted from the Apache Software Foundation repository:
-    [https://archive.apache.org/dist/openoffice](https://archive.apache.org/dist/openoffice/)
+[https://archive.apache.org/dist/openoffice](https://archive.apache.org/dist/openoffice/)
 
 
 ## Browsing/Searching Source Code
@@ -47,7 +47,7 @@ main repository areas.
 ## Building and Running
 
 See the [Apache OpenOffice Building Guide page][5]
-    for an overview on building.
+for an overview on building.
 
 The [Development Snapshots builds][7] page, pre-release builds, also provide additional information on building.
 

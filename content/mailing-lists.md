@@ -11,21 +11,21 @@ and is visible to the public, indexed by search engines, etc. Posts can only
 be removed in extraordinary circumstances, in accordance with Apache's [Public Forum
 Archive Policy](http://www.apache.org/foundation/public-archives.html)
 
- - [Using Mailing Lists](#using-mailing-lists)
- - [Participation Guidelines](#participation-guidelines)
- - [Users Mailing List](#users-mailing-list-public)
- - [API Mailing List](#api-mailing-list-public)
- - [Marketing Mailing List](#marketing-mailing-list-public)
- - [Announce Mailing List](#announce-mailing-list)
- - [Development Mailing List](#development-mailing-list-public)
- - [Volunteer Mailing List](#volunteer-mailing-list-public)
- - [Documentation Mailing List](#documentation-mailing-list-public)
- - [Quality Assurance (QA) Mailing List](#qa-mailing-list-public)
- - [Localization Mailing List](#localization-mailing-list-public)
- - [Commits Mailing List](#commits-mailing-list)
- - [Issues Mailing List](#issues-mailing-list)
- - [Native Language (non-English) Mailing Lists](#native-lang-lists)
- - [Legacy OpenOffice.org Lists](#legacy-openofficeorg-lists)
+- [Using Mailing Lists](#using-mailing-lists)
+- [Participation Guidelines](#participation-guidelines)
+- [Users Mailing List](#users-mailing-list-public)
+- [API Mailing List](#api-mailing-list-public)
+- [Marketing Mailing List](#marketing-mailing-list-public)
+- [Announce Mailing List](#announce-mailing-list)
+- [Development Mailing List](#development-mailing-list-public)
+- [Recruitment Mailing List](#recruitment-mailing-list-public)
+- [Documentation Mailing List](#documentation-mailing-list-public)
+- [Quality Assurance (QA) Mailing List](#qa-mailing-list-public)
+- [Localization Mailing List](#localization-mailing-list-public)
+- [Commits Mailing List](#commits-mailing-list)
+- [Issues Mailing List](#issues-mailing-list)
+- [Native Language (non-English) Mailing Lists](#native-lang-lists)
+- [Legacy OpenOffice.org Lists](#legacy-openofficeorg-lists)
 
 
 ## Using Mailing Lists
@@ -38,27 +38,27 @@ Every OpenOffice mailing list has a list address, of the form:
 *xyz*@openoffice.apache.org, where you **replace "*xyz*" with the actual list name**,
 such as "dev" or "qa" or "marketing".
 
-### Basic Operations ###
+### Basic Operations
 
 There are three basic operations you should know about:
 
-  - To *send* an e-mail to the mailing list, and have it forwarded to all other
-subscribers, send an e-mail to the list's address, *xyz*@openoffice.apache.org.
-  - To *subscribe* to the mailing list, so you start receiving all posts to the mailing
-list, send an e-mail to *xyz*-subscribe@openoffice.apache.org. You will then receive a
-confirmation e-mail. Once you respond to the confirmation e-mail you are subscribed.
-Please keep the initial e-mail you receive from *xyz*-help@openoffice.apache.org as it
-contains helpful information you may need in the future.
-  - To *unsubscribe* from the mailing list, so you stop receiving all posts to the
-mailing list, send an e-mail to *xyz*-unsubscribe@openoffice.apache.org. You will then
-receive a confirmation e-mail. Once you respond to the confirmation e-mail you are
-unsubscribed.
+- To *send* an e-mail to the mailing list, and have it forwarded to all other
+  subscribers, send an e-mail to the list's address, *xyz*@openoffice.apache.org.
+- To *subscribe* to the mailing list, so you start receiving all posts to the mailing
+  list, send an e-mail to *xyz*-subscribe@openoffice.apache.org. You will then receive a
+  confirmation e-mail. Once you respond to the confirmation e-mail you are subscribed.
+  Please keep the initial e-mail you receive from *xyz*-help@openoffice.apache.org as it
+  contains helpful information you may need in the future.
+- To *unsubscribe* from the mailing list, so you stop receiving all posts to the
+  mailing list, send an e-mail to *xyz*-unsubscribe@openoffice.apache.org. You will then
+  receive a confirmation e-mail. Once you respond to the confirmation e-mail you are
+  unsubscribed.
 
 NOTE: Please do not send subscribe/unsubscribe requests to the mailing list itself
 (*xyz*@openoffice.apache.org). You must send these requests to the special
 *xyz*-subscribe and *xyz*-unsubscribe addresses.
 
-### List Moderators ###
+### List Moderators
 Each mailing list at OpenOffice has at least two human moderators. If you need
 additional help with a mailing list in any way including reporting inappropriate
 behavior, you can e-mail the list moderator at *xyz*-owner@openoffice.apache.org where
@@ -76,26 +76,26 @@ sorting and filtering by e-mail inbox rules.
 
 Some subject tags often seen on dev include:
 
- - [www] for posts related to the website
- - [Repo] for posts related to the source code repository
- - [download] for posts related to the release download and mirroring infrastruture
- - [API] for posts related to API specific topics
- - [EXT] for posts related to Extension specific topics
+- [www] for posts related to the website
+- [Repo] for posts related to the source code repository
+- [download] for posts related to the release download and mirroring infrastruture
+- [API] for posts related to API specific topics
+- [EXT] for posts related to Extension specific topics
 
 Other useful topic tags can be found by observing traffic on the list or by looking at
 the list archives.
 
 In addition to the topic subject tags, there are also tags used to indicate a request:
 
- - [DISCUSS] indicates a rough idea is being floated, and input is welcome
- - [PROPOSAL] indicates a specific proposal is being made, and often that Lazy
+- [DISCUSS] indicates a rough idea is being floated, and input is welcome
+- [PROPOSAL] indicates a specific proposal is being made, and often that Lazy
 Consensus is being sought.
- - [VOTE] indicates that a formal vote is being called. This is rare.
+- [VOTE] indicates that a formal vote is being called. This is rare.
 
 Note: it is common for a topic tag and an action tag to be combined, e.g.:
 
- - [PROPOSAL][Repo] Migration of legacy repository to SVN
- - [DISCUSS][download] What are our options of mirroring legacy releases?
+- [PROPOSAL][Repo] Migration of legacy repository to SVN
+- [DISCUSS][download] What are our options of mirroring legacy releases?
 
 Finally, please keep in mind that all of the above mailing lists are public
 and any post you make will likely be archived by a variety of services. The Apache
@@ -108,43 +108,43 @@ to Apache mail archives, not archives from other services such as Gmane or Markm
 This list is for users, for questions about OpenOffice, for feature requests, for
 discussions about the product and project, etc.
 
-  - Subscribe: [users-subscribe@openoffice.apache.org][2]
-  - Post (after subscription): [users@openoffice.apache.org][3]
-  - Unsubscribe: [users-unsubscribe@openoffice.apache.org][4]
-  - Apache Archives: [current][47], [legacy][6]
-  - Third-party Archives: [Markmail][5], [Nabble][83], [Mail Archive][71]
+- Subscribe: [users-subscribe@openoffice.apache.org][2]
+- Post (after subscription): [users@openoffice.apache.org][3]
+- Unsubscribe: [users-unsubscribe@openoffice.apache.org][4]
+- Apache Archives: [current][47], [legacy][6]
+- Third-party Archives: [Markmail][5], [Nabble][83], [Mail Archive][71]
 
 ## API Mailing List (Public)
 
 This list is for application developers and other interested in scripting, macros or
 developing OpenOffice extensions.
 
-  - Subscribe: [api-subscribe@openoffice.apache.org][42]
-  - Post (after subscription): [api@openoffice.apache.org][43]
-  - Unsubscribe: [api-unsubscribe@openoffice.apache.org][44]
-  - Apache Archives: [current][48], [legacy][46]
-  - Third-party Archives: [Markmail][45], [Mail Archive][72]
+- Subscribe: [api-subscribe@openoffice.apache.org][42]
+- Post (after subscription): [api@openoffice.apache.org][43]
+- Unsubscribe: [api-unsubscribe@openoffice.apache.org][44]
+- Apache Archives: [current][48], [legacy][46]
+- Third-party Archives: [Markmail][45], [Mail Archive][72]
 
 ## Marketing Mailing List (Public)
 
 This is where the community discusses marketing, branding, communications, event
 planning and related activities.
 
-  - Subscribe: [marketing-subscribe@openoffice.apache.org][7]
-  - Post (after subscription): [marketing@openoffice.apache.org][8]
-  - Unsubscribe: [marketing-unsubscribe@openoffice.apache.org][9]
-  - Apache Archives: [current][49], [legacy][11]
-  - Third-party Archives: [Markmail][10], [Mail Archive][73]
+- Subscribe: [marketing-subscribe@openoffice.apache.org][7]
+- Post (after subscription): [marketing@openoffice.apache.org][8]
+- Unsubscribe: [marketing-unsubscribe@openoffice.apache.org][9]
+- Apache Archives: [current][49], [legacy][11]
+- Third-party Archives: [Markmail][10], [Mail Archive][73]
 
 ## Announce Mailing List
 
 Subscribe to this list to receive notice about new releases and other important news
 from the project.
 
-  - Subscribe: [announce-subscribe@openoffice.apache.org][12]
-  - Unsubscribe: [announce-unsubscribe@openoffice.apache.org][13]
-  - Apache Archives: [current][50], [legacy][15]
-  - Third-party Archives: [Markmail][14], [Mail Archive][74]
+- Subscribe: [announce-subscribe@openoffice.apache.org][12]
+- Unsubscribe: [announce-unsubscribe@openoffice.apache.org][13]
+- Apache Archives: [current][50], [legacy][15]
+- Third-party Archives: [Markmail][14], [Mail Archive][74]
 
 **Note:** Only Apache OpenOffice committers may post to the Announce mailing list.
 And, you must use your Apache id and domain to post - for example, send using
@@ -156,21 +156,21 @@ This is where the project community hangs out. This list is used to coordinate
 activities and ensure we are all pulling in the same direction. This is a high
 traffic list, with an average of 30 posts/day.
 
-  - Subscribe: [dev-subscribe@openoffice.apache.org][16]
-  - Post (after subscription): [dev@openoffice.apache.org][17]
-  - Unsubscribe: [dev-unsubscribe@openoffice.apache.org][18]
-  - Apache Archives: [current][51], [legacy][21]
-  - Third-party Archives: [Mail Archive][75], [Nabble][82], [Markmail][19] (incomplete)
+- Subscribe: [dev-subscribe@openoffice.apache.org][16]
+- Post (after subscription): [dev@openoffice.apache.org][17]
+- Unsubscribe: [dev-unsubscribe@openoffice.apache.org][18]
+- Apache Archives: [current][51], [legacy][21]
+- Third-party Archives: [Mail Archive][75], [Nabble][82], [Markmail][19] (incomplete)
 
 ## Documentation Mailing List (Public)
 
 This list is for discussing and developing the OpenOffice documentation.
 
-  - Subscribe: [doc-subscribe@openoffice.apache.org][56]
-  - Post (after subscription): [doc@openoffice.apache.org][57]
-  - Unsubscribe: [doc-unsubscribe@openoffice.apache.org][58]
-  - Apache Archives: [current][60]
-  - Third-party Archives: [Mail Archive][76], [Markmail][59] (incomplete)
+- Subscribe: [doc-subscribe@openoffice.apache.org][56]
+- Post (after subscription): [doc@openoffice.apache.org][57]
+- Unsubscribe: [doc-unsubscribe@openoffice.apache.org][58]
+- Apache Archives: [current][60]
+- Third-party Archives: [Mail Archive][76], [Markmail][59] (incomplete)
 
 ## QA Mailing List (Public)
 
@@ -179,22 +179,22 @@ automated tests, etc. You should subscribe (initiate the procedure by sending an
 empty e-mail to the address below, then follow the instructions you will receive by
 e-mail) if you don't want to miss important announcements.
 
-  - Subscribe: [qa-subscribe@openoffice.apache.org][22]
-  - Post (after subscription): [qa@openoffice.apache.org][23]
-  - Unsubscribe: [qa-unsubscribe@openoffice.apache.org][24]
-  - Apache Archives: [current][52], [legacy][26]
-  - Third-party Archives: [Mail Archive][77], [Markmail][25] (incomplete)
+- Subscribe: [qa-subscribe@openoffice.apache.org][22]
+- Post (after subscription): [qa@openoffice.apache.org][23]
+- Unsubscribe: [qa-unsubscribe@openoffice.apache.org][24]
+- Apache Archives: [current][52], [legacy][26]
+- Third-party Archives: [Mail Archive][77], [Markmail][25] (incomplete)
 
 ## Localization Mailing List (Public)
 
 The list is discussion of translation and other aspects of localization, for both
 the OpenOffice product, as well as documentation and the website.
 
-  - Subscribe: [L10N-subscribe@openoffice.apache.org][37]
-  - Post (after subscription): [L10N@openoffice.apache.org][38]
-  - Unsubscribe: [L10N-unsubscribe@openoffice.apache.org][39]
-  - Apache Archives: [current][53], [legacy][41]
-  - Third-party Archives: [Markmail][40], [Mail Archive][78]
+- Subscribe: [L10N-subscribe@openoffice.apache.org][37]
+- Post (after subscription): [L10N@openoffice.apache.org][38]
+- Unsubscribe: [L10N-unsubscribe@openoffice.apache.org][39]
+- Apache Archives: [current][53], [legacy][41]
+- Third-party Archives: [Markmail][40], [Mail Archive][78]
 
 ## Commits Mailing List
 
@@ -202,10 +202,10 @@ This is where the community receives automated notifications of any changes to t
 Apache OpenOffice code and documentation. This is a moderate traffic list, with an
 average of 10 posts/day.
 
-  - Subscribe: [commits-subscribe@openoffice.apache.org][27]
-  - Unsubscribe: [commits-unsubscribe@openoffice.apache.org][28]
-  - Apache Archives: [current][54], [legacy][30]
-  - Third-party Archives: [Mail Archive][79], [Markmail][29] (incomplete)
+- Subscribe: [commits-subscribe@openoffice.apache.org][27]
+- Unsubscribe: [commits-unsubscribe@openoffice.apache.org][28]
+- Apache Archives: [current][54], [legacy][30]
+- Third-party Archives: [Mail Archive][79], [Markmail][29] (incomplete)
 
 ## Issues Mailing List
 
@@ -213,23 +213,23 @@ This is where the community receives automated notifications of all issues that 
 created or modified in Bugzilla. Currently this is a moderate traffic list, with an
 average of 20 posts/day and will increase in the future.
 
-  - Subscribe: [issues-subscribe@openoffice.apache.org][31]
-  - Unsubscribe: [issues-unsubscribe@openoffice.apache.org][32]
-  - Apache Archives: [current][55], [legacy][34]
-  - Third-party Archives: [Mail Archive][80], [Markmail][33] (incomplete)
+- Subscribe: [issues-subscribe@openoffice.apache.org][31]
+- Unsubscribe: [issues-unsubscribe@openoffice.apache.org][32]
+- Apache Archives: [current][55], [legacy][34]
+- Third-party Archives: [Mail Archive][80], [Markmail][33] (incomplete)
 
-## Volunteer Mailing List (Public)
+## Recruitment Mailing List (Public)
 
 This list is for welcoming new contributors. It coordinates the activities for new
 people and tries to help to find the right part. This is a low traffic list.
 
-  - Subscribe: [volunteer-subscribe@openoffice.apache.org][84]
-  - Post (after subscription): [volunteer@openoffice.apache.org][85]
-  - Unsubscribe: [volunteer-unsubscribe@openoffice.apache.org][86]
-  - Apache Archives: [current][87]
-  - Third-party Archives: [Mail Archive][81]
+- Subscribe: [recruitment-subscribe@openoffice.apache.org][84]
+- Post (after subscription): [recruitment@openoffice.apache.org][85]
+- Unsubscribe: [recruitment-unsubscribe@openoffice.apache.org][86]
+- Apache Archives: [current][87]
+- Third-party Archives: [Mail Archive][81]
 
-##<a id="native-lang-lists"></a> Native Language (non-English) Mailing Lists
+## Native Language (non-English) Mailing Lists {#native-lang-lists}
 
 The project has several mailing lists for discussion about OpenOffice in native
 (non-English) languages.
@@ -249,21 +249,21 @@ If you have been directed to this page from an e-mail bounce notification, the f
 guide might be useful for directing your post to an appropriate new mailing list for
 the OpenOffice project:
 
- - users@openoffice.org posts should be sent to users@openoffice.apache.org
- - discuss@openoffice.org posts should be sent to users@openoffice.apache.org
- - dev@openoffice.org posts should be sent to dev@openoffice.apache.org
- - securityteam@openoffice.org posts should be sent to security@openoffice.apache.org
- - project marketing related posts should be sent to marketing@openoffice.apache.org
- - requests to use trademarks should be sent to dev@openoffice.apache.org
- - anything of a confidential nature should be sent to private@openoffice.apache.org
- - support questions related to the OpenOffice product should go to users@openoffice.apache.org
- - website related questions should go to dev@openoffice.apache.org
- - questions on volunteering for the project should go to dev@openoffice.apache.org
- - press queries should go to press@openoffice.apache.org
+- users@openoffice.org posts should be sent to users@openoffice.apache.org
+- discuss@openoffice.org posts should be sent to users@openoffice.apache.org
+- dev@openoffice.org posts should be sent to dev@openoffice.apache.org
+- securityteam@openoffice.org posts should be sent to security@openoffice.apache.org
+- project marketing related posts should be sent to marketing@openoffice.apache.org
+- requests to use trademarks should be sent to dev@openoffice.apache.org
+- anything of a confidential nature should be sent to private@openoffice.apache.org
+- support questions related to the OpenOffice product should go to users@openoffice.apache.org
+- website related questions should go to dev@openoffice.apache.org
+- questions on volunteering for the project should go to dev@openoffice.apache.org
+- press queries should go to press@openoffice.apache.org
 
 For any topic not covered by the above, send your post to: dev@openoffice.apache.org
 
-  [1]:  http://openoffice.apache.org/list-conduct.html
+  [1]:  /list-conduct.html
 
   [2]:  mailto:users-subscribe@openoffice.apache.org
   [3]:  mailto:users@openoffice.apache.org
@@ -305,7 +305,7 @@ For any topic not covered by the above, send your post to: dev@openoffice.apache
   [33]: http://markmail.org/search/list:org.apache.incubator.ooo-issues
   [34]: http://mail-archives.apache.org/mod_mbox/incubator-ooo-issues/
 
-  [35]: http://openoffice.apache.org/native-lang.html
+  [35]: /native-lang.html
 
   [36]: http://openoffice.markmail.org/
 
@@ -353,13 +353,13 @@ For any topic not covered by the above, send your post to: dev@openoffice.apache
   [78]: http://www.mail-archive.com/l10n@openoffice.apache.org/
   [79]: http://www.mail-archive.com/commits@openoffice.apache.org/
   [80]: http://www.mail-archive.com/issues@openoffice.apache.org/
-  [81]: http://www.mail-archive.com/volunteer@openoffice.apache.org/
+  [81]: http://www.mail-archive.com/recruitment@openoffice.apache.org/
 
   [82]: http://openoffice.2283327.n4.nabble.com/Development-f2916443.html
   [83]: http://openoffice.2283327.n4.nabble.com/Users-f2814619.html
 
-  [84]: mailto:volunteer-subscribe@openoffice.apache.org
-  [85]: mailto:volunteer@openoffice.apache.org
-  [86]: mailto:volunteer-unsubscribe@openoffice.apache.org
-  [87]: http://mail-archives.apache.org/mod_mbox/openoffice-volunteer/
+  [84]: mailto:recruitment-subscribe@openoffice.apache.org
+  [85]: mailto:recruitment@openoffice.apache.org
+  [86]: mailto:recruitment-unsubscribe@openoffice.apache.org
+  [87]: http://mail-archives.apache.org/mod_mbox/openoffice-recruitment/
 

@@ -1,7 +1,7 @@
 Title:     New Volunteer Orientation
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-##Welcome!
+## Welcome!
 
 So you are interested in volunteering with the Apache OpenOffice project, one of the oldest and most famous open source projects around? Great, welcome to the project!
 
@@ -9,7 +9,7 @@ Getting involved in a large open source project can be a little intimidating. Th
 
 In order to help new Volunteers fit into the OpenOffice Community and understand socially and technically how we work, we have created a set of self-directed Orientation Modules to provide key information and help you develop key skills needed to contribute effectively to the project.
 
-##Four Levels
+## Four Levels
 
 We've designed the Orientation Modules in four levels:
 
@@ -27,17 +27,17 @@ Levels 3 and 4 are specialized Levels, that focus on basic and intermediate know
 
 * Level 3: Introductory Specialized Areas
 
-	* [Introduction to Development](intro-development.html)
-	* [Introduction to QA](intro-qa.html)
-	* [Introduction to Localization](http://openoffice.apache.org/translate.html) (How to Help Translate OpenOffice)
-	* [Introduction to Marketing](intro-marketing.html)
-	* [Introduction to Documentation](intro-doc.html)
-	* Introduction to Website Content Authoring
+  * [Introduction to Development](intro-development.html)
+  * [Introduction to QA](intro-qa.html)
+  * [Introduction to Localization](/translate.html) (How to Help Translate OpenOffice)
+  * [Introduction to Marketing](intro-marketing.html)
+  * [Introduction to Documentation](intro-doc.html)
+  * Introduction to Website Content Authoring
 
 * Level 4: Intermediate Specialized Areas
 
-	* Intermediate Development
-	* Intermediate QA
-	* Intermediate Localization and Internationalization
-	* Intermediate Marketing
-	* Intermediate Website Development using Perl and the CMS
+  * Intermediate Development
+  * Intermediate QA
+  * Intermediate Localization and Internationalization
+  * Intermediate Marketing
+  * Intermediate Website Development using Perl and the CMS (Obsolete)

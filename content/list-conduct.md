@@ -1,7 +1,7 @@
 Title:     List Conduct Guidelines
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-#1. Respect one another
+# 1. Respect one another
 
 Discussion is the cornerstone of a project like this and the sharing of viewpoints 
 is crucial, as is understanding and accepting that many views will differ from 
@@ -14,7 +14,7 @@ robust discussion and steamrollering. Civility is paramount.
 Manners cost nothing; we are all capable of self-moderation, and of being aware
 of our conduct.
 
-#2. Remember the Apache OpenOffice Mission
+# 2. Remember the Apache OpenOffice Mission
 
 “To create, as a community, the leading international office suite that will run 
 on all major platforms and provide access to all functionality and data through open-component based APIs and an XML-based file format.”
@@ -24,7 +24,7 @@ and consumption. We believe in making AOO freely available because we are the so
  of people who welcome diversity in others, creativity of all sorts and who enjoy 
 finding the best in all situations.
 
-#3. Be Nice
+# 3. Be Nice
 
 Not only are there lots of people on this list whose first language is not English 
 there are some busy readers who, by necessity, have to read things quickly. If 
@@ -35,14 +35,14 @@ follow easily. This does not necessarily indicate that you are mean, wrong and
 bad, so just be nice and reword the passage. Assume people are not in 
 "attack mode." We are all on the same team here.
 
-#4. Don't Respond When You are Angry
+# 4. Don't Respond When You are Angry
 
 Assuming people are not in attack mode means that if you think they are, just now, 
 then probably you are just misunderstanding their point. Ad hominem attacks,
  e.g., "You are too dumb to get this," are a sign that you yourself may not have
  a good-enough handle on the issue to explain your point clearly.
 
-#5. Relax
+# 5. Relax
 
 Always remember that unless there is a *darn* good reason, nothing gets decided 
 at the ASF in less than 72 elapsed hours, so your reply can wait until morning. 
@@ -61,7 +61,7 @@ Of course, not all threads are decision-making threads.  Some are debugging or
 problem solving.  In those cases, the opposite advice applies.  If you know the
  answer, and can state it briefly, then do so.
 
-#6. Get to the point
+# 6. Get to the point
 
 Write as tersely as possible and edit down as much possible so that other people 
 who are just as busy as you may quickly get your point without ending up 
@@ -69,7 +69,7 @@ defensive. Of course, balance is needed. Do not let brevity get in the way of
 providing enough information. Remember that people must understand your post in 
 order to understand your point.
 
-#7. Consider trimming the post to which you are responding
+# 7. Consider trimming the post to which you are responding
 
 People who read emails on small screens are not the only ones who are frustrated
  by picking important new information out of tons of stuff they have already read.
@@ -78,7 +78,7 @@ that are not important to understand ones reply. If the response to one of these
 posts is, “What? I do not understand,” then it may be that too much of the context
  may have been removed.
 
-#8. Respect the private lists
+# 8. Respect the private lists
 
 What happens on a private list, stays on that list.  There are only a few private 
 lists on the project, e.g., the PMC list and the Security Team.  But you might on 
@@ -92,7 +92,7 @@ necessary, and for for topics that require confidentiality, such as information
 that deals with security vulnerabilities, personnel matters, user private 
 information, etc. 
 
-#9. There are going to be exceptions to the rule
+# 9. There are going to be exceptions to the rule
 
 All of these guidelines are subject to sanity-testing. A person posting illegal 
 material on any Apache.org or Apache OpenOffice list will be reported to the 
@@ -101,7 +101,7 @@ has been violated. Ramping up to a release, there are a lot of postings at high
 frequency. Sometimes it unavoidably requires a long post to say what needs to be 
 said.
 
-#10. Moderators are guiding the lists#
+# 10. Moderators are guiding the lists
 >**A. General**
 
 >We have various mailing lists, they all have a purpose. Lists are how we work
@@ -138,6 +138,6 @@ said.
 >PMC at <a href="mailto:private@openoffice.apache.org"> private@openoffice.apache.org.</a>
 >The decision of the PMC is final.
 
-#More Useful Stuff#
+# More Useful Stuff
 
 - [Apache Tips for Email Contributors](http://www.apache.org/dev/contrib-email-tips.html)

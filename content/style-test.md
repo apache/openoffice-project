@@ -15,11 +15,11 @@ This is ordinary text in a paragraph.  This is **bold**, *italics* and a [hyperl
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 
-   * This is a list item in an unordered list
-   * This is a list item in an unordered list
-   * This is a list item in an unordered list
-    * This is a nested list item
-    * This is a nested list item
+* This is a list item in an unordered list
+* This is a list item in an unordered list
+* This is a list item in an unordered list
+  * This is a nested list item
+  * This is a nested list item
 
 Here is a horizontal rule
 

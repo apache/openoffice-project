@@ -54,7 +54,7 @@ unseren Erfahrungen im Rahmen von Apache zusammengeführt.
 
 Wenn dir die Entwicklung von Open Source-Projekten in der Apache Software Foundation bereits
 geläufig ist, dann kannst Du gleich mitmachen. Du musst lediglich die
-[Mailing-Liste](https://openoffice.apache.org/mailing-lists.html)
+[Mailing-Liste](/mailing-lists.html)
 eines Projekts abonnieren und Dich dort vorstellen. Wir
 helfen dir bei diesem ersten Schritt.
 
@@ -79,7 +79,7 @@ Kurzhinweise:
 
 Wenn Du aber zum ersten Mal hier bist oder eine systematischere
 Heranführung wünschst, dann haben wir für Dich ein Paket von Modulen für
-die [Orientierung neuer Helfer](https://openoffice.apache.org/orientation/index.html) vorbereitet, das Dich durch die wichtigsten
+die [Orientierung neuer Helfer](/orientation/index.html) vorbereitet, das Dich durch die wichtigsten
 Aspekte von Apache OpenOffice und unserer Arbeitsweise führt.
 
 Welchen Weg Du nimmst, bleibt Deine persönliche Entscheidung – beide Wege
@@ -89,4 +89,4 @@ Wir haben auf der Seite [»Hilfe gesucht«](https://cwiki.apache.org/confluence/
 konkreten Arbeitsaufgaben, die in Angriff genommen werden sollten.
 
 Wenn Du Student bist und zum Projekt im Rahmen Deines Studiums beitragen
-möchtest, werfe einen Blick auf unsere Seite [»Empfehlungen für Studenten«](https://openoffice.apache.org/students.html).
+möchtest, werfe einen Blick auf unsere Seite [»Empfehlungen für Studenten«](/students.html).

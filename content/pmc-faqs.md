@@ -7,14 +7,14 @@ Here are a number of FAQ's about how the Apache OpenOffice project governance wo
 
 [TOC]
 
-# What is the PMC? # {#pmc}
+# What is the PMC? {#pmc}
 
 The Project Management Committee (PMC) is the government of the project. The committee
 is responsible for the project and decides what to do and which direction to go.
 <br> ([see here for a list of PMC members][1])
 
 
-# Who is the Admin/Moderator/Owner for X? # {#moderator}
+# Who is the Admin/Moderator/Owner for X? {#moderator}
 
 Although Apache projects have few formal roles, there are some technical subsystems
 which have admin or similar roles filled by project volunteers. If you have a question
@@ -90,7 +90,7 @@ Admin: Matthias Seidel
 
 Admin: Jim Jagielski<p>
 
-# How to participate? # {#participate}
+# How to participate? {#participate}
 
 First of all you have to think how you want to participate as we have different
 kind of roles like user, developer, committer. The easiest way is to use what we
@@ -171,7 +171,7 @@ The following is a brief summary of what to expect as committer:
 See the [Guide for new committers][9] and the [Committers' FAQ][10] for more
 information.
 
-# How and when to vote? # {#voting}
+# How and when to vote? {#voting}
 
 Voting is done when a formal decision has to be made or due to legal reasons, e.g.,
 to vote in new members as committers. In any case avoid voting as the normal way is
@@ -179,7 +179,7 @@ to come to a decision by discussions. The initiator is responsible for the vote,
 that means also to count the votes and present the result. Every member has 1 vote.
 <br> ([see here for more information][11])
 
-# Information for Release Managers # {#release_managers}
+# Information for Release Managers {#release_managers}
 
 * ASF General Information:
 [Publishing Releases](https://www.apache.org/dev/release-publishing.html)
@@ -187,15 +187,15 @@ that means also to count the votes and present the result. Every member has 1 vo
 keys: [https://dist.apache.org/repos/dist/release/openoffice](https://dist.apache.org/repos/dist/release/openoffice).
 
 [1]: https://people.apache.org/committers-by-project.html#openoffice-pmc
-[2]: https://openoffice.apache.org/mailing-lists.html
+[2]: /mailing-lists.html
 [3]: https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home
 [4]: https://incubator.apache.org/guides/participation.html
-[5]: https://www.apache.org/licenses/icla.txt
+[5]: https://www.apache.org/licenses/icla.pdf
 [6]: https://www.apache.org/licenses/cla-corporate.txt
 [7]: https://people.apache.org/committer-index.html
 [8]: https://svn.apache.org/repos/private/committers
 [9]: https://www.apache.org/dev/new-committers-guide.html
 [10]: https://www.apache.org/dev/committers.html
-[11]: https://openoffice.apache.org/docs/governance/voting.html
+[11]: /docs/governance/voting.html
 [12]: https://issues.apache.org/jira/browse/INFRA/
 [13]: https://cwiki.apache.org/confluence/display/OOOUSERS/Help+Wanted

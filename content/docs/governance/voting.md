@@ -25,14 +25,13 @@ and present the results. Everyone has 1 vote.
 
 The notation used in voting is:
 
-+1 (means I vote positive)
-   You can say why you vote positive but it's not a must-have.
+**+1** (means I vote positive) -- You can say why you vote positive but it's not a must-have.
 
- 0 (means vote abstention and nothing else)
+**0** (means vote abstention and nothing else)
 
--1 (means I vote negative because of the following reason)
-   Yes, you must support your objection and provide an alternative course of action
-   that you are willing and able to implement (where appropriate).
+**-1** (means I vote negative because of the following reason)
+You must support your objection and provide an alternative course of action
+that you are willing and able to implement (where appropriate).
 
 #### Example for a vote mail:
 
@@ -92,6 +91,6 @@ The notation used in voting is:
 [See here for more mail templates][3]
 
 
-  [1]: http://openoffice.apache.org/docs/governance/consensusBuilding.html
+  [1]: /docs/governance/consensusBuilding.html
   [2]: http://rave.apache.org/docs/governance/voting.html
   [3]: http://community.apache.org/newcommitter.html

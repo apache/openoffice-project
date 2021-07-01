@@ -17,12 +17,12 @@ The notation used is "+1", "-1" and "0". It's also common to see "+0" and "-0".
 
 So, what do these notations mean?
 
-  - +1 means "I agree with this and will help make it happen"
-  - +0 means "I agree with this but probably won't make it happen, so my 
+- +1 means "I agree with this and will help make it happen"
+- +0 means "I agree with this but probably won't make it happen, so my 
 opinion is not that important"
-  - -0 means "I don't agree with this, but I'm offering no alternative so 
+- -0 means "I don't agree with this, but I'm offering no alternative so 
 my opinion is not that important"
-  - -1 means "I don't agree and I am offering an alternative that I am able 
+- -1 means "I don't agree and I am offering an alternative that I am able 
 to help implement"
 
 Many people will use fractions to indicate the strength of their feelings,

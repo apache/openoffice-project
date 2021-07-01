@@ -171,7 +171,7 @@ liability.
 
 END OF TERMS AND CONDITIONS
 
-# APPENDIX: How to apply the Apache License to your work # {#apply}
+# APPENDIX: How to apply the Apache License to your work {#apply}
 
 To apply the Apache License to your work, attach the following boilerplate
 notice, with the fields enclosed by brackets "[]" replaced with your own
@@ -181,7 +181,6 @@ recommend that a file or class name and description of purpose be included
 on the same "printed page" as the copyright notice for easier
 identification within third-party archives.
 
-       :::text
        Copyright [yyyy] [name of copyright owner]
 
        Licensed under the Apache License, Version 2.0 (the "License");

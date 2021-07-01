@@ -1,7 +1,7 @@
 Title: The Public Service Mission of OpenOffice
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
-##Introduction
+## Introduction
 
 Along with an email client and a web browser, an office suite is a core essential
 application that almost every computer user requires. Although there is a dominant
@@ -13,7 +13,7 @@ free for anyone to build upon. Using the generally available discounted price of
 commercial office products, the value of OpenOffice downloads over the past decade
 exceeds USD 10 billion (10,000,000,000).
 
-##Overcoming the "Digital Divide"
+## Overcoming the "Digital Divide"
 
 More than 40% of the world population lives on less than US$ 2 per day, and around 
 20% live on less than US$ 1 per day. Against these numbers, commercial 
@@ -23,7 +23,7 @@ would otherwise have no other affordable options. Within the ICT for Development
 (ICT4D) community, OpenOffice has long been an important part of achieving 
 development goals.
 
-##Support for Linguistic and Cultural Diversity
+## Support for Linguistic and Cultural Diversity
 
 There are over 6,000 languages in the world, but unless the language is associated 
 with a G20 economic superpower, commercial vendors tend to ignore it. The 
@@ -33,7 +33,7 @@ endangered languages, etc.  By supporting languages that would
 not otherwise be supported we help reduce "digital exclusion" and promote 
 development, local education and administration.
 
-##Accessibility
+## Accessibility
 
 Persons with disabilities, especially those with visual impairments, commonly 
 rely on "assistive technology" to interact with computers. Such technologies 
@@ -45,7 +45,7 @@ aims to provide strong accessibility support, both in the core product and
 including broader ecosystem support via extensions, for working with Braille 
 printers, exporting to DAISY talking books, etc.
 
-##Open Standards
+## Open Standards
 
 Open standards are those standards which are created in an open, transparent 
 process, where the specifications can be freely accessed and implemented without 

@@ -9,7 +9,11 @@ import os
 
 AUTHOR = u'OpenOffice Community'
 SITENAME = 'Apache OpenOffice'
-SITEURL = ''
+SITEURL = 'https://openoffice.apache.org/'
+SITEDOMAIN = 'openoffice.apache.org'
+SITEDESC = 'The official developer website of the Apache OpenOffice open source project, home of OpenOffice Writer, Calc, Impress, Draw and Base.'
+SITEKEYS = 'OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format'
+SITELOGO = 'https://openoffice.apache.org/images/AOO4_website_logo.png'
 CURRENTYEAR = date.today().year
 
 PATH = 'content'
@@ -25,8 +29,9 @@ STATIC_PATHS = [ '.' ]
 PATH_METADATA= '(?P<path_no_ext>.*)\..*'
 PAGE_SAVE_AS= '{path_no_ext}.html'
 PAGE_URL= '{path_no_ext}.html'
-#SLUGIFY_SOURCE = 'basename'
-#PAGE_SAVE_AS = '{slug}.html'
+PAGE_TRANSLATION_ID = None
+# SLUGIFY_SOURCE = 'basename'
+# PAGE_SAVE_AS = '{slug}.html'
 
 # We don't use articles, but we don't want pelican to think
 # that content/ contains articles.
@@ -47,10 +52,23 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Configure the asfgenid plugin                                                                                                                                                                                    
+ASF_GENID = {
+    'unsafe_tags': True,
+    'metadata': False,
+    'elements': True,
+    'headings': True,
+    'headings_re': '^h[1-4]',
+    'permalinks': True,
+    'toc': True,
+    'toc_headers': '^h[1-6]',
+    'tables': True,
+    'debug': False
+}
+
 # TOC Generator
-#PLUGIN_PATHS = ['./theme/plugins']
-#PLUGINS = ['toc']
-TOC_HEADERS = r"h[1-6]"
+PLUGIN_PATHS = ['./theme/plugins']
+PLUGINS = ['asfgenid', 'pelican-gfm']
 
 # Unused links
 LINKS = ( )
@@ -71,19 +89,3 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.extra': {},
-        'markdown.extensions.admonition': {},
-        'markdown.extensions.codehilite': {
-            'css_class': 'highlight'
-        },
-        'markdown.extensions.meta': {},
-        'smarty' : {
-            'smart_angled_quotes' : 'true'
-        },
-        'markdown.extensions.toc': {
-            'permalink': 'true',
-        },
-    }
-}
