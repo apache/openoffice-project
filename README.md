@@ -24,45 +24,30 @@ mailing list.
 
 Updating a single file is simple. Simply edit the file online and save with your commit message. The website will be published in a minute or two.
 
-## Prerequisites for building the website locally
+## For large changes create a feature branch
 
-The website is built using [Pelican](https://docs.getpelican.com/en/latest/quickstart.html) and a custom theme.
-The builds for the website do require internet access.
+Create a branch named `preview/*` where `*` is the name of your new feature. For example if your feature branch is named `preview/refresh`
+then commits are automatically staged to https://openoffice-refresh.staged.apache.org
 
-- Install Pelican and Markdown.
-- Python 3 is used.
+Once your features are ready you can create a PR and do a squash & merge.
 
+## ASF Pelican
 
-## Clone the Git Repository
-
-To get a copy of the repository you can either point to `Gitbox` or `GitHub`.
-
-```
-cd ~/Development/openoffice
-rm -rf site.git
-git clone https://gitbox.apache.org/repos/asf/openoffice-project.git site.git
-git fetch
-git pull
-git checkout main
-```
-
-## Building & testing the site locally
-
-To test the site locally, use 
-
-    pelican content -t theme/openoffice
-    pelican --listen
-    
-This builds the site, serves it locally at  http://localhost:8000/.
+See [ASF Pelican documentation](https://infra.apache.org/asf-pelican.html)
 
 ## Markdown
 
-All of the pages in the site are in Markdown in `md` files.
+All of the pages in the site are in Github Flavored Markdown in `md` files. See [GFM](https://infra.apache.org/gfm.html).
 
 ## OpenOffice Theme
 
-Pelican templates are included in the `theme` directory. The site templates are written in `html`.
-`sidenav.html` is used and was derived specially from `sidenav.md`. To change the side navigation edit the `html`.
+Pelican templates are included in the `theme/openoffice/templates` directory. The site templates are written in `html`.
+
+- `base.html` is the main page template.
+- `page.html` extands the base template for the pages.
+- `topnav.html` is the navigation menu and is included.
+
+The CSS stylesheet is in `theme/openoffice/static/css/openoffice.css`.
 
 ## Pages and Assets are in the Content Tree.
 
