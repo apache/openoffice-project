@@ -67,6 +67,7 @@ ASF_GENID = {
 }
 
 # TOC Generator
+THEME = 'theme/openoffice'
 PLUGIN_PATHS = ['./theme/plugins']
 PLUGINS = ['asfgenid', 'pelican-gfm']
 
