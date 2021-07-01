@@ -161,8 +161,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta p {
-  margin-top: 0.25em;
-  margin-bottom: 0.25em;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 #contenta h1,h2,h3,h4,h5,h6 {
