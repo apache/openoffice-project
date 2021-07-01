@@ -146,6 +146,10 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom: 0;
 }
 
+#content ul {
+  paddinng-left: 2em;
+}
+
 #content li {
   margin-bottom: 0.5em;
 }
@@ -154,6 +158,11 @@ h1,h2,h3,h4,h5,h6 {
   margin: 0 20px 20px 20px;
   padding: 0 8px 20px;
   color: #333;
+}
+
+#contenta p {
+  top-margin: 0;
+  bottom-margin: 0.5em;
 }
 
 #contenta h1,h2,h3,h4,h5,h6 {
