@@ -146,11 +146,11 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom: 0;
 }
 
-#content ul {
+#contenta ul {
   paddinng-left: 2em;
 }
 
-#content li {
+#contenta li {
   margin-bottom: 0.5em;
 }
 
@@ -161,8 +161,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta p {
-  top-margin: 0;
-  bottom-margin: 0.5em;
+  top-margin: 0.25em;
+  bottom-margin: 0.25em;
 }
 
 #contenta h1,h2,h3,h4,h5,h6 {
