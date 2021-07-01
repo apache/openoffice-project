@@ -147,7 +147,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta ul {
-  paddinng-left: 2em;
+  padding-left: 2em;
 }
 
 #contenta li {
@@ -161,8 +161,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta p {
-  top-margin: 0.25em;
-  bottom-margin: 0.25em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
 }
 
 #contenta h1,h2,h3,h4,h5,h6 {
