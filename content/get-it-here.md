@@ -52,7 +52,7 @@ HTML page:
     </a>
 ```
 
-##Feedback
+## Feedback
 
 We'd love to hear about your success with adding the "Get it here!" logo to your 
 website.  You can send your links to us at our [marketing][7] mailing list.
