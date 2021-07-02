@@ -4,7 +4,7 @@ site:
   domain: openoffice.apache.org
   logo: images/AOO4_website_logo.png
   repository: https://github.com/apache/openoffice-project/blob/main/content/
-  keys: OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format
+  trademarks: OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format
 
 theme: theme/openoffice
 
