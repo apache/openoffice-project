@@ -14,3 +14,11 @@ plugins:
   use:
     - asfgenid
     - gfm
+
+genid:
+  unsafe: True
+  elements: True
+  headings_depth: 4
+  permalinks: True
+  toc_depth: 6
+  tables: True
