@@ -1,0 +1,16 @@
+site:
+  name: Apache OpenOffice
+  description: The official developer website of the Apache OpenOffice open source project, home of OpenOffice Writer, Calc, Impress, Draw and Base.
+  domain: openoffice.apache.org
+  logo: images/AOO4_website_logo.png
+  repository: https://github.com/apache/openoffice-project/blob/main/content/
+  keys: OpenOffice, Open Office, Apache OpenOffice, Apache Open Office, OpenOffice.org, Developer, Project, Website, Official, Writer, Calc, Impress, Draw, Base, ODF, Open Document Format
+
+theme: theme/openoffice
+
+plugins:
+  paths:
+    - theme/plugins
+  use:
+    - asfgenid
+    - gfm
