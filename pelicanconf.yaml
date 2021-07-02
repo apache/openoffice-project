@@ -12,7 +12,6 @@ plugins:
   paths:
     - theme/plugins
   use:
-    - asfgenid
     - gfm
 
 genid:
