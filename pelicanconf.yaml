@@ -15,9 +15,9 @@ plugins:
     - gfm
 
 genid:
-  unsafe: True
-  elements: True
+  unsafe: yes
+  elements: yes
   headings_depth: 4
-  permalinks: True
+  permalinks: yes
   toc_depth: 6
-  tables: True
+  tables: yes
