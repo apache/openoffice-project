@@ -32,7 +32,7 @@ Including SVN overhead, this requires approximately 4 GB of storage.
 
 ### Source archive of the latest release
 
-An archive of the source for the latest release can be obtainted from the Apache Software Foundation repository:
+An archive of the source for the latest release can be obtained from the Apache Software Foundation repository:
 [https://archive.apache.org/dist/openoffice](https://archive.apache.org/dist/openoffice/)
 
 
@@ -62,7 +62,7 @@ existing Apache OpenOffice installation.
 Install the RPM pack with --prefix="some new AOO directory" option.
 * Windows: Use the custom install option, and choose a new directory location for the
 AOO developer install.
-* Mac: create a new folder for AOO developer install. Download the ".dmg" file there, and install
+* Mac: Create a new folder for AOO developer install. Download the ".dmg" file there, and install
 to the new directory.
 
 
