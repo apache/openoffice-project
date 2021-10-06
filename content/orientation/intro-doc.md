@@ -68,7 +68,7 @@ The Documentation Team is the easiest one to get started with. There are just a 
 
 1. Subscribe to our Documentation mailing list by sending an email to [doc-subscribe@openoffice.apache.org](mailto:doc-subscribe@openoffice.apache.org).
 1. Sign up for an account on our MWiki by sending an e-mail with your preferred user name and e-mail address to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Requesting%20MWiki%20Account)
-1. Sign up for an account on [our CWiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home) (Why do we have two wikis? It is a long story...)**Note:** **After creation the account must be whitelisted by sending a request with the account name to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Whitelist%20CWiki%20Account)**
+1. Sign up for an account on [our CWiki](https://cwiki.apache.org/confluence/display/OOOUSERS/Wiki+Home) (Why do we have two wikis? It is a long story...)**Note:** **After creation the account must be allowed by sending a request with the account name to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=Allow%20CWiki%20Account)**
 1. Add your name to our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) and
 [Documentation Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Documentation+Volunteers) pages.
 1. Send an email to the [Documentation mailing list](mailto:doc@openoffice.apache.org?subject=New%20Doc%20Volunteer) and introduce yourself.

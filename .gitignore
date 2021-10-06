@@ -5,3 +5,5 @@ cache
 .history
 .idea
 *~
+pelican.auto.py
+site-generated

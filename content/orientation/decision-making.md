@@ -59,7 +59,7 @@ In the previous Module we read about collaboration on the mailings lists, how to
 
    2. In most cases proposals are decided by consensus, based on community discussions. Only in rare cases, and in a small number of pre-defined administrative questions, do we resort to a formal counting of votes. The places where we require voting are: voting to release, voting in a new Committer or PMC Member, Voting in a new PMC Chair. That's it. Generally speaking, voting on any other topic is avoided in favor of consensus building. With voting there are winners and losers. With consensus everyone wins.
 
-   3. Another aspect of decision making in an Apache project is the "veto". Every Committer has the ability to "veto" a change, for technical reasons, provided he explains the technical reasons for the veto, describes an alternative approach, and offers to help implement the alternative approach. Vetos are quite rare.
+   3. Another aspect of decision making in an Apache project is the "veto". Every Committer has the ability to "veto" a change, for technical reasons, provided they explain the technical reasons for the veto, describes an alternative approach, and offers to help implement the alternative approach. Vetos are quite rare.
 
    4. There is one disorder of community decision making that is common enough to warrant a colorful name: [bikeshedding](http://bikeshed.com/). Follow the link and read more about this topic.
 

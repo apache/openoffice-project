@@ -174,7 +174,7 @@ To get more familiar with AOO, now you can try to perform some manual test cases
 
 ## Easy QA Task: Test Case Authoring
 
-This is a more advanced topic, but after mastery of the above two steps, and learning to "think like a bug", you will be ready for this.
+This is a more advanced topic, but with the above two steps, and learning to "think like a bug", you will be ready for this.
 
 After some practice on test case execution, now you can start writing new test cases.
 
