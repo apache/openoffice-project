@@ -10,15 +10,15 @@ via the global [download page](https://www.openoffice.org/download/).
 ***Current Version 4.1.11 (released on October 06, 2021)***
 
  * **Source**:
-    * [apache-openoffice-4.1.11-bdb20b2a64-src.zip](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.zip)
+    * [apache-openoffice-4.1.11-bdb20b2a64-src.zip](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.zip)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.zip.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.zip.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.zip.sha512)]
-    * [apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz)
+    * [apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.gz.sha512)]
-    * [apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2)
+    * [apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/source/apache-openoffice-4.1.11-bdb20b2a64-src.tar.bz2.sha512)]
@@ -27,27 +27,27 @@ via the global [download page](https://www.openoffice.org/download/).
     * [Downloads](https://www.openoffice.org/download/index.html)
 
  * **Software Development Kit (SDK)**:
-    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz)
+    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-deb_en-US.tar.gz.sha512)]
-    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz)
+    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86-64_install-rpm_en-US.tar.gz.sha512)]
-    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz)
+    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-deb_en-US.tar.gz.sha512)]
-    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz)
+    * [Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Linux_x86_install-rpm_en-US.tar.gz.sha512)]
-    * [Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg)
+    * [Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_MacOS_x86-64_install_en-US.dmg.sha512)]
-    * [Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe)
+    * [Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe](https://www.apache.org/dyn/closer.lua/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe)
       [[asc](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.11/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe.sha512)]
