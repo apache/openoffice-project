@@ -16,6 +16,12 @@ OpenOffice.org][5].
 
 ## Announcements
 
+*2022-07-22 -- [Apache OpenOffice][1] 4.1.13 is released!*
+
+- [Download Source and SDK](/downloads.html)
+- [Download Binaries](https://www.openoffice.org/download/)
+- [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.13+Release+Notes)
+
 *2022-05-04 -- [Apache OpenOffice][1] 4.1.12 is released!*
 
 - [Download Source and SDK](/downloads.html)
