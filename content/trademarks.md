@@ -5,7 +5,7 @@ Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 The Apache Software Foundation holds trademarks on behalf of its
 projects. For the Apache OpenOffice project these trademarks include
-the names Apache OpenOffice™ and OpenOffice.org®, as well as the
+the names Apache OpenOffice® and OpenOffice.org®, as well as the
 [graphical logos][5]. Other graphic formats can be found [here][6].
 Use of these marks is prohibited without explicit permission from the
 ASF.
@@ -30,7 +30,7 @@ To request such permission, follow these steps:
    1. A list of what ASF controlled marks you wish to use
 
    1. A description of how these marks would be used. Give supporting
-      detail, along with context  If you are requesting use of the
+      detail, along with context. If you are requesting use of the
       logo, for example, provide a prototype of how the logo would
       appear in the context of the overall design.
 
@@ -64,7 +64,7 @@ please:
 ## The "Get it here!" download logo
 
 A specific logo is recommended for use by those who wish to help
-promote the  project by hosting a download logo on their website.
+promote the project by hosting a download logo on their website.
 The ["Get it here!"][3] logo may be used according to the
 requirements listed on that page.
 
