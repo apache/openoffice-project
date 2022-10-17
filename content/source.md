@@ -19,7 +19,7 @@ for more information on using subversion (svn) for the Apache OpenOffice project
 <!--- You can use our git repository for downloading source but not committing (read only):
     [https://github.com/apache/openoffice](https://github.com/apache/openoffice)-->
 
-Instructions provided in [README.md](https://github.com/apache/openoffice) from github.com can be used successfully to get a local copy of the complete source for Apache OpenOffice.
+Instructions provided in [README.md](https://github.com/apache/openoffice#readme) from github.com can be used successfully to get a local copy of the complete source for Apache OpenOffice.
 
 ### Using SVN (applies to code through July, 2019)
 
