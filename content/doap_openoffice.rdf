@@ -39,9 +39,9 @@
     <category rdf:resource="https://projects.apache.org/category/content" />
     <release>
       <Version>
-        <name>Apache OpenOffice 4.1.11</name>
-        <created>2021-10-06</created>
-        <revision>4.1.11</revision>
+        <name>Apache OpenOffice 4.1.13</name>
+        <created>2022-07-22</created>
+        <revision>4.1.13</revision>
       </Version>
     </release>
     <repository>
