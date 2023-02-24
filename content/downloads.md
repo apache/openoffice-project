@@ -50,7 +50,7 @@ via the global [download page](https://www.openoffice.org/download/).
     * [Apache_OpenOffice-SDK_4.1.13_Win_x86_install_en-US.exe](https://www.apache.org/dyn/closer.lua/openoffice/4.1.13/binaries/SDK/Apache_OpenOffice-SDK_4.1.13_Win_x86_install_en-US.exe)
       [[asc](https://downloads.apache.org/openoffice/4.1.13/binaries/SDK/Apache_OpenOffice-SDK_4.1.13_Win_x86_install_en-US.exe.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.13/binaries/SDK/Apache_OpenOffice-SDK_4.1.13_Win_x86_install_en-US.exe.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.13/binaries/SDK/Apache_OpenOffice-SDK_4.1.11_Win_x86_install_en-US.exe.sha512)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.13/binaries/SDK/Apache_OpenOffice-SDK_4.1.13_Win_x86_install_en-US.exe.sha512)]
 
 **Note**
 All downloads can be verified using the Apache OpenOffice code signing [KEYS](https://downloads.apache.org/openoffice/KEYS).<br>
