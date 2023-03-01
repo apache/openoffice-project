@@ -50,7 +50,7 @@
 |      | content/style-test.md |     This is the title - **cms test page** |
 | footer/Contact Us   | content/contact.md | Contact Us |
 | footer/Terms of Use  | content/terms.md |     Terms of Use |
-| footer/Privacy   | content/privacy.md |     Privacy |
+| footer/Privacy   | privacy.apache.org/policies/privacy-policy-public.html |     Privacy |
 | ASF/Website | www.apache.org |  |
 | ASF/License | www.apache.org/licenses |  |
 | ASF/Security | www.apache.org/security | **There should only be one security link** |
