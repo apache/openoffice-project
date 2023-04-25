@@ -1,0 +1,14 @@
+---
+layout: post
+title: With Apache OpenOffice you get what you don't pay for
+date: '2013-06-17T18:06:36+00:00'
+permalink: with_apache_openoffice_you_get
+---
+<div align="center"><a title="Juichende jongens bij VSV-DFC / Boys cheering when their  favorite team scores by Nationaal Archief, on Flickr" href="http://www.flickr.com/photos/nationaalarchief/4681460753/"><img width="640" height="465" alt="Juichende jongens bij VSV-DFC / Boys cheering when their  favorite team scores" src="http://farm2.staticflickr.com/1277/4681460753_2245d340c8_z.jpg" /></a></div> 
+  <p> </p> 
+  <p>
+
+Apache OpenOffice is and always will be free to <a href="http://www.openoffice.org/download/">download from our website</a>.&nbsp; The <a href="http://www.apache.org/licenses/LICENSE-2.0.html">license</a> allows you to use it yourself and share copies with friends and families or even total strangers.&nbsp; You may use it on home machines, in the office, with your small business, school, church, gardening club, etc.&nbsp; And if you know how to program software, you can take the <a href="http://openoffice.apache.org/source.html">source code for OpenOffice</a> and modify it and share it with others as well.&nbsp; This is what open source means.</p> 
+  <p>So it is sad when we receive emails from users, reporting that they have paid real money, as much as <span class="TPayTextSmall">€ 30 ($40 US), to websites in return for a link to our website.&nbsp; These websites promise the user immediate access to &quot;open source office software with support for the lowest price&quot;, claim that &quot;supplies are limited&quot; and that prices are &quot;50% off, if you order within the next 2 minutes&quot;.&nbsp; But after entering your credit card, or authorizing payment via SMS, you are merely redirected to the <a href="http://www.openoffice.org">www.openoffice.org</a>&nbsp; website, where you can download the same Apache OpenOffice software that everyone else downloads for free!</span></p> 
+  <p>Of course, the fact that you are reading this blog is evidence that you are familiar with OpenOffice and know that it is free.&nbsp; The people who will be tricked into paying are those who do not read our blog, those who are not already familiar with OpenOffice.&nbsp; </p> 
+  <p>But with your help we can reach those in need of a free office suite, and make them aware of Apache OpenOffice and let them know that they can download it for free.&nbsp;&nbsp; The more people who know about OpenOffice, the fewer people who will be fooled.&nbsp;&nbsp; To help, go to our <a href="http://www.openoffice.org/download/">download page</a> and the &quot;Help Spread the Word&quot; section.&nbsp; Use any (or all) of those links to share the word about OpenOffice to your friends and family.&nbsp;&nbsp; Let's try to make as many people as possible aware of OpenOffice!</p>
