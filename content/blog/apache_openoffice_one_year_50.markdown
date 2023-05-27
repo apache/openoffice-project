@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice: One Year, 50 Million Downloads'
+layout: post
 date: '2013-05-15T17:19:19+00:00'
 permalink: apache_openoffice_one_year_50
----
+
 <p>We are pleased to note that yesterday we reached the <b>50 million download mark</b> for Apache OpenOffice 3.4. &nbsp; This milestone occurred within a few days of the first anniversary of the release of Apache OpenOffice 3.4., on May 8th, 2012.&nbsp; <br /></p> 
   <p>Apache OpenOffice (formerly called OpenOffice.org) is the leading free and open source office application suite for Windows, Mac and Linux.&nbsp; Version 1.0 of OpenOffice was released 11 years ago, in May 2002.<br /></p> 
   <p>Although we're all very busy now with the testing of our next major release, Apache OpenOffice 4.0, it is worth taking a few minutes to explore some of the trends that can be discerned from our download data over the past year.&nbsp; The information we have gathered, relative to desktop OS versions, 64-bit Linux use, screen aspect ratios, etc.,&nbsp; may be of special interest to other open source projects to consider in their 

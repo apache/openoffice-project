@@ -1,9 +1,8 @@
----
-layout: post
 title: International Mother Language Day 2013
+layout: post
 date: '2013-02-20T16:31:34+00:00'
 permalink: international_mother_language_day_2013
----
+
 <div align="center"><img src="http://blogs.apache.org/OOo/mediaresource/130a1ac9-ae54-493a-9fe1-6dd81f8cb047" /></div> 
   <p>(This post is also translated into the mother languages of some of our volunteers, including <a href="http://thewink.in/AOO-IMLD/IMLD-2013.html">Tamil</a> by V.Kadal Amutham, Korean by Jeongkyu Kim, Italian by Fabrizio Marchesano, Asturian by Xuacu Saturio, French by Cyril Beaussier, Spanish by Ricardo Gabriel Berlasso and German by <span class="gD" name="Guenter Marxen">Guenter Marxen.</span></p> 
   <p> </p> 

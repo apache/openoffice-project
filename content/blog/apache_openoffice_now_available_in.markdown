@@ -1,10 +1,8 @@
----
+title: Apache OpenOffice now available in Danish, Norwegian, Swedish, Korean, Polish,  Basque, Asturian and Scottish Gaelic
 layout: post
-title: Apache OpenOffice now available in Danish, Norwegian, Swedish, Korean, Polish,
-  Basque, Asturian and Scottish Gaelic
 date: '2013-01-30T05:05:42+00:00'
 permalink: apache_openoffice_now_available_in
----
+
 <div align="center"> 
     <p><a href="http://www.flickr.com/photos/statelibraryofnsw/7095325275/" title="Sydney Grammar School's eight-oar-crew, Putney, Sydney, ca. 1932 / photographer Sam Hood by State Library of New South Wales collection, on Flickr"><img width="500" height="377" src="http://farm8.staticflickr.com/7194/7095325275_c2f2183be4.jpg" alt="Sydney Grammar School's eight-oar-crew, Putney, Sydney, ca. 1932 / photographer Sam Hood" /></a></p> 
   </div> 

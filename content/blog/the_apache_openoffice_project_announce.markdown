@@ -1,9 +1,8 @@
----
-layout: post
 title: The Apache OpenOffice project announce the release of Apache OpenOffice 4.1
+layout: post
 date: '2014-04-29T11:23:18+00:00'
 permalink: the_apache_openoffice_project_announce
----
+
 <div><b><i>Improvements to graphics, charts, forms, text annotations and
  accessibility feature in this 23rd release of the 14-year old 
 community-run open source project</i></b></div> 

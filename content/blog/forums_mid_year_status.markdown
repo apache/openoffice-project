@@ -1,9 +1,8 @@
----
-layout: post
 title: 'The Community Forum: Mid Year Status'
+layout: post
 date: '2012-07-08T20:22:35+00:00'
 permalink: forums_mid_year_status
----
+
 <p align="center"><img src="https://blogs.apache.org/OOo/mediaresource/e4f45203-922f-4bf7-ba4d-52db2ca50dba" /><br /></p> 
   <p> </p> 
   <p>The Apache OpenOffice (incubating) English Community Forum has registered its 50,000th member mid-June. However, there are still around 1,800 spam accounts, hence count of true members is still slightly under the 50,000 level. But we should reach it in August.</p> 

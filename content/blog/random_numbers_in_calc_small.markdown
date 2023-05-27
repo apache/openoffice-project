@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Random Numbers in Calc: Small Enhancements That Can Make a Difference'
+layout: post
 date: '2012-12-20T18:06:52+00:00'
 permalink: random_numbers_in_calc_small
----
+
 <p>
 RAND() is one of those barely noticeable functions that seem to be trivial and a given in modern spreadsheets. The truth behind RAND() and other functions that try to simulate the real world in some way is that they are extremely difficult, and maybe even impossible, to do correctly.<br />Historically OpenOffice Calc used a very naïve random number generation function based on the system's libc. The system libc version is usually very outdated and is only meant to produce very limited results, but perhaps more dangerously such a random number generator is system dependent so moving your work from one system to another will cause problems or at least changing behaviours.<br /><br />As soon as I noticed that OpenOffice used such an obsolete function I thought it would be easy to replace this with some modern algorithm that could guarantee good results: I was right.&nbsp; Incredibly, despite being a closed commercial product, Microsoft described the algorithm they chose as the basis for their implementation in Office[1]. Microsoft has indeed taken note of the requirements of their users and updated the functions to generate random numbers in Excel 2003 with the well documented implementation from Wichmann and Hill (1982).<br /><br />Since 1982 there have been several well documented algorithms, but there was a natural enchantment in using the same algorithm used by Microsoft; after all they are the leading Office Suite and users tend to know better the behaviour of their suite. After an initial implementation I found that Wichmann and Hill developed an update to their original algorithm in 2006 that completely overcomes some serious limitations in 1982: the original implementation had in mind 16-bit systems while 32 and even 64 bit platforms are ubiquitous nowadays.<br /><br />The code is not complex; the implementation of the new code was done during two days (part time) following three steps:<br /><br /> </p> 
   <ol> 

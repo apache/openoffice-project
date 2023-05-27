@@ -1,9 +1,8 @@
----
-layout: post
 title: Developer in AOO, 1year celebration
+layout: post
 date: '2013-07-31T15:18:20+00:00'
 permalink: developer_in_aoo_1year_celebration
----
+
 <p><font size="4"><b>1 year as developer with AOO</b></font> [<a href="https://www.openoffice.org/">Apache OpenOffice</a>]<br /></p> 
   <table width="100%" cellspacing="1" cellpadding="1" border="0"> 
     <tbody> 

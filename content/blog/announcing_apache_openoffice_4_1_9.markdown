@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.9
+layout: post
 date: '2021-02-08T17:13:07+00:00'
-permalink: announcing-apache-openoffice-4-15
----
+permalink: announcing_apache_openoffice_4_1_9
+
 <p><strong><span style="color: rgb(49,55,57);">Forest Hill, MD</span></strong> - <strong>07</strong><strong> February 2021</strong>
  - Apache OpenOffice, a leading Open Source office document productivity
  suite, announced today Apache OpenOffice 4.1.9, as usual available in 

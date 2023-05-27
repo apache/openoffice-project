@@ -1,9 +1,8 @@
----
-layout: post
 title: Call for Documentation Volunteers
+layout: post
 date: '2013-02-26T14:25:54+00:00'
 permalink: call_for_documentation_volunteers
----
+
 <div align="center"><a title="Mt. Holyoke, Massachusetts - Paper. American Writing Paper Co. Super-calender - putting on roll, starting operation, 1936 by The U.S. National Archives, on Flickr" href="http://www.flickr.com/photos/usnationalarchives/7494447314/"><img width="500" height="365" alt="Mt. Holyoke, Massachusetts - Paper. American Writing Paper Co. Super-calender - putting on roll, starting operation, 1936" src="http://farm8.staticflickr.com/7135/7494447314_9c83562037.jpg" /></a></div> 
   <p> </p> 
   <p> </p> 

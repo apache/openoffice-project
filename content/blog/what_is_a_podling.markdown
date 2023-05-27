@@ -1,9 +1,8 @@
----
-layout: post
 title: Incubation, podling, IP Clearance, oh my!
+layout: post
 date: '2011-10-18T20:10:51+00:00'
 permalink: what_is_a_podling
----
+
 <a href="http://www.flickr.com/photos/floridamemory/3310996545/" title="Chicken eggs inside a chicken hatchery: Jacksonville Region, Florida by State Library and Archives of Florida, on Flickr"><img src="http://farm4.static.flickr.com/3588/3310996545_44ea9f96fb.jpg" width="400" height="500" alt="Chicken eggs inside a chicken hatchery: Jacksonville Region, Florida" /></a> 
   <h1><font face="arial, helvetica, sans-serif"></font></h1><hr /> 
   <p>The Apache OpenOffice.org project is currently in the incubation phase. We're a 'podling'. It's where all new Apache projects begin, regardless of

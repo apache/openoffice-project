@@ -1,10 +1,8 @@
----
+title: Porting Apache OpenOffice (incubating) to Solaris, an interview with Nicolas Christener of Adfinis SyGroup
 layout: post
-title: Porting Apache OpenOffice (incubating) to Solaris, an interview with Nicolas
-  Christener of Adfinis SyGroup
 date: '2012-06-18T01:24:10+00:00'
 permalink: porting_apache_openoffice_to_solaris
----
+
 <div align="center"> 
     <p><img src="http://www.robweir.com/solaris.jpg" /></p> 
   </div> 

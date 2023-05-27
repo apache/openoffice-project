@@ -1,10 +1,9 @@
----
+title: 'X-ApacheOpenOffice: A Portable Applications Version of Apache OpenOffice from winPenPack'
+
 layout: post
-title: 'X-ApacheOpenOffice: A Portable Applications Version of Apache OpenOffice from
-  winPenPack'
 date: '2013-04-04T12:12:08+00:00'
 permalink: x_apacheopenoffice_a_portable_applications
----
+
 <p>We receive many questions from users looking for a portable version of Apache OpenOffice.&nbsp; &quot;Portable Applications&quot;<span lang="en"><span></span></span> are software applications designed or adapted to run from portable storage, like a USB memory stick, without requiring an installation.&nbsp; Such applications allow you to bring your applications, settings and documents with you.&nbsp; One popular portable version of OpenOffice is &quot;<a href="http://www.winpenpack.com/en/download.php?view.1341">X-ApacheOpenOffice</a>&quot;, from the <a href="http://www.winpenpack.com">winPenPack</a> open source project. &nbsp; We interviewed the founder of winPenPack, <span class="il">Danilo</span>
  Leggieri, and his team to learn more. </p> 
   <p> </p> 

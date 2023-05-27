@@ -1,9 +1,8 @@
----
-layout: post
 title: OOo! There&rsquo;s a New Podling in the Nursery Incubator
+layout: post
 date: '2011-07-09T22:17:59+00:00'
 permalink: ooo_there_rsquo_s_a
----
+
 <p>The <a href="http://incubator.apache.org/projects/openofficeorg.html">Apache OpenOffice.org (incubator)</a> project was born on Monday, June 13, 2011.&nbsp; Delivery was complicated.&nbsp; The baby’s doing fine.</p> 
   <p>Following the <a href="http://www.marketwire.com/press-release/statements-on-openofficeorg-contribution-to-apache-nasdaq-orcl-1521400.htm">June 1, 2011 announcement</a> of the license grant from Oracle to the Apache Software foundation, there was extensive discussion over the proposal for acceptance of OpenOffice.org as an Apache <a href="http://incubator.apache.org/incubation/Incubation_Policy.html">incubator project</a>.&nbsp; Before the June 10 voting began, 207 edits had been made to the <a href="http://wiki.apache.org/incubator/OpenOfficeProposal">proposal</a>.&nbsp; Discussion leading up to the vote swamped the <a href="http://mail-archives.apache.org/mod_mbox/incubator-general/201106.mbox/date">public mailing list</a> used for consideration and oversight of incubator projects.</p> 
   <p>We’re now taking the baby steps that will lead us to a healthy, thriving project:</p> 

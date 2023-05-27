@@ -1,9 +1,8 @@
----
-layout: post
 title: Welcome to GSoC Students!
+layout: post
 date: '2013-04-10T12:19:55+00:00'
 permalink: welcome_to_gsoc_students
----
+
 <div align="center"> 
     <p><a href="http://www.flickr.com/photos/osucommons/3332955265/" title="Coeds with Hoes by OSU Special Collections &amp; Archives : Commons, on Flickr"><img width="500" height="408" src="http://farm4.staticflickr.com/3575/3332955265_b9c81cfd81.jpg" alt="Coeds with Hoes" /></a></p><a href="http://www.flickr.com/photos/osucommons/3332955265/" title="Coeds with Hoes by OSU Special Collections &amp; Archives : Commons, on Flickr"> 
       <p> </p></a> 

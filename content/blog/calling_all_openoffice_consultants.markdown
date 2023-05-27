@@ -1,9 +1,8 @@
----
-layout: post
 title: Calling all OpenOffice Consultants
+layout: post
 date: '2012-10-09T22:37:25+00:00'
 permalink: calling_all_openoffice_consultants
----
+
 <div align="center"> 
     <p><a href="http://www.flickr.com/photos/nasacommons/4940324599/" title="NASA Deputy Administrator Robert Seamans, von Braun and President Kennedy at Cape Canaveral by NASA on The Commons, on Flickr"><img width="500" height="375" src="http://farm5.staticflickr.com/4078/4940324599_2271d153bb.jpg" alt="NASA Deputy Administrator Robert Seamans, von Braun and President Kennedy at Cape Canaveral" /></a></p> 
   </div> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice in 2013: a year in review'
+layout: post
 date: '2013-12-31T13:48:18+00:00'
 permalink: apache_openoffice_in_2013_a
----
+
 <p> </p> 
   <p>&nbsp;2013 has been an exciting year for the OpenOffice project and community.<br /></p> 
   <p>&nbsp;Click on the picture below to start a slideshow with highlights from 2013. A text-only version is under the picture.</p> 

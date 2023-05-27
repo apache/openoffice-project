@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.7
+layout: post
 date: '2019-09-21T19:40:11+00:00'
-permalink: announcing-apache-openoffice-4-13
----
+permalink: announcing_apache_openoffice_4_1_7
+
 <p>21 September 2019 - Apache OpenOffice, the leading Open Source office 
 document productivity suite, announced today Apache OpenOffice 4.1.7, as
  usual available in 41 languages for Windows, macOS and Linux.<br /><br />Apache

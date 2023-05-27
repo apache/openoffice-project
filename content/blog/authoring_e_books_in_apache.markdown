@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Authoring e-Books in Apache OpenOffice: An Interview with Jon Swords-Holdsworth'
+layout: post
 date: '2015-05-13T11:51:36+00:00'
 permalink: authoring_e_books_in_apache
----
+
 <span id="docs-internal-guid-37476a48-42f8-a20b-0281-95f5e56df6a8"><font face="Arial"><span style="font-size: 15px; line-height: 20.7000007629395px; white-space: pre-wrap;"> </span></font> 
     <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><font face="Arial"><span style="font-size: 15px; line-height: 20.7000007629395px; white-space: pre-wrap;">A few months ago we received an email from Jon Swords-Holdsworth, an author of &quot;slipstream and hard science fiction&quot; from Melbourne, Australia.   He was finishing up a new volume of short stories, </span><i style="font-size: 15px; line-height: 20.7000007629395px; white-space: pre-wrap;">Stories of an Awkward Size</i><span style="font-size: 15px; line-height: 20.7000007629395px; white-space: pre-wrap;"> and was seeking permission to mention <a href="http://www.openoffice.org/">Apache OpenOffice</a> in the book's colophon.  Since I know the topic of e-book production is of interest to many OpenOffice users, I asked Jon if he'd consent to an interview (via email) on this topic, to which he agreed.  I certainly learned a lot from Jon about what is involved in using OpenOffice and other open source tools together to produce an e-book.  I hope you do as well!</span></font></p> 
     <p> </p> 

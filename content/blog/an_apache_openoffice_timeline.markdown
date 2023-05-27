@@ -1,9 +1,8 @@
----
-layout: post
 title: Where did the time go? (A look at the Apache OpenOffice (incubating) timeline)
+layout: post
 date: '2012-03-13T16:20:56+00:00'
 permalink: an_apache_openoffice_timeline
----
+
 <div align="center"> 
     <p><img src="https://blogs.apache.org/OOo/mediaresource/45328134-cd06-4a61-9660-d3a4cfbdfa95" /></p> 
     <div align="left"> 

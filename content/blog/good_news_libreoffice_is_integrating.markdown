@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Good news: LibreOffice has integrated my SVG import feature'
+layout: post
 date: '2012-11-14T13:51:52+00:00'
 permalink: good_news_libreoffice_is_integrating
----
+
 <p>A nice feature I have implemented for Apache OpenOffice 3.4 released in May 2012, the new native SVG Import (see <a href="https://blogs.apache.org/OOo/entry/native_svg_support_for_apache" title="here">here</a>), will make an appearance to the next LibreOffice version.  It replaces the former SVG import greatly improving user experience and
  removing dependencies of six external libraries, also benefiting 
 startup (a little bit). It has been integrated to the LibreOffice trunk for their 3.7 version recently (see <a title="here" href="http://cgit.freedesktop.org/libreoffice/core/commit/?id=44cfc7cb6533d827fd2d6e586d92c61d7d7f7a70">here</a>). This is also true for some more AOO features and bug fixes (e.g. the long missing LineCaps). These features are not yet promoted on the 3.7 feature page, but I hope it will be done as well and fancy as they usually do it for big features.<br /></p> 

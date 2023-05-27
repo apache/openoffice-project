@@ -1,9 +1,8 @@
----
-layout: post
 title: OpenOffice downloaded once - used and installed as often you want
+layout: post
 date: '2013-02-19T16:45:02+00:00'
 permalink: openoffice_downloaded_once_used_and
----
+
 <p> One major advantage of OpenOffice is that it is open source and that
  the license allows you to use and install it as often you want. Once you 
 have downloaded OpenOffice you can share it with as many other people as you like or install it on as many computers as 

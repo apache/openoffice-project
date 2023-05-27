@@ -1,9 +1,8 @@
----
-layout: post
 title: 1.6 million downloads of Apache OpenOffice 4.1.7
+layout: post
 date: '2019-10-22T18:44:44+00:00'
 permalink: 1-6-million-downloads-of
----
+
 <p>On Sep, 21st we have released Apache OpenOffice 4.1.7. Since then we had <a href="https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.7/stats/timeline?dates=2019-09-21+to+2019-10-21" target="_blank" title="Apache OpenOffice download statistics">1.6 million</a>
  download requests. And this is only for the newest release. There are 
 more for other versions that the users download due to their special 

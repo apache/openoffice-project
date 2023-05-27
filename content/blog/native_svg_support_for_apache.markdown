@@ -1,9 +1,8 @@
----
-layout: post
 title: Native SVG support for Apache OpenOffice 3.4 (Incubating)
+layout: post
 date: '2012-01-19T11:02:42+00:00'
 permalink: native_svg_support_for_apache
----
+
 <p>Apache OpenOffice 3.4 supports embedding SVG graphics using a newly created native SVG interpreter implementation. I want to talk about the advantages and some internals of this solution and the necessary changes done.<br /></p> 
   <p>One reason to do this was IP clearance. It allowed removal of six GPL/LGPL libraries, namely 
 librsvg, libcroco, libgsf, gdk-pixbuf, glib, and pango gettext. These 

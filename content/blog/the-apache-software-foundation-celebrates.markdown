@@ -1,9 +1,8 @@
----
-layout: post
 title: The Apache Software Foundation Celebrates 20 Years of OpenOffice®
+layout: post
 date: '2020-10-15T22:15:59+00:00'
 permalink: the-apache-software-foundation-celebrates
----
+
 
         <p class="entryContent">
                             </p><p><b><i>Leading Open Source office 

@@ -1,9 +1,8 @@
----
-layout: post
 title: With Special Guest Star... Apache OpenOffice
+layout: post
 date: '2013-04-18T16:13:26+00:00'
 permalink: with_special_guest_star_apache
----
+
 <p align="left">Viewers of the hit ABC sitcom <i>Suburgatory </i>may have noticed something special in the season 2 finale last night, in an episode called &quot;Apocalypse Meow&quot;.&nbsp; Lead character Tessa (played by Jane Levy) used the free, open source office productivity software <a href="http://www.openoffice.org/">Apache OpenOffice</a> on her Mac, to outline the pros and cons of getting revenge on her nemesis Dalia:<br /></p> 
   <p align="center"><img src="https://blogs.apache.org/OOo/mediaresource/c285d614-9d4f-4c85-88ba-6b701074f8e4?" /></p> 
   <p align="left"> </p> 

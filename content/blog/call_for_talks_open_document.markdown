@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Call for talks: Open Document Editors Devroom at FOSDEM 15'
+layout: post
 date: '2014-11-03T22:23:41+00:00'
 permalink: call_for_talks_open_document
----
+
 FOSDEM 15 will be held at the ULB Campus Solbosch on Saturday, January
 31, and Sunday, February 1st, 2015.
 <br /> <br />Open document editors are coming again to FOSDEM with a shared devroom which gives every project in this area a chance to present ODF related

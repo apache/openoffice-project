@@ -1,9 +1,8 @@
----
-layout: post
 title: When will OpenOffice version X be released?
+layout: post
 date: '2013-06-10T15:59:11+00:00'
 permalink: when_will_openoffice_version_x
----
+
 <div align="center"> 
     <p><a title="Grayson, Westley, Stanislaus County, Western San Joaquin Valley, California. Seventh and eighth grad . . ., 05/09/1940 by The U.S. National Archives, on Flickr" href="http://www.flickr.com/photos/usnationalarchives/5189750209/"><img width="500" height="370" alt="Grayson, Westley, Stanislaus County, Western San Joaquin Valley, California. Seventh and eighth grad . . ., 05/09/1940" src="http://farm5.staticflickr.com/4085/5189750209_610f37be51.jpg" /></a></p><a title="Grayson, Westley, Stanislaus County, Western San Joaquin Valley, California. Seventh and eighth grad . . ., 05/09/1940 by The U.S. National Archives, on Flickr" href="http://www.flickr.com/photos/usnationalarchives/5189750209/"> 
       <p> </p></a> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: Apache OpenOffice reach out to the world
+layout: post
 date: '2012-11-26T14:56:06+00:00'
 permalink: apache_openoffice_reached_out_to
----
+
 <h3>Call for Translation Volunteers <br /></h3> 
   <p>The Apache OpenOffice project issues a Call for Translation Volunteers, to help us complete several translations that are nearly done, but need an extra push before we can release them.&nbsp; Languages that are almost done include: Danish, Korean, Polish, Asturian, Uighur, Icelandic, Indonesian, Welsh, Catalan, Bulgarian, Latvian, Greek, Basque, English (South Africa), Portuguese, Swedish, Marathi, Kannada, Gujarati, Irish, Oriya and Turkish.&nbsp; We welcome with native fluency in these languages.&nbsp; Read on to learn more, or if you know you want to help <a href="http://openoffice.apache.org/translate.html">this page</a> has more information on how to get involved. <br /></p> 
   <h3>OpenOffice and Linguistic and Cultural Diversity<br /></h3> 

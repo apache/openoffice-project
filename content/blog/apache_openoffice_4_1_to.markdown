@@ -1,9 +1,8 @@
----
-layout: post
 title: Apache OpenOffice 4.1 to Bring Enhanced Accessibility Support
+layout: post
 date: '2013-11-15T14:06:42+00:00'
 permalink: apache_openoffice_4_1_to
----
+
 <p>
 The Apache OpenOffice project is pleased to announce that it has successfully integrated support for the <a href="http://msdn.microsoft.com/en-us/library/windows/desktop/dd373592%28v=vs.85%29.aspx">Microsoft Active Accessibility</a> (MSAA) and <a href="http://www.linuxfoundation.org/collaborate/workgroups/accessibility/iaccessible2">IAccessible2</a> interfaces.&nbsp; Support for these interfaces enables screen readers and other assistive technologies to work with Apache OpenOffice, which in turn enables greater productivity by OpenOffice users who are blind or who have low-vision.&nbsp; </p> 
   <p>The new accessibility code, based on the donation of IBM's <a href="https://blogs.apache.org/OOo/entry/merging_lotus_symphony_allegro_moderato">Lotus Symphony</a>, will now undergo extensive testing.&nbsp; The plan is to ship the new accessibility support in Apache OpenOffice 4.1, early in 2014.&nbsp; With this support added Apache OpenOffice, the leading open source productivity suite, also becomes the most accessible one.<br /><br />The IAccessible2 interface was developed as a superset of MSAA interfaces, to enable enhanced support for document editors,&nbsp; including support for rich text, tables, spreadsheets, etc., while allowing assistive technology developers to preserve their existing investment in MSAA support.&nbsp; IAccessible2 is supported by assistive technologies such as JAWS, MAGic, Window-Eyes, NVDA and ZoomText.</p> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: Retirement of legacy openoffice.org email forwarding service
+layout: post
 date: '2012-03-02T19:28:22+00:00'
 permalink: retirement_of_openoffice_org_email
----
+
 <p>IF YOU HAVE AN OPENOFFCE.ORG EMAIL ADDRESS, PLEASE PAY ATTENTION TO THE INFORMATION IN THIS NOTE</p> 
   <h3><a name="(Draft)PublicStatementonEmailForwarding-Background"></a>Background</h3> 
   <p>As you may have heard, Oracle contributed the OpenOffice.org (OOo)&nbsp; 

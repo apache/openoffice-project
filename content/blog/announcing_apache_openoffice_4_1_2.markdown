@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.2
+layout: post
 date: '2015-10-28T19:22:39+00:00'
 permalink: announcing_apache_openoffice_4_11
----
+
 <p>28
  October 2015 - The Apache OpenOffice project is pleased to announce the
  immediate availability of OpenOffice 4.1.2. You can download it from <a href="http://www.openoffice.org/download/" class="external-link" rel="nofollow">the official website</a> <a href="http://www.openoffice.org/download" class="external-link" rel="nofollow">http://www.openoffice.org/download</a></p> 

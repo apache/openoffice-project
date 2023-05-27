@@ -1,7 +1,6 @@
----
-layout: post
 title: Join Apache OpenOffice at FOSDEM 2014 - Submit a talk proposal
+layout: post
 date: '2013-12-18T00:05:15+00:00'
 permalink: join_apache_openoffice_at_fosdem
----
+
 Apache OpenOffice and the other Open Document Editors will have a dedicated track at <a href="https://fosdem.org/2014/">FOSDEM 2014</a>, 1 February 2014, Brussels. The devroom is organized by Apache OpenOffice and LibreOffice and will give every project in this area a chance to present ODF related developments and innovations.<br /><br />We invite submission of talks for the Open Document Editors devroom, to be held on Saturday, February 1st, from 10AM to 6PM. Submission deadline is <b>Sunday, 22 December 2013</b>.<br /><br />Length of talks should be limited to 20 minutes, as we would like to have questions after each presentation, and to fit as many presenters as possible in the schedule. Exceptions must be explicitly requested and justified.<br /><br />Technical talks (code, extensions, localization, QA, tools and significant adoption related cases) about Apache OpenOffice, other open document editors or the ODF format are welcome.<br /><br />Submissions must be done using the Pentabarf system:<br /><br /><a href="https://penta.fosdem.org/submission/FOSDEM14">https://penta.fosdem.org/submission/FOSDEM14</a><br /><br />While filing your proposal, please add a few lines about yourself (although your profile might already be stored at Pentabarf) and specify what product or topic (Apache OpenOffice, LibreOffice, both, other editor, ODF in general...) your talk is about.<br /><br />The deadline is Sunday, December 22, 2013. Accepted speakers will be notified by January 5, 2014.<br /><br />You can send any questions to the <a href="http://openoffice.apache.org/mailing-lists.html#development-mailing-list-public">OpenOffice dev list</a> or to the <a href="https://lists.fosdem.org/mailman/listinfo/office-devroom">devroom mailing list</a> <br />

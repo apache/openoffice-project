@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice track at ApacheCon: Day 3'
+layout: post
 date: '2012-11-11T17:52:48+00:00'
 permalink: apache_openoffice_track_at_apachecon1
----
+
 <p>To complete our coverage of <a href="http://www.apachecon.eu/">ApacheCon Europe 2012</a>, here's a brief overview of some sessions and activities from Day 3. Slides, audio and/or video of all sessions will soon be posted on the <a href="http://www.apachecon.eu/">ApacheCon Europe site</a>.</p> 
   <p><em>See the reports of <a href="http://s.apache.org/openoffice-aceu2012-day-1">Day 1</a> and <a href="http://s.apache.org/openoffice-aceu2012-day-2">Day 2</a> for further information.</em></p> 
   <h3>Microsoft interoperability and cross-project cooperation</h3> 

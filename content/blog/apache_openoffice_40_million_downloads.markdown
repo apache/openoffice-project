@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice: 40 Million Downloads'
+layout: post
 date: '2013-03-04T14:08:13+00:00'
 permalink: apache_openoffice_40_million_downloads
----
+
 <p>We've reached another big milestone <span class="st">— 40 million downloads of <a href="http://www.openoffice.org/">Apache OpenOffice</a> 3.4.x since the release of 3.4.0 in May 2012.&nbsp; You can view a <a href="http://www.openoffice.org/stats/downloads.html">detailed chart </a>on our Stats page. </span></p><span class="st"> 
     <p>40 million.&nbsp; A number like this is hard to imagine.&nbsp; With news every day of government budgets and deficits in the trillions, what does 40 million mean?</p> 
     <p>One way is to look at the value, as free open source software, this brings to the public.&nbsp; We looked at it from this angle in a previous blog post, <a href="https://blogs.apache.org/OOo/entry/21_million_per_day">$21 million per Day</a>.</p> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice Conference-Within-a-Conference: Call for Papers Open!'
+layout: post
 date: '2012-07-26T13:02:42+00:00'
 permalink: apache_openoffice_conference_within_a
----
+
 <div align="center"> 
     <p><a title="Physicists at the Seventh Solvay Physics Conference, Brussels, Belgium, October 1933 by Smithsonian Institution, on Flickr" href="http://www.flickr.com/photos/smithsonian/4406390964/"><img width="500" height="405" alt="Physicists at the Seventh Solvay Physics Conference, Brussels, Belgium, October 1933" src="http://farm5.staticflickr.com/4023/4406390964_6ce3447941.jpg" /></a> </p> 
   </div> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: OpenOffice Graduates from the Apache Incubator
+layout: post
 date: '2012-10-18T11:06:44+00:00'
 permalink: openoffice_graduates_from_the_apache
----
+
 <div align="center"> <a href="http://www.flickr.com/photos/library_of_congress/5497263332/" title="Columbia, 6/3/14 (LOC) by The Library of Congress, on Flickr"><img width="500" height="360" src="http://farm6.staticflickr.com/5013/5497263332_28b6b615be.jpg" alt="Columbia, 6/3/14 (LOC)" /></a> </div> 
   <p> </p> 
   <p>We're pleased to announce that the ASF Board, at their October monthly meeting, approved a resolution promoting the <a href="http://www.openoffice.org/">Apache OpenOffice</a> Podling to an Apache Top Level Project.&nbsp;&nbsp; The Board also appointed a Project Management Committee (PMC) to oversee the project, with Andrea Pescetti as Chairman.&nbsp;&nbsp; <br /> </p> 

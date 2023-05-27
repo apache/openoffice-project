@@ -1,9 +1,8 @@
----
-layout: post
 title: 'The Sidebar: New And Improved'
+layout: post
 date: '2013-06-04T06:49:57+00:00'
 permalink: the_sidebar_new_and_improved
----
+
 <p> Usually the phrase &quot;new <i>and</i> improved&quot; does not make much sense because something either is new <i>or</i> did already exist and was improved upon.&nbsp; For the sidebar the situation is a little different.&nbsp; The core implementation is new but the content, the panels, did already exist.&nbsp; The concept, but not the name, of a sidebar has existed for many years both in Apache OpenOffice (and OpenOffice.org before that) and in IBM Lotus Symphony.&nbsp; In OpenOffice.org it was named &quot;task pane&quot; and was used primarily in Impress to give access to backgrounds, layouts, and shape and slide animations.&nbsp; Symphony renamed this to &quot;property panel&quot;, extended it to all applications and covered even more frequently used tasks.</p> 
   <p align="center"><a href="https://blogs.apache.org/OOo/mediaresource/e18c8858-4a7d-4e26-bf21-093bf64b3e44"><img width="344" height="217" src="https://blogs.apache.org/OOo/mediaresource/e18c8858-4a7d-4e26-bf21-093bf64b3e44" alt="Screenshot of Impress with sidebar." /></a><br /> </p> 
   <h3>So, what did you improve?</h3> 

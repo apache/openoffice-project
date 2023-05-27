@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.8
+layout: post
 date: '2020-11-10T22:30:28+00:00'
-permalink: announcing-apache-openoffice-4-14
----
+permalink: announcing_apache_openoffice_4_1_8
+
 <p><strong><span style="color: rgb(49,55,57);">Forest Hill, MD</span></strong> -&nbsp;<strong>10</strong><strong> November 2020</strong>
  - Apache OpenOffice, a leading Open Source office document productivity
  suite, announced today Apache OpenOffice 4.1.8, as usual available in 

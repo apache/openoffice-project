@@ -1,9 +1,8 @@
----
-layout: post
 title: Porting Apache OpenOffice (incubating) to FreeBSD -- Ready to test!
+layout: post
 date: '2012-02-29T14:52:05+00:00'
 permalink: apache_openoffice_has_been_ported
----
+
 <p>We are pleased to note that NAKATA, Maho and Pedro Giffuni have ported <a href="http://incubator.apache.org/openofficeorg/">Apache OpenOffice</a> to <a href="http://www.freebsd.org/">FreeBSD</a>.&nbsp;&nbsp; The results of their porting effort are now in the FreeBSD <a href="http://www.freebsd.org/cgi/cvsweb.cgi/ports/editors/openoffice-3-devel/">ports tree</a>, so everyone can easily build and use it.&nbsp;&nbsp; FreeBSD users are invited to help test this port and report bugs.<br /> <br /> FreeBSD is a free operating system based on Berkeley's 4.4 BSD source release. The code base has undergone over thirty years of continuous development, improvement, and optimization by large number of individuals. There are approximately 400 FreeBSD committers (those who can commit to the source code repository).&nbsp; Development is especially focused on networking, security, performance and porting applications (they have over 20,000 well-maintained applications).&nbsp; FreeBSD is used as a platform for devices and products from many of the world's largest IT companies, including, Apple, Cisco, Juniper and NetApp.&nbsp; It has broken ftp 
 performance records and powers important sites like Yahoo, Hotmail and 
 the Apache Software Foundation's infrastructure.<br /> <br />

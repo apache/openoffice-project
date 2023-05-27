@@ -1,9 +1,8 @@
----
-layout: post
 title: Your top questions answered
+layout: post
 date: '2013-01-07T14:57:45+00:00'
 permalink: your_top_questions_answered
----
+
 <div class="gwt-HTML"> 
     <p><span class="bold">A little over a month ago we asked our users to <a href="http://mail-archives.apache.org/mod_mbox/openoffice-users/201211.mbox/%3CCAP-ksogYeEC79xRSg4bFdQULronuHDE%3DqvGBEm11PVDsC6Cckw%40mail.gmail.com%3E">submit questions to us</a>, on any OpenOffice-related topic.&nbsp; Users also had the opportunity to vote questions up or down, so we could identify the questions that were of the greatest interest.&nbsp;&nbsp; We received 274 questions, and 1,743 votes were cast by 365 users. &nbsp; Thanks to all who participated! &nbsp; Let is know, via your comments, whether such Q&amp;A is useful.&nbsp; <br /></span></p> 
     <p><span class="bold">But without further delay, the top questions, as voted by you, along with our answers, are:</span></p> 

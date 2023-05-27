@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.5
+layout: post
 date: '2017-12-30T16:16:10+00:00'
-permalink: announcing-apache-openoffice-4-11
----
+permalink: announcing_apache_openoffice_4_1_5
+
 <p>30 December 2017 - Apache OpenOffice, the leading Open Source office 
 document productivity suite, announced today Apache OpenOffice 4.1.5, as
  usual available in 41 languages for Windows, macOS and Linux.<br /><br />Apache OpenOffice 4.1.5 is a maintenance release aimed at correcting some regressions and delivering the latest English dictionary. All users of Apache OpenOffice 4.1.4 or earlier are advised to upgrade.<br /><br />Main improvements include:</p> 

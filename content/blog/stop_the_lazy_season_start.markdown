@@ -1,9 +1,8 @@
----
-layout: post
 title: Stop the lazy season, start changing
+layout: post
 date: '2016-09-20T19:02:41+00:00'
 permalink: stop_the_lazy_season_start
----
+
 <p> </p> 
   <p><img alt="Keep calm and embrace change" src="https://blogs.apache.org/OOo/mediaresource/2fcc9c46-f834-44d6-8873-a64fbf6b203b" /> </p> 
   <p>It's time to write about new things that happen here in the Apache OpenOffice project.</p> 

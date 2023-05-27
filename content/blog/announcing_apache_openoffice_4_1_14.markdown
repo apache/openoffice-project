@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.14
+layout: post
 date: '2023-02-27T19:45:24+00:00'
-permalink: announcing-apache-openoffice-4-110
----
+permalink: announcing_apache_openoffice_4_1_14
+
 <p><strong></strong><strong></strong><b>Wakefield, DE</b> - <strong>27</strong><strong> February 2023 </strong>- Apache OpenOffice, a leading Open Source office document productivity
  suite, announced today Apache OpenOffice 4.1.14, as usual available in 
 41 languages for Windows, macOS and Linux.</p><p><a href="https://www.openoffice.org/" class="external-link" rel="nofollow" target="_blank">Apache OpenOffice</a>

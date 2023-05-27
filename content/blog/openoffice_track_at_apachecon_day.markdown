@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice track at ApacheCon: Day 1'
+layout: post
 date: '2012-11-08T01:13:24+00:00'
 permalink: openoffice_track_at_apachecon_day
----
+
 <p>The OpenOffice official debut at <a href="http://www.apachecon.eu">ApacheCon</a> was definitely successful, with the big Apache community providing a warm welcome to the Apache OpenOffice folks. All presentations are being recorded (audio and slides) and they will gradually be made available on the <a href="http://www.apachecon.eu">ApacheCon site</a>, but we are picking a few topics from Day 1 of the OpenOffice track for those who couldn't attend the conference.</p> 
 
 <p><em>For full coverage, see the reports from <a href="http://s.apache.org/openoffice-aceu2012-day-2">Day 2</a> and <a href="http://s.apache.org/openoffice-aceu2012-day-3">Day 3</a>.</em></p> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice Weekly News #3'
+layout: post
 date: '2014-05-05T12:24:54+00:00'
 permalink: apache_openoffice_weekly_news_3
----
+
 <p>Translations: (<a href="https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=40509513">de</a>) 
 </p> 
   <h2> Major Discussions</h2> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: Presentations and videos from ApacheCon EU 2014, Budapest
+layout: post
 date: '2014-12-24T22:08:53+00:00'
 permalink: presentations_and_videos_from_apachecon
----
+
 <div id="2014-11-18" class="sched-container-header"> 
     <div class="sched-container-dates"> 
       <p>ApacheCon Europe, held last month in Budapest, was a wonderful occasion for the OpenOffice community to gather and discuss the state of the project and future developments.</p> 

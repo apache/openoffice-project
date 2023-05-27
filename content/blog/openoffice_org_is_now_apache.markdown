@@ -1,9 +1,8 @@
----
-layout: post
 title: OpenOffice.org is now Apache OpenOffice
+layout: post
 date: '2012-06-04T08:36:02+00:00'
 permalink: openoffice_org_is_now_apache
----
+
 <p>If you <a href="http://download.openoffice.org">download Apache OpenOffice 3.4</a>, or <a href="http://www.openoffice.org">browse our website</a>, you will notice that we have a rebranding effort underway. &nbsp;&nbsp; I'd like to offer a few thoughts on what happened, why and what will be coming next.</p> 
   <p>When the OpenOffice.org project came to Apache, it started in the <a href="http://incubator.apache.org/">Apache Incubator</a>, where all projects new to Apache start.&nbsp; Here we worked on various tasks to integrate the project into Apache, from licensing, policy, process and cultural perspectives. &nbsp;&nbsp; Previous posts have discussed the <a href="https://blogs.apache.org/OOo/entry/an_apache_openoffice_timeline">site migration</a> work and the <a href="https://blogs.apache.org/OOo/entry/what_is_a_podling">IP review/cleanup</a> tasks.&nbsp; Another task for the community was to adapt to the <a href="http://www.apache.org/foundation/marks/pmcs.html">Apache branding policy</a>.</p> 
   <p>Apache projects, under the umbrella of the Apache Software Foundation, share a common website, a common license, and are part of a common larger community of developers and users.&nbsp; To reinforce this, all Apache projects, and their products, use the naming pattern &quot;Apache ___&quot;, such as Apache Hadoop, Apache Subversion, Apache POI, etc.</p> 

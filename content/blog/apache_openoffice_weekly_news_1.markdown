@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice Weekly News #1'
+layout: post
 date: '2014-04-25T14:04:40+00:00'
 permalink: apache_openoffice_weekly_news_1
----
+
 <h2>Welcome <br /></h2> 
   <p>Translations:&nbsp; (<a href="https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=40509525">de</a>) <br /></p> 
   <p>Welcome to the first edition of Apache OpenOffice Weekly News.&nbsp; We're experimenting with a new way to give the OpenOffice community a look into the project and what we're doing week-to-week.&nbsp; We saw another Apache project,&nbsp; CouchDB, do <a href="https://blogs.apache.org/couchdb/entry/couchdb_weekly_news_april_3%20From%20ApacheCon">something similar</a>,&nbsp; and liked their approach.&nbsp; So in the open source tradition, we're going to borrow their idea.</p> 

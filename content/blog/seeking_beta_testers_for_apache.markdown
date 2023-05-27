@@ -1,9 +1,8 @@
----
-layout: post
 title: Seeking Beta Testers for Apache OpenOffice 4.1
+layout: post
 date: '2014-03-10T18:09:40+00:00'
 permalink: seeking_beta_testers_for_apache
----
+
 <div align="center"> <img width="640" height="502" frameborder="0" src="https://blogs.apache.org/OOo/mediaresource/a91517e3-ed44-4121-91d2-a74759a8fc96" /> </div> 
   <p> </p><br /> 
   <p>We're looking for users interested in test driving our new Apache OpenOffice 4.1 Beta Release.&nbsp;&nbsp; The beta can be downloaded from <a href="http://www.openoffice.org/download/">our website</a> (use the yellow box).<br /></p> 

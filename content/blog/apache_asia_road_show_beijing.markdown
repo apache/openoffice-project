@@ -1,9 +1,8 @@
----
-layout: post
 title: Apache Asia Road Show Beijing 2012
+layout: post
 date: '2012-12-10T18:05:25+00:00'
 permalink: apache_asia_road_show_beijing
----
+
 <h2>Apache OpenOffice in Apache Asia Road Show Beijing 2012 at December 13</h2> 
   <div id=":1xa"> 
     <p> <br />

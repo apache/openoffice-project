@@ -1,9 +1,8 @@
----
-layout: post
 title: Rejected
+layout: post
 date: '2013-07-16T15:03:53+00:00'
 permalink: rejected
----
+
 <div align="center"><img src="https://blogs.apache.org/OOo/mediaresource/c0894a86-9a9e-4a2b-856d-10aeb8509d17" alt="rejected stamp" /></div> 
   <p> </p> 
   <p>Apache OpenOffice 4.0 Release Candidate 1 (Build 9702) has been rejected.&nbsp; It was not good enough. Detlef, in our German-language community, first noted the crash two days ago, which was passed on to the developers by Regina.&nbsp; We immediately started further testing to narrow down the problem.</p> 

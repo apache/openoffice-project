@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.0.1
+layout: post
 date: '2013-10-01T13:19:11+00:00'
-permalink: announcing_apache_openoffice_4_0
----
+permalink: announcing_apache_openoffice_4_0_1
+
 <div align="center"> 
     <p><a title="[Bob Burman, race car driver]  (LOC) by The Library of Congress, on Flickr" href="http://www.flickr.com/photos/library_of_congress/2163470598/"><img width="640" height="469" alt="[Bob Burman, race car driver]  (LOC)" src="http://farm3.staticflickr.com/2037/2163470598_fb7571cdab_z.jpg?zz=1" /></a></p><a title="[Bob Burman, race car driver]  (LOC) by The Library of Congress, on Flickr" href="http://www.flickr.com/photos/library_of_congress/2163470598/"> 
       <p> </p></a> 

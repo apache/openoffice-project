@@ -1,9 +1,8 @@
----
-layout: post
 title: 75 Million Downloads of Apache OpenOffice
+layout: post
 date: '2013-10-30T19:02:24+00:00'
 permalink: 75_million_downloads_of_apache
----
+
 We are pleased to report that yesterday, October 29th, someone downloaded the <b>75,000,000th </b>copy of&nbsp; Apache OpenOffice™. &nbsp; The 75 million downloads have occurred in the less than 18th months since the first release of Apache OpenOffice on May 8th, 2012.&nbsp; 
   
   

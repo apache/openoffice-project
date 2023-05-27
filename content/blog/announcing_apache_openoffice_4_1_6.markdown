@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.6
+layout: post
 date: '2018-11-18T20:29:04+00:00'
 permalink: announcing-apache-openoffice-4-12
----
+
 <p>18 November 2018 - Apache OpenOffice, the leading Open Source office 
 document productivity suite, announced today Apache OpenOffice 4.1.6, as
  usual available in 41 languages for Windows, macOS and Linux.<br /><br />Apache

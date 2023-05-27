@@ -1,9 +1,8 @@
----
-layout: post
 title: Coming soon... Apache OpenOffice 4.1.2
+layout: post
 date: '2015-09-27T14:17:07+00:00'
 permalink: coming_soon_apache_openoffice_4
----
+
 <p>
 A new OpenOffice update, version 4.1.2, has been in preparation for a while. Born as a simple bugfix release, it became an occasion for some deep restructuring in the project: several processes have now been streamlined (and some are still in the works), new people are on board and infrastructure has been improved.<br /></p> 
   <p>Now the wait is almost over, and we are approaching the final phases before the 4.1.2 release. But we still need help with some non-development tasks, like QA and final preparations (press release, release notes and their translation).</p> 

@@ -1,9 +1,8 @@
----
-layout: post
 title: OpenOffice Grandfather's Private Thoughts
+layout: post
 date: '2011-12-27T17:55:52+00:00'
 permalink: openoffice_grandfather_s_private_thoughts
----
+
 <style type="text/css">
 	<!--
 		@page { margin: 0.79in }

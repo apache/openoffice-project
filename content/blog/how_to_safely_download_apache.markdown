@@ -1,9 +1,8 @@
----
-layout: post
 title: How to Safely Download Apache OpenOffice
+layout: post
 date: '2012-06-28T17:49:57+00:00'
 permalink: how_to_safely_download_apache
----
+
 <div align="center"> 
     <p><a title="Syd Connelly and winning safety slogan by The Library of Virginia, on Flickr" href="http://www.flickr.com/photos/library_of_virginia/6069638327/"><img width="500" height="371" alt="Syd Connelly and winning safety slogan" src="http://farm7.staticflickr.com/6205/6069638327_3f11df530e.jpg" /></a></p> 
     <p> </p> 

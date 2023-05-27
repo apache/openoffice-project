@@ -1,9 +1,8 @@
----
-layout: post
 title: Back to School with Apache OpenOffice
+layout: post
 date: '2013-08-26T12:09:16+00:00'
 permalink: back_to_school_with_apache
----
+
 <div align="center"> 
     <p><a href="http://www.flickr.com/photos/library_of_virginia/3595197971/" title="Chesterfield County school bus and students by The Library of Virginia, on Flickr"><img width="640" height="497" src="http://farm4.staticflickr.com/3305/3595197971_77e49c61af_z.jpg?zz=1" alt="Chesterfield County school bus and students" /></a></p><a href="http://www.flickr.com/photos/library_of_virginia/3595197971/" title="Chesterfield County school bus and students by The Library of Virginia, on Flickr"> </a> 
   </div> 

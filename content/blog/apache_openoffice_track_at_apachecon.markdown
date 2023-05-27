@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Apache OpenOffice track at ApacheCon: Day 2'
+layout: post
 date: '2012-11-08T14:41:05+00:00'
 permalink: apache_openoffice_track_at_apachecon
----
+
 <p>Here are a few selected topics from Day 2 of the Apache OpenOffice track at <a href="http://www.apachecon.eu/">ApacheCon Europe</a>.</p> 
 
 <p><em>For full coverage, see the reports from <a href="http://s.apache.org/openoffice-aceu2012-day-1">Day 1</a> and <a href="http://s.apache.org/openoffice-aceu2012-day-3">Day 3</a>.</em></p> 

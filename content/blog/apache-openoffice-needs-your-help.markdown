@@ -1,9 +1,8 @@
----
-layout: post
 title: Apache OpenOffice needs your help
+layout: post
 date: '2020-05-17T22:34:44+00:00'
 permalink: apache-openoffice-needs-your-help
----
+
 <p>The Apache® OpenOffice® Project is on the road to a bigger update for 
 the leading open source office suite.
 <br>

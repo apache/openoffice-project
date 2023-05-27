@@ -1,9 +1,8 @@
----
-layout: post
 title: Document Freedom Day
+layout: post
 date: '2013-03-22T17:25:18+00:00'
 permalink: openoffice_and_odf
----
+
 <p> </p> 
   <p> </p> 
   <p align="center"><a href="https://blogs.apache.org/OOo/mediaresource/48dcceda-acd3-4f7b-baf3-f94eb7bef82d"><img alt="large_document_freedom_day.jpeg" src="https://blogs.apache.org/OOo/mediaresource/48dcceda-acd3-4f7b-baf3-f94eb7bef82d" /></a> </p> 

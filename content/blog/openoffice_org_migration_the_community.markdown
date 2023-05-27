@@ -1,9 +1,8 @@
----
-layout: post
 title: OpenOffice.org Migration -- The Community Forums
+layout: post
 date: '2011-11-18T01:05:00+00:00'
 permalink: openoffice_org_migration_the_community
----
+
 <blockquote></blockquote> 
   <blockquote> 
     <p align="left"><em>The <a title="Link to the 10-language OpenOffice.org Community Forums" href="http://user.services.openoffice.org/">OpenOffice.org Community Forums</a> have been successfully migrated to operation under the Apache OpenOffice.org podling.&nbsp; Forum operation, location, and resources are intact.&nbsp; For users and the community that has grown the Forums into a valuable resource, it seems nothing changed.&nbsp; It wasn’t so simple.&nbsp; Here’s what it took and what was gained.</em></p> 

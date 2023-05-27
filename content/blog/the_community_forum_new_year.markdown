@@ -1,9 +1,8 @@
----
-layout: post
 title: 'The Community Forum: New Year Status'
+layout: post
 date: '2012-01-12T00:00:00+00:00'
 permalink: the_community_forum_new_year
----
+
 <p>After 4 years of existence, the <a href="http://user.services.openoffice.org/">Community Forum</a> has moved on the Apache Software Foundation (ASF) servers at the end of October 2011 (see <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Changes+integrate+the+forums+into+the+AOOo+project">details</a>).
  Here are some figures about how we are doing on the English forum. We will try to make this kind of report on a monthly basis <a href="http://user.services.openoffice.org/en/forum/viewtopic.php?f=50&amp;t=46497">in the forum</a> and perhaps quarterly on the blog.<br /> </p> 
   <p>Please remember that the forum is managed by a group of users helping other users for free and on their spare time.<br /> <br />

@@ -1,9 +1,8 @@
----
-layout: post
 title: Results of Apache OpenOffice 4.0 Logo Survey
+layout: post
 date: '2013-05-10T12:57:17+00:00'
 permalink: results_of_apache_openoffice_4
----
+
 <p>A quick update on our recent logo survey for Apache OpenOffice 4.0. &nbsp; We called on community members to submit proposals for a new project logo.&nbsp; The response was huge.&nbsp; We received over 40 logo proposals.&nbsp; To narrow down the choices we sought out feedback from users.&nbsp;&nbsp; We created a survey asking users to rate each logo on a 5-point scale, from Strongly Dislike to Strongly Like, as well as give an optional comment on each logo.&nbsp; The survey ran for one week and 5028 responses were received.&nbsp; Full details of the results can be found in the <a href="http://survey.openoffice.org/reports/aoo40-logo-poll/">Apache OpenOffice Logo Survey Report</a>.&nbsp; In this blog post we want to highlight some of the highest scoring logos, recognize the designers, and talk about next steps.</p> 
   <p> </p><hr /> 
   <p> </p> 

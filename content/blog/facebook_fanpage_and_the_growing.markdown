@@ -1,9 +1,8 @@
----
-layout: post
 title: Facebook fanpage and the growing fanbase
+layout: post
 date: '2013-07-05T03:19:58+00:00'
 permalink: facebook_fanpage_and_the_growing
----
+
 <p>A bit more then a year ago, we discussed the topic social media on our list. We decided to create official channels on different social media. I jumped in to join the administrator team of the official Apache OpenOffice Fan page. Since then, the number of fans has increased a lot.</p> 
   <p>At the beginning, the Facebook fan page was not really promising. We were happy if we got eight to twelve new fans per day. This is not a lot for a project that has 50 million downloads per year. But our group started growing more and more. Now we have 40 new fans every single day, and we have about two users per day who post on our pinboard.</p> 
   <p align="center"><img alt="Statistic about the growing number of the Apache OpenOffice Facebook fanpage" src="https://blogs.apache.org/OOo/mediaresource/2c9f4d60-02de-447a-b417-a4e20adb943d" /> </p> 

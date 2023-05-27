@@ -1,9 +1,8 @@
----
-layout: post
 title: Use the Source, Luke
+layout: post
 date: '2012-09-28T15:27:08+00:00'
 permalink: use_the_source_luke
----
+
 <div align="center"><a title="Space Shuttle Program by San Diego Air &amp; Space Museum Archives, on Flickr" href="http://www.flickr.com/photos/sdasmarchives/6996745802/"><img width="500" height="394" alt="Space Shuttle Program" src="http://farm8.staticflickr.com/7269/6996745802_d412280c4d.jpg" /></a></div> 
   <p> </p> 
   <p>We take a lot of pride in the success of Apache OpenOffice (formerly OpenOffice.org, now undergoing <a href="http://incubator.apache.org/">incubation</a> at Apache).&nbsp; With over 100 million downloads, and a million more downloads every week, our award-winning, free and open office suite has grown and continues to grow in popularity. But this is not just a popularity contest.&nbsp; An enormous amount of public good comes from our work.&nbsp; We serve users that for-profit vendors often ignore, such as speakers of minority languages, or users in non-lucrative markets.&nbsp; We do this by publishing software, but also by helping users use it, and by encouraging a broader ecosystem of templates and extensions. &nbsp; <a href="http://incubator.apache.org/openofficeorg/mission.html">The Public Service Mission of OpenOffice</a> describes in more detail the public good that our volunteers help create, in their work to support this user-centered ecosystem.<br /></p> 

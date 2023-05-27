@@ -1,9 +1,8 @@
----
-layout: post
 title: Announcing Apache OpenOffice 4.1.10
+layout: post
 date: '2021-05-04T12:28:17+00:00'
 permalink: announcing-apache-openoffice-4-16
----
+
 <p><b>Wakefield, DE</b> - <strong>04</strong><strong> May 2021</strong>
  - Apache OpenOffice, a leading Open Source office document productivity
  suite, announced today Apache OpenOffice 4.1.10, as usual available in 

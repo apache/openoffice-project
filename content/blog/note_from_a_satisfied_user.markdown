@@ -1,9 +1,8 @@
----
-layout: post
 title: 'Note from a satisfied user: Congratulations for all efforts of the past!'
+layout: post
 date: '2016-10-16T21:42:29+00:00'
 permalink: note_from_a_satisfied_user
----
+
 <p>We received the following mail from Mr. Ziegler on the developer mailing list [1] and we want to share it with all of you:<br /></p> 
   <p>Quote start<br /></p> 
   <p><i>I was encouraged to leave my aoo forum post directly in the dev mailing 
