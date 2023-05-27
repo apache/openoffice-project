@@ -3,11 +3,12 @@ layout: post
 date: '2020-10-15T22:15:59+00:00'
 permalink: the-apache-software-foundation-celebrates
 
-
-        <p class="entryContent">
-                            </p><p><b><i>Leading Open Source office 
+<p><b><i>Leading Open Source office 
 application and personal productivity suite under development as a 
-community-led Apache® Project for the past 8 years</i></b></p><p><b>Wakefield,</b><b>&nbsp;MA —14 October 2020—</b>
+community-led Apache® Project for the past 8 years</i></b></p>
+<p>
+<b>Wakefield,</b>
+<b>&nbsp;MA —14 October 2020—</b>
  The Apache Software Foundation (ASF), the all-volunteer developers, 
 stewards, and incubators of more than 350 Open Source projects and 
 initiatives, announced today the twenty-year anniversary of OpenOffice<sup>®</sup>, the last eight of which as an Apache<sup>®</sup> Top-Level Project.</p><p>"It’s

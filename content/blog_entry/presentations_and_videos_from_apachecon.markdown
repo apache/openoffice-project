@@ -14,7 +14,7 @@ permalink: presentations_and_videos_from_apachecon
   <p> </p> 
   <div class="sched-container"> 
     <div class="sched-container-inner"> 
-      <h4><span class="event ev_22  ev_22_sub_3"><a id="ce134654825821a2a38e60a55e4ace3f" class="name" href="http://apacheconeu2014.sched.org/event/ce134654825821a2a38e60a55e4ace3f">OpenOffice At Apache: 2014 And Beyond - Andrea Pescetti, Apache OpenOffice PMC </a></span> </h4> 
+      <h4><span class="event ev_22  ev_22_sub_3"><a>OpenOffice At Apache: 2014 And Beyond - Andrea Pescetti, Apache OpenOffice PMC </a></span> </h4> 
       <h3> </h3> 
       <p><strong></strong>  It's already two years since OpenOffice graduated as a
  Top Level Project at Apache. We have more than 100 million downloads 
@@ -28,7 +28,7 @@ what can be improved... <a href="http://apacheconeu2014.sched.org/event/ce134654
   <div class="sched-container"> 
     <div class="sched-container-inner"> </div> 
   </div> 
-  <h4><span class="event ev_3  ev_3_sub_3"><a id="100a43058a4f90f92f59d8d08f071f7b" class="name" href="http://apacheconeu2014.sched.org/event/100a43058a4f90f92f59d8d08f071f7b">Doing The Write Thing: Document Editing Made Mobile (the Corinthia Project) - Louis Suárez-Potts, Age of Peers, Inc. &amp; Peter Kelly, UX Productivity </a></span> </h4> 
+  <h4><span class="event ev_3  ev_3_sub_3"><a class="name" href="http://apacheconeu2014.sched.org/event/100a43058a4f90f92f59d8d08f071f7b">Doing The Write Thing: Document Editing Made Mobile (the Corinthia Project) - Louis Suárez-Potts, Age of Peers, Inc. &amp; Peter Kelly, UX Productivity </a></span> </h4> 
   <h3> </h3> 
   <div class="sched-container"> </div> 
   <div class="sched-container"> 
@@ -36,7 +36,7 @@ what can be improved... <a href="http://apacheconeu2014.sched.org/event/ce134654
       <p><strong></strong>  At the Denver ApacheCon last April, I presented on 
 the evolution of OpenOffice, and the need for a good quality, compatible
  solution for mobile devices. Participants suggested establishing a project in Apache Labs to address this problem... <a href="http://apacheconeu2014.sched.org/event/100a43058a4f90f92f59d8d08f071f7b#">Full Description</a> - <a href="https://www.youtube.com/watch?v=SoXyh2FuiJs">Video</a> - <a href="http://events.linuxfoundation.org/events/apachecon-europe/program/slides">Slides </a></p> 
-      <h4><span class="event ev_11  ev_11_sub_2"><a id="78068627f4b308890259642839ccb5a1" class="name" href="http://apacheconeu2014.sched.org/event/78068627f4b308890259642839ccb5a1">Anatomy Of An Apache OpenOffice Extension - Pedro Giffuni, Apache Software Foundation </a></span> </h4> 
+      <h4><span class="event ev_11  ev_11_sub_2"><a class="name" href="http://apacheconeu2014.sched.org/event/78068627f4b308890259642839ccb5a1">Anatomy Of An Apache OpenOffice Extension - Pedro Giffuni, Apache Software Foundation </a></span> </h4> 
       <p><strong></strong>  Developing code within the huge, and sometimes 
 daunting, Apache OpenOffice code can sometimes be very difficult, 
 specially if you only want to add a very specific piece of code that few
@@ -46,7 +46,7 @@ the different parts of an Apache OpenOffice extension... <a href="http://apachec
       <p> </p> 
       <p> </p> 
       <div class="sched-container"> </div> <span class="event ev_3  ev_3_sub_3"></span><span class="event ev_11  ev_11_sub_3"></span> 
-      <h4><span class="event ev_22  ev_22_sub_2"><a id="2f33824d27c87ceaca381424b58ba058" class="name" href="http://apacheconeu2014.sched.org/event/2f33824d27c87ceaca381424b58ba058"><span class="event ev_11  ev_11_sub_3"></span></a><a id="1c222793d0ccec33cca892f8b68078f7" class="name" href="http://apacheconeu2014.sched.org/event/1c222793d0ccec33cca892f8b68078f7">How to Turn Your Favorite Programming Language Into An AOO Macro Language - Rony Flatscher, WU Vienna </a></span> </h4> 
+      <h4><span class="event ev_22  ev_22_sub_2"><a class="name" href="http://apacheconeu2014.sched.org/event/2f33824d27c87ceaca381424b58ba058"><span class="event ev_11  ev_11_sub_3"></span></a><a id="1c222793d0ccec33cca892f8b68078f7" class="name" href="http://apacheconeu2014.sched.org/event/1c222793d0ccec33cca892f8b68078f7">How to Turn Your Favorite Programming Language Into An AOO Macro Language - Rony Flatscher, WU Vienna </a></span> </h4> 
       <p><strong></strong>  Apache OpenOffice (AOO) defines a scripting framework
  that can be exploited to add any programming language to Apache 
 OpenOffice as a macro language. This presentation introduces the 
@@ -62,7 +62,7 @@ its documentation and its website into dozens of languages... <a href="http://ap
       <p> </p> 
       <div class="sched-container"> </div> 
       <p> </p> <span class="event ev_11  ev_11_sub_1"></span> <span class="event ev_22  ev_22_sub_3"></span> 
-      <h4><span class="event ev_22  ev_22_sub_2"><a id="2f33824d27c87ceaca381424b58ba058" class="name" href="http://apacheconeu2014.sched.org/event/2f33824d27c87ceaca381424b58ba058">Addressing
+      <h4><span class="event ev_22  ev_22_sub_2"><a class="name" href="http://apacheconeu2014.sched.org/event/2f33824d27c87ceaca381424b58ba058">Addressing
  File Format Compatibility in Word Processors - Louis Suárez-Potts, Age 
 of Peers, Inc. &amp; Peter Kelly, UX Productivity </a></span></h4> 
       <p>A well-known XKCD comic parodies the industry's solution to standards 
