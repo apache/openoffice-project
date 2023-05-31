@@ -1,3 +1,4 @@
+layout: post
 title: Not interested
 layout: post
 date: '2013-07-01T13:25:57+00:00'

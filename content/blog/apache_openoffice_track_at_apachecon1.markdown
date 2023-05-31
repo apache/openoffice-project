@@ -1,3 +1,4 @@
+layout: post
 title: 'Apache OpenOffice track at ApacheCon: Day 3'
 layout: post
 date: '2012-11-11T17:52:48+00:00'

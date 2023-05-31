@@ -1,3 +1,4 @@
+layout: post
 title: OpenOffice.org is now Apache OpenOffice
 layout: post
 date: '2012-06-04T08:36:02+00:00'

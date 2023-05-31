@@ -1,3 +1,4 @@
+layout: post
 title: A short celebration, and then back to work
 layout: post
 date: '2013-07-23T09:23:23+00:00'

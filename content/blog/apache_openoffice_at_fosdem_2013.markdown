@@ -1,3 +1,4 @@
+layout: post
 title: Apache OpenOffice at FOSDEM 2013
 layout: post
 date: '2013-02-01T15:14:47+00:00'

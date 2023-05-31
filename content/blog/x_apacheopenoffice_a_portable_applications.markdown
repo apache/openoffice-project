@@ -1,3 +1,4 @@
+layout: post
 title: 'X-ApacheOpenOffice: A Portable Applications Version of Apache OpenOffice from winPenPack'
 
 layout: post

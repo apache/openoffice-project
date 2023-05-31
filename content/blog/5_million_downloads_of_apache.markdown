@@ -1,3 +1,4 @@
+layout: post
 title: 5 Million Downloads of Apache OpenOffice (incubating)
 layout: post
 date: '2012-06-20T14:18:37+00:00'

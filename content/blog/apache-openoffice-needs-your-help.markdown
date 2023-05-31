@@ -1,3 +1,4 @@
+layout: post
 title: Apache OpenOffice needs your help
 layout: post
 date: '2020-05-17T22:34:44+00:00'

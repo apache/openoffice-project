@@ -1,3 +1,4 @@
+layout: post
 title: Retirement of legacy openoffice.org email forwarding service
 layout: post
 date: '2012-03-02T19:28:22+00:00'

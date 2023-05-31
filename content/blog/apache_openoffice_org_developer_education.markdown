@@ -1,3 +1,4 @@
+layout: post
 title: 'Apache OpenOffice.org (incubating) Developer Education: Building on Linux'
 layout: post
 date: '2011-09-01T22:41:22+00:00'

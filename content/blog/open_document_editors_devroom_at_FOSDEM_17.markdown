@@ -1,3 +1,4 @@
+layout: post
 title: Open Document Editors Devroom at FOSDEM 17, Brussels 4-5 Feb 2017
 layout: post
 date: '2016-11-08T21:11:52+00:00'

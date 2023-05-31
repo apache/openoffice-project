@@ -1,3 +1,4 @@
+layout: post
 title: 'Note from a satisfied user: Congratulations for all efforts of the past!'
 layout: post
 date: '2016-10-16T21:42:29+00:00'

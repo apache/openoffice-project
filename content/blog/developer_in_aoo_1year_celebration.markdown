@@ -1,3 +1,4 @@
+layout: post
 title: Developer in AOO, 1year celebration
 layout: post
 date: '2013-07-31T15:18:20+00:00'

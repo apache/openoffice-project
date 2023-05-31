@@ -1,3 +1,4 @@
+layout: post
 title: Porting Apache OpenOffice (incubating) to Solaris, an interview with Nicolas Christener of Adfinis SyGroup
 layout: post
 date: '2012-06-18T01:24:10+00:00'

@@ -1,3 +1,4 @@
+layout: post
 title: Call for Documentation Volunteers
 layout: post
 date: '2013-02-26T14:25:54+00:00'

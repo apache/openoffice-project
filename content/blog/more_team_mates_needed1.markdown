@@ -1,3 +1,4 @@
+layout: post
 title: More team-mates needed
 layout: post
 date: '2016-09-22T21:04:50+00:00'

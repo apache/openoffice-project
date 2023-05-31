@@ -1,3 +1,4 @@
+layout: post
 title: With Apache OpenOffice you get what you don't pay for
 layout: post
 date: '2013-06-17T18:06:36+00:00'

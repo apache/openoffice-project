@@ -1,3 +1,4 @@
+layout: post
 title: Interview with the developers of PrOOo-Box
 layout: post
 date: '2013-07-29T13:31:42+00:00'

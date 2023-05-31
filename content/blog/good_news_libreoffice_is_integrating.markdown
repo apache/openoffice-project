@@ -1,3 +1,4 @@
+layout: post
 title: 'Good news: LibreOffice has integrated my SVG import feature'
 layout: post
 date: '2012-11-14T13:51:52+00:00'

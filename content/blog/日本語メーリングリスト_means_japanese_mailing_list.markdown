@@ -1,3 +1,4 @@
+layout: post
 title: 「日本語メーリングリスト」 means "Japanese Mailing List"
 layout: post
 date: '2011-10-14T00:07:53+00:00'

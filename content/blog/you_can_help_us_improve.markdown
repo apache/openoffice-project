@@ -1,3 +1,4 @@
+layout: post
 title: You Can Help Us Improve OpenOffice
 layout: post
 date: '2012-11-09T01:12:39+00:00'

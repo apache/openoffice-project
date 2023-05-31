@@ -1,3 +1,4 @@
+layout: post
 title: 'Call for talks: Open Document Editors Devroom at FOSDEM 15'
 layout: post
 date: '2014-11-03T22:23:41+00:00'

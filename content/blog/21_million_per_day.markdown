@@ -1,3 +1,4 @@
+layout: post
 title: "$21 Million per Day"
 layout: post
 date: '2013-02-12T12:59:33+00:00'

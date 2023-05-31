@@ -1,3 +1,4 @@
+layout: post
 title: Apache OpenOffice now available in Danish, Norwegian, Swedish, Korean, Polish,  Basque, Asturian and Scottish Gaelic
 layout: post
 date: '2013-01-30T05:05:42+00:00'

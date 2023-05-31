@@ -1,3 +1,4 @@
+layout: post
 title: Books about OpenOffice
 layout: post
 date: '2013-01-11T02:02:51+00:00'

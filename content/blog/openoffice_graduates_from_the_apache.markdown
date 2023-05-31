@@ -1,3 +1,4 @@
+layout: post
 title: OpenOffice Graduates from the Apache Incubator
 layout: post
 date: '2012-10-18T11:06:44+00:00'

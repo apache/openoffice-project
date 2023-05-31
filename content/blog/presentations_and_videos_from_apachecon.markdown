@@ -1,3 +1,4 @@
+layout: post
 title: Presentations and videos from ApacheCon EU 2014, Budapest
 layout: post
 date: '2014-12-24T22:08:53+00:00'

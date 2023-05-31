@@ -1,3 +1,4 @@
+layout: post
 title: How to Safely Download Apache OpenOffice
 layout: post
 date: '2012-06-28T17:49:57+00:00'

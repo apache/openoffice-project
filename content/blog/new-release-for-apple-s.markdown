@@ -1,3 +1,4 @@
+layout: post
 title: New release for Apple's macOS 11 (Big Sur) - Also with fixes for Linux and  Windows
 layout: post
 date: '2021-01-06T23:22:39+00:00'
