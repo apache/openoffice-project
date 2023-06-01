@@ -1,3 +1,4 @@
+layout: post
 title: 'Apache OpenOffice at FOSDEM 2016: Submit your talk now'
 layout: post
 date: '2015-12-06T00:05:38+00:00'

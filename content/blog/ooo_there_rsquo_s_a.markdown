@@ -1,3 +1,4 @@
+layout: post
 title: OOo! There&rsquo;s a New Podling in the Nursery Incubator
 layout: post
 date: '2011-07-09T22:17:59+00:00'

@@ -1,3 +1,4 @@
+layout: post
 title: Document Freedom Day
 layout: post
 date: '2013-03-22T17:25:18+00:00'

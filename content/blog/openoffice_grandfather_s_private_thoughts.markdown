@@ -1,3 +1,4 @@
+layout: post
 title: OpenOffice Grandfather's Private Thoughts
 layout: post
 date: '2011-12-27T17:55:52+00:00'

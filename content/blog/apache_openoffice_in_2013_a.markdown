@@ -1,3 +1,4 @@
+layout: post
 title: 'Apache OpenOffice in 2013: a year in review'
 layout: post
 date: '2013-12-31T13:48:18+00:00'

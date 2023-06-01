@@ -1,3 +1,4 @@
+layout: post
 title: 'Merging Lotus Symphony:  Allegro moderato'
 layout: post
 date: '2013-01-21T16:40:35+00:00'

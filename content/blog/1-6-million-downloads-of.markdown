@@ -1,3 +1,4 @@
+layout: post
 title: 1.6 million downloads of Apache OpenOffice 4.1.7
 date: '2019-10-22T18:44:44+00:00'
 permalink: 1-6-million-downloads-of

@@ -1,3 +1,4 @@
+layout: post
 title: Call for Marketing Volunteers
 layout: post
 date: '2012-11-21T14:45:41+00:00'

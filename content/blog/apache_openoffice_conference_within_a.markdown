@@ -1,3 +1,4 @@
+layout: post
 title: 'Apache OpenOffice Conference-Within-a-Conference: Call for Papers Open!'
 layout: post
 date: '2012-07-26T13:02:42+00:00'

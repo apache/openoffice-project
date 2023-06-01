@@ -1,3 +1,4 @@
+layout: post
 title: Seeking Beta Testers for Apache OpenOffice 4.1
 layout: post
 date: '2014-03-10T18:09:40+00:00'

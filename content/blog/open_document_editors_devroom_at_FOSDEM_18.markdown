@@ -1,3 +1,4 @@
+layout: post
 title: Open Document Editors Devroom at FOSDEM 18, Brussels FOSDEM is 3-4 Feb 2018
 layout: post
 date: '2017-11-27T07:38:46+00:00'

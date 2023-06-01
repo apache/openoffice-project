@@ -1,3 +1,4 @@
+layout: post
 title: 'The Community Forum: New Year Status'
 layout: post
 date: '2012-01-12T00:00:00+00:00'

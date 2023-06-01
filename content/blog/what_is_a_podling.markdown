@@ -1,3 +1,4 @@
+layout: post
 title: Incubation, podling, IP Clearance, oh my!
 layout: post
 date: '2011-10-18T20:10:51+00:00'

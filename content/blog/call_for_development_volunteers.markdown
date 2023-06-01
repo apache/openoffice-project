@@ -1,3 +1,4 @@
+layout: post
 title: Call for Development Volunteers
 layout: post
 date: '2013-02-04T16:47:45+00:00'

@@ -1,3 +1,4 @@
+layout: post
 title: Porting Apache OpenOffice (incubating) to FreeBSD -- Ready to test!
 layout: post
 date: '2012-02-29T14:52:05+00:00'

@@ -1,3 +1,4 @@
+layout: post
 title: Back to School with Apache OpenOffice
 layout: post
 date: '2013-08-26T12:09:16+00:00'

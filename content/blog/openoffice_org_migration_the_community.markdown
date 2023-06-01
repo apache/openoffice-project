@@ -1,3 +1,4 @@
+layout: post
 title: OpenOffice.org Migration -- The Community Forums
 layout: post
 date: '2011-11-18T01:05:00+00:00'

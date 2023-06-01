@@ -1,3 +1,4 @@
+layout: post
 title: 'Authoring e-Books in Apache OpenOffice: An Interview with Jon Swords-Holdsworth'
 layout: post
 date: '2015-05-13T11:51:36+00:00'

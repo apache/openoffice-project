@@ -1,3 +1,4 @@
+layout: post
 title: When will OpenOffice version X be released?
 layout: post
 date: '2013-06-10T15:59:11+00:00'

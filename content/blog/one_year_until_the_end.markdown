@@ -1,3 +1,4 @@
+layout: post
 title: One Year until the End of Life for Microsoft Office 2003
 layout: post
 date: '2013-04-08T15:36:49+00:00'

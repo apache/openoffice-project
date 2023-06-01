@@ -1,3 +1,4 @@
+layout: post
 title: Features for GraphicObjects and OLEObjects
 layout: post
 date: '2012-01-11T15:42:20+00:00'

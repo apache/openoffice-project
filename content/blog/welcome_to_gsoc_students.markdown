@@ -1,3 +1,4 @@
+layout: post
 title: Welcome to GSoC Students!
 layout: post
 date: '2013-04-10T12:19:55+00:00'

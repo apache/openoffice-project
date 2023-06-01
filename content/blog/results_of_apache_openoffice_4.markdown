@@ -1,3 +1,4 @@
+layout: post
 title: Results of Apache OpenOffice 4.0 Logo Survey
 layout: post
 date: '2013-05-10T12:57:17+00:00'
