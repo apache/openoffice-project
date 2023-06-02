@@ -40,15 +40,12 @@ blockquote {
 }
 
 #banner {
-  overflow: hidden;
   height: 2.8rem;
   padding: 0 0 0 0;
   color: black;
   font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
   font-size:1rem;
   vertical-align: top;
-  background-color: white;
-
 }
 
 #bannerright {
@@ -158,11 +155,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta {
-  margin: 90px 20px 20px 20px;
+  margin: 0 20px 20px 20px;
   padding: 0 8px 20px;
   color: #333;
-  margin-top:90px;
-  overflow: hidden;
 }
 
 #contenta p {
