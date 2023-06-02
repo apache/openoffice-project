@@ -40,12 +40,15 @@ blockquote {
 }
 
 #banner {
+  overflow: hidden;
   height: 2.8rem;
   padding: 0 0 0 0;
   color: black;
   font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
   font-size:1rem;
   vertical-align: top;
+  background-color: white;
+
 }
 
 #bannerright {
@@ -155,10 +158,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta {
-  margin-top: 20px;
-  margin: 0 20px 20px 20px;
+  margin: 90px 20px 20px 20px;
   padding: 0 8px 20px;
   color: #333;
+  margin-top:90px;
+  overflow: hidden;
 }
 
 #contenta p {
@@ -298,12 +302,6 @@ td {
   color: #0e85cd;
   background-color: #e6ebed;
   text-decoration:underline;
-}
-
-.navbar {
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
 }
 
 #navigation {
