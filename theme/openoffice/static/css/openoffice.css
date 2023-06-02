@@ -155,6 +155,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #contenta {
+  margin-top: 20px;
   margin: 0 20px 20px 20px;
   padding: 0 8px 20px;
   color: #333;
@@ -299,6 +300,12 @@ td {
   text-decoration:underline;
 }
 
+.navbar {
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
 #navigation {
   border: 1px solid #e6ebed;
   border-left: none;
@@ -350,6 +357,7 @@ td {
  color: #0e85cd;
  background-color: #e6ebed;
 }
+
 
 #footera {
   margin: 20px 0px 0px 0px;

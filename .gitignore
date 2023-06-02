@@ -4,6 +4,7 @@ cache
 .DS_Store
 .history
 .idea
+Pipfile
 *~
 pelican.auto.py
 site-generated
