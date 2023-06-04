@@ -20,7 +20,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% block head %}
-<title>{{ page.title }}</title>
+{% if page %}<title>{{ page.title }}</title>{% endif %}
+{% if article %}<title>{{ article.title }}</title>{% endif %}
 {% endblock %}
     <!-- Below Meta Tags Generated via https://www.opengraph.xyz -->
     <!-- If you don't care about social media then remove this section -->
@@ -112,7 +113,7 @@
 	  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
 	  crossorigin="anonymous"></script>
   <!-- End the loading of javascript frameworks -->
-
-  <!-- Source: {{ page.relative_source_path }}; Template: {{ page.default_template }}; Url: {{ page.url }} -->
+  {% if page %}<!-- Source: {{ page.relative_source_path }}; Template: {{ page.default_template }}; Url: {{ page.url }} -->{% endif %}
+  {% if article %}<!-- Source: {{ article.relative_source_path }}; Template: {{ article.default_template }}; Url: {{ article.url }} -->{% endif %}
 </body>
 </html>

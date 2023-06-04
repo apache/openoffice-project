@@ -21,3 +21,13 @@ genid:
   permalinks: yes
   toc_depth: 6
   tables: yes
+
+content:
+  pages: pages
+  static:
+    - css
+    - js
+    - highlight
+    - images
+    - fonts
+
