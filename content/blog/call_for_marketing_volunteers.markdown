@@ -4,7 +4,7 @@ layout: post
 date: '2012-11-21T14:45:41+00:00'
 permalink: call_for_marketing_volunteers
 
-<div align="center"> <a title="Gifford Park, Edinburgh with large adverts by National Library of Scotland, on Flickr" href="http://www.flickr.com/photos/nlscotland/4250969838/"><img width="393" height="500" alt="Gifford Park, Edinburgh with large adverts" src="http://farm5.staticflickr.com/4059/4250969838_a54ca39cd4.jpg" /></a> </div> 
+<div align="center"> <a title="Gifford Park, Edinburgh with large adverts by National Library of Scotland, on Flickr" href="https://www.flickr.com/photos/nlscotland/4250969838/"><img width="393" height="500" alt="Gifford Park, Edinburgh with large adverts" src="http://farm5.staticflickr.com/4059/4250969838_a54ca39cd4.jpg" /></a> </div> 
   <p> </p> 
   <h3>A Call for Marketing Volunteers <br /></h3> 
   <p>This is a call for volunteers for the Apache OpenOffice (formerly OpenOffice.org) Marketing team.&nbsp; We have big plans for our next major release, Apache OpenOffice 4.0.&nbsp;  As our development and QA volunteers work on the engineering side of this release, we're also building up our capabilities in critical supporting functions like Marketing.&nbsp;&nbsp;&nbsp; A high performance Marketing team is essential to explaining the value of OpenOffice to users worldwide.&nbsp; This work has a direct impact on the success of the OpenOffice project.&nbsp; It is also fun!</p> 

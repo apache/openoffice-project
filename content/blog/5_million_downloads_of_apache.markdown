@@ -5,7 +5,7 @@ date: '2012-06-20T14:18:37+00:00'
 permalink: 5_million_downloads_of_apache
 
 
-<div align="center"> <a href="http://www.flickr.com/photos/bergen_public_library/5832169030/" title="Celebration of Edvard Grieg's 60 birthday by Bergen Public Library, on Flickr"><img width="500" height="408" src="http://farm3.staticflickr.com/2558/5832169030_25b99770a8.jpg" alt="Celebration of Edvard Grieg's 60 birthday" /></a> </div> 
+<div align="center"> <a href="https://www.flickr.com/photos/bergen_public_library/5832169030/" title="Celebration of Edvard Grieg's 60 birthday by Bergen Public Library, on Flickr"><img width="500" height="408" src="http://farm3.staticflickr.com/2558/5832169030_25b99770a8.jpg" alt="Celebration of Edvard Grieg's 60 birthday" /></a> </div> 
   <p>Sometime last night the 5 millionth copy of <a href="http://download.openoffice.org">Apache OpenOffice 3.4</a> was downloaded.&nbsp;&nbsp; Over 5 million downloads in 6 weeks.&nbsp;&nbsp; To put this in perspective, <a href="http://www.ssb.no/folkendrkv_en/">the population of Norway</a> just hit 5 million earlier this year.&nbsp; That's a lot of OpenOffice!</p> 
   <p>(Apache OpenOffice is currently undergoing
       Incubation at the Apache Software Foundation.) </p> 

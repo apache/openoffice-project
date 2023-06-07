@@ -6,7 +6,7 @@ permalink: merging_lotus_symphony_allegro_moderato
 
 <br /> 
   <div align="center"> 
-    <p><a href="http://www.flickr.com/photos/nlireland/7057077503/" title="April 8, 1926 by National Library of Ireland on The Commons, on Flickr"><img width="500" height="383" src="http://farm6.staticflickr.com/5345/7057077503_9062b4a532.jpg" alt="April 8, 1926" /></a></p> 
+    <p><a href="https://www.flickr.com/photos/nlireland/7057077503/" title="April 8, 1926 by National Library of Ireland on The Commons, on Flickr"><img width="500" height="383" src="http://farm6.staticflickr.com/5345/7057077503_9062b4a532.jpg" alt="April 8, 1926" /></a></p> 
   </div> 
   <p> </p> 
   <p> </p> 

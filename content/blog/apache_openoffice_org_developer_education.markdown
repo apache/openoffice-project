@@ -5,7 +5,7 @@ date: '2011-09-01T22:41:22+00:00'
 permalink: apache_openoffice_org_developer_education
 
 <p> </p> 
-  <div align="center"><a title="Openluchtschool in de vrieskou / Open-air school in the freezing cold by Nationaal Archief, on Flickr" href="http://www.flickr.com/photos/nationaalarchief/3915530627/"><img width="500" height="309" alt="Openluchtschool in de vrieskou / Open-air school in the freezing cold" src="http://farm3.static.flickr.com/2460/3915530627_442e19f997.jpg" /></a></div> 
+  <div align="center"><a title="Openluchtschool in de vrieskou / Open-air school in the freezing cold by Nationaal Archief, on Flickr" href="https://www.flickr.com/photos/nationaalarchief/3915530627/"><img width="500" height="309" alt="Openluchtschool in de vrieskou / Open-air school in the freezing cold" src="http://farm3.static.flickr.com/2460/3915530627_442e19f997.jpg" /></a></div> 
   <p> </p> 
   <p> </p> 
   <p> </p> 

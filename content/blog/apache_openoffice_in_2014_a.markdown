@@ -4,7 +4,7 @@ layout: post
 date: '2014-12-31T18:50:02+00:00'
 permalink: apache_openoffice_in_2014_a
 
-2014 has been an exciting year for the OpenOffice project and community.<br /><br />Click on the picture below to start a slideshow with highlights from 2014. A text-only version is under the picture.<br /><br /> <a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0ApXDQB3bRocRdHd6OEVOeHVRTHBFQlc4RkJTSG1XSkE&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"><img src="http://people.apache.org/~pescetti/blog/2014-12-review/timeline.png" /></a><br /> 
+2014 has been an exciting year for the OpenOffice project and community.<br /><br />Click on the picture below to start a slideshow with highlights from 2014. A text-only version is under the picture.<br /><br /> <a href="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0ApXDQB3bRocRdHd6OEVOeHVRTHBFQlc4RkJTSG1XSkE&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650"><img src="https://people.apache.org/~pescetti/blog/2014-12-review/timeline.png" /></a><br /> 
   <ul> 
     <li><b>January</b>: The Apache OpenOffice community starts the year by adding new localizations.<br />OpenOffice supports 120+ languages, but only those that are 100% translated and maintained are officially released.The 100% complete localizations in 2014 doubled the ones from 2012.<br />OpenOffice also participated, as usual, in the initiatives for UNESCO's International Mother Language Day in February.</li> 
     <li><b>February</b>: OpenOffice comes back to FOSDEM, one of the most popular Free and Open Source Conferences in Europe, with a devroom and a dedicated stand.<br />For the first year, the devroom is open to all ODF Editors.</li> 

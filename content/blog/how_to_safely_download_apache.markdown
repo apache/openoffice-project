@@ -5,7 +5,7 @@ date: '2012-06-28T17:49:57+00:00'
 permalink: how_to_safely_download_apache
 
 <div align="center"> 
-    <p><a title="Syd Connelly and winning safety slogan by The Library of Virginia, on Flickr" href="http://www.flickr.com/photos/library_of_virginia/6069638327/"><img width="500" height="371" alt="Syd Connelly and winning safety slogan" src="http://farm7.staticflickr.com/6205/6069638327_3f11df530e.jpg" /></a></p> 
+    <p><a title="Syd Connelly and winning safety slogan by The Library of Virginia, on Flickr" href="https://www.flickr.com/photos/library_of_virginia/6069638327/"><img width="500" height="371" alt="Syd Connelly and winning safety slogan" src="http://farm7.staticflickr.com/6205/6069638327_3f11df530e.jpg" /></a></p> 
     <p> </p> 
     <div align="left"> 
       <p>It happened again today.&nbsp; We received an email from a very frustrated user, complaining that OpenOffice had taken over his browser, installed new toolbars, replaced the browser's home page, was causing pop-ups to surface on every page, etc.&nbsp; To make things worse, none of these programs could be uninstalled via normal means.</p> 

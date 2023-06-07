@@ -4,7 +4,7 @@ layout: post
 date: '2012-11-09T01:12:39+00:00'
 permalink: you_can_help_us_improve
 
-<div align="center"> <a href="http://www.flickr.com/photos/usnationalarchives/7496403768/" title="Hamilton Watch. Inspecting plate - skilled inspecting job, 1936 by The U.S. National Archives, on Flickr"><img height="355" width="500" src="http://farm8.staticflickr.com/7264/7496403768_aaed964939.jpg" alt="Hamilton Watch. Inspecting plate - skilled inspecting job, 1936" /></a> </div> 
+<div align="center"> <a href="https://www.flickr.com/photos/usnationalarchives/7496403768/" title="Hamilton Watch. Inspecting plate - skilled inspecting job, 1936 by The U.S. National Archives, on Flickr"><img height="355" width="500" src="http://farm8.staticflickr.com/7264/7496403768_aaed964939.jpg" alt="Hamilton Watch. Inspecting plate - skilled inspecting job, 1936" /></a> </div> 
   <p> </p> 
   <h3>A Call for QA Volunteers <br /></h3> 
   <p>This is a call for volunteers for our QA team.&nbsp;&nbsp; The Apache OpenOffice (formerly OpenOffice.org) project has an ambitious plan for our next major release.&nbsp; But for this plan to be successful we need to grow our Quality Assurance (QA) team to keep up with the output from our programmers.&nbsp; The more QA volunteers we have, the more bugs we can find and get fixed for Apache OpenOffice.&nbsp; This work has a direct impact on OpenOffice product quality.&nbsp; It is also fun!</p> 
