@@ -11,7 +11,7 @@ planning. <br /></p>
   <p>First a scatter plot of daily download numbers, with a 7-day moving average overlay.&nbsp; Noticeable on the chart is the peak in June 2012, when we enabled the upgrade notifications for OpenOffice.org 3.3.0 users, and the peak in September when Apache OpenOffice 3.4.1 was released.&nbsp; There is also a noticeable summer lull and big drop around the end-of-year holidays.<br /></p> 
   <p><br /></p> 
   <p><br /></p> 
-  <p align="center"> <img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_daily-downloads.png" alt="daily-downloads.png" /></p> 
+  <p align="center"> <img src="../images/blog/apache_openoffice_one_year_50_daily-downloads.png" alt="daily-downloads.png" /></p> 
   <p> </p> 
   <p align="left"> </p> 
   <p>The following histogram shows the distribution of download counts.&nbsp; The average daily download count is 134,900,&nbsp; with a peak day of 197,500.&nbsp; On average we see around a million downloads every 7.4 days.&nbsp; Since a typical download size is 
@@ -19,13 +19,13 @@ planning. <br /></p>
 ably handled by SourceForge and their distribution network. <br /></p> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_histogram.png" alt="histogram.png" /></p> 
+  <p align="center"><img src="../images/blog/apache_openoffice_one_year_50_histogram.png" alt="histogram.png" /></p> 
   <p> </p> 
   <p align="left"> </p> 
   <p>&nbsp;One final way to look at the daily counts (shown here in unit of 1000 downloads) is to decompose it into the sum of a smooth trend, a periodic weekly trend, and residual random noise:<br /></p> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_decomposition.png" alt="decomposition.png" /></p> 
+  <p align="center"><img src="../images/blog/apache_openoffice_one_year_50_decomposition.png" alt="decomposition.png" /></p> 
   <p align="left"> </p> 
   <p>We are able to break down these trends along several other dimensions.&nbsp; One is by country, looking at where the download request came from.&nbsp; This information is gleaned from the IP address of the machine making the request.&nbsp; Since each IP address is part of an assigned block of addresses, and blocks are assigned geographically, we can create a table of downloads by country, territory, etc.&nbsp; We show the <a href="http://www.openoffice.org/stats/countries.html">full table</a> our the website, of all 237 countries, territories, etc., but here are the top 10:</p> 
   <p> </p> 
@@ -92,24 +92,24 @@ ably handled by SourceForge and their distribution network. <br /></p>
   <p>Another approach is to look at which localized versions of Apache OpenOffice were downloaded.&nbsp; We can see these trends in the following dot chart:</p> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_languages.png" alt="languages.png" /></p> 
+  <p align="center"><img src="../images/blog/apache_openoffice_one_year_50_languages.png" alt="languages.png" /></p> 
   <p>We can also look at the trend over time of downloads by operating system.&nbsp;&nbsp; OpenOffice is a mainstream open source desktop application, so the OS distribution reflects overall desktop operating system market shares, and with a slight growth in Windows at the expense of Mac:<br /></p> 
-  <p align="center"><img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_os-downloads.png" alt="os-downloads.png" /></p> 
+  <p align="center"><img src="../images/blog/apache_openoffice_one_year_50_os-downloads.png" alt="os-downloads.png" /></p> 
   <p>Since we have Linux versions of OpenOffice packed as RPMs (e.g., for RedHat) as well as DEBs (e.g., for Ubuntu), we can look for trends in the ratio of requests for these two packaging formats over time:<br /></p> 
-  <p align="center"> <img alt="packaging.png" src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_packaging.png" /></p> 
+  <p align="center"> <img alt="packaging.png" src="../images/blog/apache_openoffice_one_year_50_packaging.png" /></p> 
   <p> </p> 
   <p>Also, we have 32-bit and 64-bit Linux downloads, and we see a gradual increase in demand over time for the 64-bit version, though the 32-bit version still dominates.&nbsp; (The drop in July-September is not fully explained, but may have been an error in our download page that was not recommending 64-bit downloads appropriately.)<br /></p> 
-  <p align="center"> <img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_64-bit.png" alt="64-bit.png" /></p> 
+  <p align="center"> <img src="../images/blog/apache_openoffice_one_year_50_64-bit.png" alt="64-bit.png" /></p> 
   <p> </p> 
   <p>Although we don't have detailed download data for different Windows versions (we have a single download for all Windows users) we do have information from website visitors (nearly 7 million visitors per month) that tells a similar story.&nbsp; Windows 7 remains the most popular Windows version for our users, accounting for over half of Windows visitors.&nbsp; Windows XP is in second place, though declining.&nbsp; At the end of the year Windows 8 overtook Vista for 3rd place, and continues to rise.<br /></p> 
   <p> </p> 
-  <p align="center"><img alt="windows-version.png" src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_windows.png" /></p> 
+  <p align="center"><img alt="windows-version.png" src="../images/blog/apache_openoffice_one_year_50_windows.png" /></p> 
   <p>Looking at the similar data for web browsers, we see the rise in Chrome users among our website visitors:<br /></p> 
-  <p align="center"><img src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_browsers.png" alt="browsers.png" /></p> 
+  <p align="center"><img src="../images/blog/apache_openoffice_one_year_50_browser.png" alt="browsers.png" /></p> 
   <p> </p> 
   <p>Information from website visitors also tells us their screen resolution.&nbsp; There is a huge diversity of screen resolutions, but the general trend is a gradual increase in HD 16:9 resolutions and away from the older 1280x800 and 1024x768 modes.&nbsp; If you average it all out and look at the average aspect ratio, you see a slow, but steady trend toward increased aspect ratios (wider screen monitors):</p> 
   <p> </p> 
-  <p align="center"> <img alt="aspect-ratio.png" src="https://openoffice.apache.org/images/blog/apache_openoffice_one_year_50_widescreen.png" /></p> 
+  <p align="center"> <img alt="aspect-ratio.png" src="../images/blog/apache_openoffice_one_year_50_widescreen.png" /></p> 
   <p> </p> 
   <p>The above charts were made in <a href="http://www.r-project.org/">R</a>, using data from <a href="http://sourceforge.net/p/forge/documentation/Download%20Stats%20API/">SourceForge's REST API</a> and from Google Analytics.&nbsp;&nbsp; The processing of the SourceForge data was automated via a <a href="https://svn.apache.org/repos/asf/openoffice/devtools/aoo-stats/detail-by-day.py">custom Python script</a>.<br /></p> 
   <p> </p> 

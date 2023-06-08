@@ -7,7 +7,8 @@ permalink: developer_in_aoo_1year_celebration
   <table width="100%" cellspacing="1" cellpadding="1" border="0"> 
     <tbody> 
       <tr> 
-        <td><img width="340" height="512" src="https://openoffice.apache.org/images/blog/Jan.jpeg" alt="jan1.jpg" /></td> 
+        <td>
+        <img width="340" height="512" src="../images/blog/Jan.jpeg" alt="jan1.jpg" /></td> 
         <td> <br /></td> 
         <td> 
           <p>Many of the big open source software packages are to a high degree 
