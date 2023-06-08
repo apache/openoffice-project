@@ -1,4 +1,3 @@
-layout: post
 title: Where did the time go? (A look at the Apache OpenOffice (incubating) timeline)
 layout: post
 date: '2012-03-13T16:20:56+00:00'

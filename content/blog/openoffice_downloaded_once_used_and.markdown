@@ -1,4 +1,3 @@
-layout: post
 title: OpenOffice downloaded once - used and installed as often you want
 layout: post
 date: '2013-02-19T16:45:02+00:00'

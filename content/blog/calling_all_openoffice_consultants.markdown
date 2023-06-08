@@ -1,4 +1,3 @@
-layout: post
 title: Calling all OpenOffice Consultants
 layout: post
 date: '2012-10-09T22:37:25+00:00'

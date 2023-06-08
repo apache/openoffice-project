@@ -1,4 +1,3 @@
-layout: post
 title: 'Apache OpenOffice: One Year, 50 Million Downloads'
 layout: post
 date: '2013-05-15T17:19:19+00:00'

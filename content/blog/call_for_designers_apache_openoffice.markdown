@@ -1,4 +1,3 @@
-layout: post
 title: 'Call For Designers: Apache OpenOffice 4.0 Brand Refresh Project'
 layout: post
 date: '2013-03-06T17:12:31+00:00'

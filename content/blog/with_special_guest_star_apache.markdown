@@ -1,4 +1,3 @@
-layout: post
 title: With Special Guest Star... Apache OpenOffice
 layout: post
 date: '2013-04-18T16:13:26+00:00'

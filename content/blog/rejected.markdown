@@ -1,4 +1,3 @@
-layout: post
 title: Rejected
 layout: post
 date: '2013-07-16T15:03:53+00:00'

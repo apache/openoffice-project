@@ -1,4 +1,3 @@
-layout: post
 title: Stop the lazy season, start changing
 layout: post
 date: '2016-09-20T19:02:41+00:00'

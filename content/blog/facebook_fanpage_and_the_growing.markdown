@@ -1,4 +1,3 @@
-layout: post
 title: Facebook fanpage and the growing fanbase
 layout: post
 date: '2013-07-05T03:19:58+00:00'

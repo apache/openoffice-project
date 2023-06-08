@@ -1,4 +1,3 @@
-layout: post
 title: International Mother Language Day 2013
 layout: post
 date: '2013-02-20T16:31:34+00:00'

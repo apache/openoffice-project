@@ -1,4 +1,3 @@
-layout: post
 title: Presentations and videos from FOSDEM 2014
 layout: post
 date: '2014-07-05T11:44:30+00:00'

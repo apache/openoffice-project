@@ -1,4 +1,3 @@
-layout: post
 title: Apache OpenOffice reach out to the world
 layout: post
 date: '2012-11-26T14:56:06+00:00'

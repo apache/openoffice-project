@@ -1,4 +1,3 @@
-layout: post
 title: 'Apache OpenOffice Weekly News #3'
 layout: post
 date: '2014-05-05T12:24:54+00:00'

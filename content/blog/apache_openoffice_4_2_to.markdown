@@ -1,4 +1,3 @@
-layout: post
 title: Apache OpenOffice 4.2 to Bring OpenCash Support
 layout: post
 date: '2014-04-01T02:04:52+00:00'

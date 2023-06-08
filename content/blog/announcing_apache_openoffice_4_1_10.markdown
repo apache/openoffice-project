@@ -1,4 +1,3 @@
-layout: post
 title: Announcing Apache OpenOffice 4.1.10
 layout: post
 date: '2021-05-04T12:28:17+00:00'

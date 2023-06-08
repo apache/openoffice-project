@@ -1,4 +1,3 @@
-layout: post
 title: Coming soon... Apache OpenOffice 4.1.2
 layout: post
 date: '2015-09-27T14:17:07+00:00'

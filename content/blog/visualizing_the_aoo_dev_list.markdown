@@ -1,4 +1,3 @@
-layout: post
 title: Visualizing the AOO Dev List
 layout: post
 date: '2013-04-17T13:54:24+00:00'

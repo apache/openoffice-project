@@ -1,4 +1,3 @@
-layout: post
 title: 'The Sidebar: New And Improved'
 layout: post
 date: '2013-06-04T06:49:57+00:00'

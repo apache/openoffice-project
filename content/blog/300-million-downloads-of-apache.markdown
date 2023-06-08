@@ -1,4 +1,3 @@
-layout: post
 title: 300 Million Downloads of Apache OpenOffice
 layout: post
 date: '2020-10-29T23:43:11+00:00'

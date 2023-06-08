@@ -1,11 +1,10 @@
-layout: post
 title: Books about OpenOffice
 layout: post
 date: '2013-01-11T02:02:51+00:00'
 permalink: books_about_openoffice
 
 <div align="center"> 
-    <p><a title="Civic library, Newcastle, 18/9/1957, Hood collection by State Library of New South Wales collection, on Flickr" href="https://www.flickr.com/photos/statelibraryofnsw/5882587233/"><img width="500" height="367" alt="Civic library, Newcastle, 18/9/1957, Hood collection" src="http://farm7.staticflickr.com/6056/5882587233_d89b6eb014.jpg" /></a></p><a title="Civic library, Newcastle, 18/9/1957, Hood collection by State Library of New South Wales collection, on Flickr" href="http://www.flickr.com/photos/statelibraryofnsw/5882587233/"> 
+    <p><a title="Civic library, Newcastle, 18/9/1957, Hood collection by State Library of New South Wales collection, on Flickr" href="http://www.flickr.com/photos/statelibraryofnsw/5882587233/"><img width="500" height="367" alt="Civic library, Newcastle, 18/9/1957, Hood collection" src="http://farm7.staticflickr.com/6056/5882587233_d89b6eb014.jpg" /></a></p><a title="Civic library, Newcastle, 18/9/1957, Hood collection by State Library of New South Wales collection, on Flickr" href="http://www.flickr.com/photos/statelibraryofnsw/5882587233/"> 
       <p> </p></a> 
     <div align="left"><a title="Civic library, Newcastle, 18/9/1957, Hood collection by State Library of New South Wales collection, on Flickr" href="http://www.flickr.com/photos/statelibraryofnsw/5882587233/"> 
         <p> </p></a></div> 

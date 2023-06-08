@@ -1,4 +1,3 @@
-layout: post
 title: 'Call for Comments: Apache OpenOffice Distributor Best Practices'
 layout: post
 date: '2013-12-05T14:42:44+00:00'

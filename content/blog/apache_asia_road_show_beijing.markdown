@@ -1,4 +1,3 @@
-layout: post
 title: Apache Asia Road Show Beijing 2012
 layout: post
 date: '2012-12-10T18:05:25+00:00'

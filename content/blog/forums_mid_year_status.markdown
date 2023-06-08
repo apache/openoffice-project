@@ -1,4 +1,3 @@
-layout: post
 title: 'The Community Forum: Mid Year Status'
 layout: post
 date: '2012-07-08T20:22:35+00:00'

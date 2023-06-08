@@ -1,4 +1,3 @@
-layout: post
 title: Collaboration is in our DNA
 layout: post
 date: '2015-04-13T22:24:27+00:00'
