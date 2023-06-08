@@ -1,0 +1,423 @@
+/*
+* Licensed to the Apache Software Foundation (ASF) under one or more
+* contributor license agreements.  See the NOTICE file distributed with
+* this work for additional information regarding copyright ownership.
+* The ASF licenses this file to You under the Apache License, Version 2.0
+* (the "License"); you may not use this file except in compliance with
+* the License.  You may obtain a copy of the License at
+*
+*     http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+body {
+  color: #333;
+  font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+.footer {
+  border-top: 1px solid #0e85cd;
+  padding-top: 3px;
+}
+.right-align {
+  text-align: right;
+}
+.center-align {
+  text-align: center;
+}
+blockquote {
+  background: bisque;
+}
+.bg-primary {
+  background-color: #0e85cd!important;
+}
+
+#banner {
+  height: 2.8rem;
+  padding: 0 0 0 0;
+  color: black;
+  font-family: Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+  font-size:1rem;
+  vertical-align: top;
+}
+
+#bannerright {
+  text-align: right;
+  float: right;
+  padding: 2pt 36pt 10pt 36pt;
+}
+
+#bannercenter {
+  padding: 21px 2px 15px 2px;
+  color: #555555;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#bannerleft {
+  text-align: left;
+  float: left;
+}
+
+#bannerleft a:hover {
+ color: #0e85cd;
+ background-color: white;
+}
+
+a {
+  color: #0e85cd;
+  text-decoration:none;
+}
+
+a:visited {
+ color: #0e85cd;
+}
+
+a:hover {
+ color: #0e85cd;
+ text-decoration:underline;
+}
+
+a img { border: none; }
+
+h1,h2,h3,h4,h5,h6 {
+  color: #333333;
+  text-transform:none;
+}
+
+.h1, h1 {
+  font-size: 1.5rem;
+}
+.h2, h2 {
+  font-size: 1.4rem;
+}
+.h3, h3 {
+  font-size: 1.3rem;
+}
+.h4, h4 {
+  font-size: 1.2rem;
+}
+.h5, h5 {
+  font-size: 1.1rem;
+}
+
+#clear {
+  overflow: auto;
+  clear: both;
+}
+
+#content {
+  margin: 0 50px 20px 50px;
+  padding: 0 8px 40px;
+  color: #333;
+  overflow: auto;
+  clear: both;
+}
+
+#content h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+  text-transform:none;
+  margin: 10px 0 15px;
+  padding: 5px 0;
+}
+
+#content h1 {
+  font-size: 1.4em;
+  padding: 15px;
+  border-top: 1px solid #0e85cd;
+}
+
+#content h2 {
+  font-size: 1.2em;
+  margin-top: 2em;
+}
+
+#content h3,h4,h5,h6 {
+  border-bottom: none;
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+#contenta ul {
+  padding-left: 2em;
+}
+
+#contenta li {
+  margin-bottom: 0.5em;
+}
+
+#contenta {
+  margin: 0 20px 20px 20px;
+  padding: 0 8px 20px;
+  color: #333;
+}
+
+#contenta p {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+#contenta h1,h2,h3,h4,h5,h6 {
+  font-weight: normal;
+  margin: 0px 0px 10px;
+  padding: 5px 0px;
+}
+
+#contenta h1 {
+  font-size: 1.4em;
+  padding: 10px 0px 0px 0px;
+  border-top: 1px solid #cccccc;
+}
+
+#contenta h2 {
+  font-size: 1.2em;
+  margin-top: 1em;
+  border-bottom: 1px solid #cccccc;
+}
+
+#contenta h3,h4,h5,h6 {
+  border-bottom: none;
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+#contenta li {
+  margin-bottom: 0.25em;
+}
+
+#contenta a:hover {
+ color: #0e85cd;
+ text-decoration:underline;
+ background-color: #e6ebed;
+}
+
+table {
+  border-collapse:collapse;
+  margin: auto;
+}
+
+th {
+  height: 40px;
+  background: #f5f8fa;
+  border: 1px solid #0e85cd;
+  vertical-align: middle;
+  font-size: 0.9em;
+}
+
+td {
+  vertical-align: top;
+  border: 1px solid #0e85cd;
+  padding: 0.4em 0.5em 0.4em 0.5em;
+  font-size: 0.9em;
+}
+
+.w140 {
+  width: 140px;
+}
+
+.w160 {
+  width: 160px;
+}
+
+.w180 {
+  width: 180px;
+}
+
+.w200 {
+  width: 200px;
+}
+
+.w220 {
+  width: 220px;
+}
+
+.codehilite {
+  background-color: #80FFFF;
+  font-size: 10pt;
+  padding: 0.01em 1em;
+  border-radius: 10px;
+}
+
+#sidenav {
+  border: 1px solid #c6cbdd;
+  border-left: none;
+  -moz-border-radius: 0 10px 10px 0;
+  border-radius: 0 10px 10px 0;
+  font-size: 1em;
+  color: #003;
+  float: left;
+  padding: 5px 15px 5px 25px;
+  width: 200px;
+  background: none repeat scroll 0 0 #f5f8fa;
+  margin: 0 0 20px 0;
+}
+
+#sidenav img {
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#sidenav h1 {
+  color: #333;
+  font-size: 1em;
+  padding: 0;
+  margin-top: 0.8em;
+  margin-bottom: 0;
+  border-bottom: 1px solid #555555;
+}
+
+#sidenav ul {
+  margin: 0 0;
+  padding: 0px 15px 0px 0px;
+  list-style: none;
+}
+
+#sidenav li {
+  border-bottom: 1px solid #c6cbdd; 
+  margin: 0.2em 0;
+  padding: 0;
+}
+
+#sidenav li a {
+  margin: 0;
+  text-decoration:none;
+}
+
+#sidenav li a:hover {
+  color: #0e85cd;
+  background-color: #e6ebed;
+  text-decoration:underline;
+}
+
+#navigation {
+  border: 1px solid #e6ebed;
+  border-left: none;
+  -moz-border-radius: 0 10px 10px 0;
+  border-radius: 0 10px 10px 0;
+  font-size: 0.9em;
+  color: #003;
+  float: left;
+  padding: 15px 15px 5px 25px;
+  width: 180px;
+  background: none repeat scroll 0 0 #f5f8fa;
+  margin: 0 0 20px 0;
+}
+
+#navigation img {
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#navigation h1 {
+  color: #000;
+  font-size: 1em;
+  padding: 0;
+  margin-top: 0.8em;
+  margin-bottom: 0;
+  border-bottom: 1px solid #0e85cd;
+}
+
+#navigation ul {
+  margin: 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+#navigation li {
+  border-bottom: 1px solid #e6ebed; 
+  margin: 0.2em 0;
+  padding: 0;
+}
+
+#navigation li a {
+  margin: 0;
+  text-decoration:none;
+}
+
+#navigation li a:hover {
+ color: #0e85cd;
+ background-color: #e6ebed;
+}
+
+
+#footera {
+  margin: 20px 0px 0px 0px;
+  padding: 8px 0px 12px 0px;
+  border-top: 2px solid #ccc;
+  color:#666;
+  font-size: 8pt;
+  padding: 0 8px;
+  text-align: left;
+  overflow: auto;
+  clear: both;
+  line-height: 10pt;
+}
+
+#copyrighta {
+}
+
+#copyrighta p {
+  padding-left: 20px;
+  line-height: 10pt;
+  padding-bottom: 5px;
+}
+
+#copyrighta a {
+ color: #0e85cd;
+ text-decoration:none;
+}
+
+#copyrighta a:hover {
+ background-color: #e6ebed;
+ text-decoration:underline;
+}
+
+#poweredby {
+  float: right;
+  text-align: right;
+  width: 210px;
+  height: 90px;
+}
+
+#asfbanner {
+  float: left;
+  text-align: left;
+  padding: 10px 0px 0px 0px;
+  width: 265px;
+  height: 90px;
+}
+
+#asf-logo {
+  width: 180px;
+  padding-top: 20px;
+}
+
+
+
+/* definition lists */
+dd {}
+dl {}
+dt {
+  display: inline;
+  float: left;
+}
+
+.headerlink, .elementid-permalink {
+  visibility: hidden;
+}
+h2:hover > .headerlink, h3:hover > .headerlink, h1:hover > .headerlink, h6:hover > .headerlink, h4:hover > .headerlink, h5:hover > .headerlink, dt:hover > .elementid-permalink {
+    visibility: visible
+}
+
