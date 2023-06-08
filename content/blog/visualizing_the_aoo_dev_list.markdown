@@ -2,9 +2,9 @@ title: Visualizing the AOO Dev List
 layout: post
 date: '2013-04-17T13:54:24+00:00'
 permalink: visualizing_the_aoo_dev_list
-
-<div align="center"> <a href="https://blogs.apache.org/OOo/mediaresource/c4168894-6de7-4ebc-b500-cdc97eb487f2"><img src="https://blogs.apache.org/OOo/mediaresource/db630374-272e-419b-ad76-956a2dbef2b1" alt="Dev list graph" /></a> </div> 
-  <h3>&nbsp;What am I looking at?<br /></h3> 
+<div align="center"><img src="../images/blog/visualizing_the_aoo_dev_list_Dev_list_graph.png" alt="Dev list graph" />
+ </div> 
+  <h3>&nbsp;What am I looking at?</h3> 
   <p>The above image illustrates the social network of posts and responses to the Apache OpenOffice project's main development mailing list, from when it started in May 2011 until the end of March 2013 when this data was collected.&nbsp; (Click on the image to view a larger version)&nbsp; <br /></p> 
   <p>Each circle represents a person posting to the mailing list.&nbsp; The arcs represent responses to posts, i.e., they are drawn from the person posting to the person to whose post they are replying.&nbsp; The weight of each line is proportionate to the number of times person X responded to person Y.&nbsp; So darker lines portray more frequent communication pathways.&nbsp; The size of each circle is proportionate to the poster's <a href="http://en.wikipedia.org/wiki/Betweenness#Eigenvector_centrality">eigenvector centrality</a>, a theoretical measure of influence within the graph.&nbsp; The colors represent modularity classes, based a calculation that determines the most tightly-connected portions of the overall graph.&nbsp; These can represent real-world structures within the community.&nbsp; </p> 
   <p>Overall the graph has 1077 nodes (persons) and 8181 arcs (response emails).&nbsp; On average each person responded to 7.6 other persons, and made 27.1 total responses. </p> 
