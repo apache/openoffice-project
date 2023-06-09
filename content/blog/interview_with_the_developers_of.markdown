@@ -5,7 +5,7 @@ permalink: interview_with_the_developers_of
 
 <p>Most of the posts on this blog are about the Apache OpenOffice product and the community of volunteers that develops it.&nbsp; But occasionally we write about interesting things in the broader Apache OpenOffice project, the ecosystem of extension developers, consultants, trainers, etc., that help users get value from OpenOffice.&nbsp; Today I'm pleased to feature another part of the ecosystem in this interview with the developers of <a href="http://www.prooo-box.org">PrOOo-Box</a>.</p> 
   <p> </p> 
-  <p align="center"><a href="http://www.prooo-box.org"><img src="https://blogs.apache.org/OOo/mediaresource/6da2fac8-72c6-453e-ad9f-6ae075a3bfcc" /></a> </p> 
+  <p align="center"><a href="http://www.prooo-box.org"><img src="../images/blog/interview_with_the_developers_of_PrOOo-Box.png" /></a> </p> 
   <p> </p> 
   <p> </p> 
   <p> </p> 
