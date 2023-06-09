@@ -3,6 +3,7 @@ layout: post
 date: '2021-10-06T18:04:34+00:00'
 permalink: announcing_apache_openoffice_4_1_11
 
+
 <p><b>Wakefield, DE</b> - <strong>06</strong><strong> October 2021</strong>
  - Apache OpenOffice, a leading Open Source office document productivity
  suite, announced today Apache OpenOffice 4.1.11, as usual available in 
