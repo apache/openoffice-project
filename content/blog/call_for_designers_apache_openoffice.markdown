@@ -4,7 +4,7 @@ date: '2013-03-06T17:12:31+00:00'
 permalink: call_for_designers_apache_openoffice
 
 <p><a href="http://www.openoffice.org/">Apache OpenOffice</a> is looking for a refreshed logo and branding for its upcoming 4.0 release.</p> 
-  <p><img align="middle" src="https://blogs.apache.org/OOo/mediaresource/19b19fa0-f51b-4c42-aa7d-ceb8d0d9aa62" alt="logo-contest-600.png" /><br /> </p> 
+  <p><img align="middle" src="../images/blog/call_for_designers_apache_openoffice_logo-contest.png" alt="logo-contest-600.png" /><br /> </p> 
   <p>This is a tremendous opportunity for designers to get involved in one of the most popular free and open source projects, and to get their work displayed to dozens of million of users: Apache OpenOffice just celebrated 40 million downloads in less than ten months.</p> 
   <h3>Brand Refresh Project Scope</h3> 
   <p>Required:</p> 
