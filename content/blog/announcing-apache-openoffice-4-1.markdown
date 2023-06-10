@@ -1,7 +1,8 @@
+
 title: Announcing Apache OpenOffice 4.1.4
 layout: post
 date: '2017-10-19T19:44:55+00:00'
-permalink: announcing_apache_openoffice_4_1_4
+permalink: announcing-apache-openoffice-4-1
 
 <p>19 October 2017 - Apache OpenOffice, the leading Open Source office document productivity suite, announced today Apache OpenOffice 4.1.4, as usual available in 41 languages for Windows, macOS and Linux.<br /><br />Apache OpenOffice 4.1.4 is a maintenance release incorporating important bug fixes, security fixes, updated dictionaries, and build fixes. All users of Apache OpenOffice 4.1.3 or earlier are advised to upgrade.<br /><br />Main improvements include:</p> 
   <p>* BZ 119208 Cannot select a different icon set (menu &quot;Tools - Options - View&quot;).<br />* BZ 125147 Crash when applying a style to a new text document.<br />* BZ 127176 Different installed Java Runtime Environment cannot be selected (menu &quot;Tools - Options - Java&quot;).<br />* BZ 127553 <span><span>Update links doesn't work for sections in 4.1.4-RC4</span></span></p>The complete overview is available as list in <a href="https://bz.apache.org/ooo/buglist.cgi?list_id=233429&amp;query_format=advanced&amp;resolution=FIXED&amp;resolution=FIXED_WITHOUT_CODE&amp;target_milestone=4.1.4" target="_blank" title="Bugzilla">Bugzilla</a>.<br /> 

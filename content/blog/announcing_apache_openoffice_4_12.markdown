@@ -1,7 +1,8 @@
+
 title: Announcing Apache OpenOffice 4.1.3
 layout: post
 date: '2016-10-12T21:46:03+00:00'
-permalink: announcing_apache_openoffice_4_1_3
+permalink: announcing_apache_openoffice_4_12
 
 12 October 2016 - Apache OpenOffice, the leading Open Source office 
 document productivity suite, announced today Apache OpenOffice 4.1.3, 

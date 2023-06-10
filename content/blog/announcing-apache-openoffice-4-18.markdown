@@ -1,7 +1,8 @@
+
 title: Announcing Apache OpenOffice 4.1.12
 layout: post
 date: '2022-05-04T21:27:43+00:00'
-permalink: announcing_apache_openoffice_4_1_12
+permalink: announcing-apache-openoffice-4-18
 
 <p><strong></strong><strong></strong><b>Wakefield, DE</b> - <strong>04</strong><strong> May 2022 </strong>- Apache OpenOffice, a leading Open Source office document productivity
  suite, announced today Apache OpenOffice 4.1.12, as usual available in 
