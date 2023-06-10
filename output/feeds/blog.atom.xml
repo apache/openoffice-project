@@ -1081,7 +1081,7 @@ OpenOffice suite has been downloaded a whopping 100 million times." &lt;/span&gt
 &lt;p&gt;As we on the Apache OpenOffice project put the final touches on our 4.1 release, we've started planning for our next major release, version 4.2, hopefully out sometime mid-year. One of the exciting new features we're looking forward to is support for the &lt;b&gt;OpenCash Protocol&lt;/b&gt;, the new open standard for on-demand funding and delivery of both traditional currencies as well as the new cryptocurrencies.&lt;/p&gt;
 &lt;p&gt;For several years it has been possible, with expensive proprietary systems, to do convenient on-demand funding and printing of postage stamps.&amp;nbsp; The OpenCash protocol advances this to the next level, extended to currencies, and in an way that makes it accessible to users on all platforms. &lt;/p&gt;
 &lt;p&gt;We're still early in the design phase for this feature, but the gist of it can be seen in the following UI prototype: &lt;br/&gt;&lt;/p&gt;
-&lt;div align="center"&gt;&lt;img src="https://blogs.apache.org/OOo/mediaresource/b3c382d4-cf7d-4efd-8097-718f4c82e03e"/&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;img src="../images/blog/apache_openoffice_4_2_to_OpenCash.png"/&gt;&lt;/div&gt;
 &lt;p&gt; The basic flow would be: &lt;br/&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;User selects desired currency, denomination and number of copies.&lt;br/&gt;&lt;/li&gt;
