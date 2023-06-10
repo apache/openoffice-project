@@ -1,0 +1,58 @@
+<<<<<<< HEAD:content/blog/announcing_apache_openoffice_4_1_13.markdown
+title: Announcing Apache OpenOffice 4.1.13
+layout: post
+date: '2022-07-22T17:57:02+00:00'
+permalink: announcing_apache_openoffice_4_1_13
+
+<p><strong></strong><strong></strong><b>Wakefield, DE</b> - <strong>22</strong><strong> July 2022 </strong>- Apache OpenOffice, a leading Open Source office document productivity
+ suite, announced today Apache OpenOffice 4.1.13, as usual available in 
+41 languages for Windows, macOS and Linux.</p><p><a href="https://www.openoffice.org/" class="external-link" rel="nofollow" target="_blank">Apache OpenOffice</a>
+ 4.1.13 is a Security release incorporating bug fixes and other enhancements. All 
+users of Apache OpenOffice 4.1.12 or earlier are advised to upgrade. You 
+can download Apache OpenOffice 4.1.13 <a href="https://www.openoffice.org/download/" class="external-link" rel="nofollow" target="_blank">here</a>.&nbsp; Windows 10 and 11 users can now also get Apache OpenOffice for selected languages in the "Microsoft Store" App.</p><p>It is recommended to make a backup of the Apache OpenOffice users profile
+before installing AOO 4.1.13. It is especially important for users who use
+the Master Password functionality and may decide to use an older version
+later. There is a change in the encoding of stored passwords in this 4.1.13
+release that may make your user profile unusable for previous versions.
+<br>
+<br>In general, it is always a good idea to do a backup of important and
+personal data, so we recommend to always backup your OpenOffice user profile
+before doing an upgrade to a newer release.
+</p><p>To check that the download file is not broken or changed in any other way, please see our <a href="https://www.openoffice.org/download/checksums.html" class="external-link" rel="nofollow" target="_blank">checksums page</a> for instructions on how to verify this.</p><p>If
+ you are upgrading from an earlier release you can verify that the 
+release upgrade worked by opening the About box (menu "Help - About 
+OpenOffice") for the version number.</p><p>Please review the <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.13+Release+Notes" rel="nofollow" target="_blank">Release Notes</a> to learn what is new in this version as well as important remarks concerning known issues and their workarounds.</p><p>For a complete overview of all resolved issues please see the list in <a href="https://bz.apache.org/ooo/buglist.cgi?list_id=233429&amp;query_format=advanced&amp;resolution=FIXED&amp;resolution=FIXED_WITHOUT_CODE&amp;target_milestone=4.1.13" class="external-link" rel="nofollow" target="_blank">Bugzilla</a>.</p><p>To get a copy of the source code see our <a href="https://openoffice.apache.org/source.html" class="external-link" rel="nofollow">source page</a> for our Git repository or download prepared source tarballs from our <a href="https://openoffice.apache.org/downloads.html" class="external-link" rel="nofollow" target="_blank">project download page</a>.</p><p>You
+ are encouraged to subscribe to the Apache OpenOffice announcement 
+mailing list to receive important notifications such as product updates 
+and security patches. To subscribe you can send an email to: 
+announce-subscribe-AT-openoffice.apache-DOT-org.</p><p>Follow Apache OpenOffice:</p><p>Twitter&nbsp;&nbsp; <a href="https://twitter.com/apacheoo" title="Apache OpenOffice @Twitter" target="_blank">https://twitter.com/apacheoo</a><br>Facebook&nbsp;&nbsp; <a href="https://www.facebook.com/ApacheOO" title="Apache OpenOffice @ Facebook" target="_blank">https://www.facebook.com/ApacheOO</a><br>YouTube&nbsp;&nbsp; <a href="https://www.youtube.com/openoffice" title="Apache OpenOffice @ YouTube" target="_blank">https://www.youtube.com/openoffice</a><br>Mail&nbsp;&nbsp; <a title="Mail" href="https://openoffice.apache.org/mailing-lists.html" target="_blank">https://openoffice.apache.org/mailing-lists.html</a></p>
+=======
+layout: post
+title: Announcing Apache OpenOffice 4.1.13
+layout: post
+date: '2022-07-22T17:57:02+00:00'
+permalink: announcing-apache-openoffice-4-19
+
+<p><strong></strong><strong></strong><b>Wakefield, DE</b> - <strong>22</strong><strong> July 2022 </strong>- Apache OpenOffice, a leading Open Source office document productivity
+ suite, announced today Apache OpenOffice 4.1.13, as usual available in 
+41 languages for Windows, macOS and Linux.</p><p><a href="https://www.openoffice.org/" class="external-link" rel="nofollow" target="_blank">Apache OpenOffice</a>
+ 4.1.13 is a Security release incorporating bug fixes and other enhancements. All 
+users of Apache OpenOffice 4.1.12 or earlier are advised to upgrade. You 
+can download Apache OpenOffice 4.1.13 <a href="https://www.openoffice.org/download/" class="external-link" rel="nofollow" target="_blank">here</a>.&nbsp; Windows 10 and 11 users can now also get Apache OpenOffice for selected languages in the "Microsoft Store" App.</p><p>It is recommended to make a backup of the Apache OpenOffice users profile
+before installing AOO 4.1.13. It is especially important for users who use
+the Master Password functionality and may decide to use an older version
+later. There is a change in the encoding of stored passwords in this 4.1.13
+release that may make your user profile unusable for previous versions.
+<br>
+<br>In general, it is always a good idea to do a backup of important and
+personal data, so we recommend to always backup your OpenOffice user profile
+before doing an upgrade to a newer release.
+</p><p>To check that the download file is not broken or changed in any other way, please see our <a href="https://www.openoffice.org/download/checksums.html" class="external-link" rel="nofollow" target="_blank">checksums page</a> for instructions on how to verify this.</p><p>If
+ you are upgrading from an earlier release you can verify that the 
+release upgrade worked by opening the About box (menu "Help - About 
+OpenOffice") for the version number.</p><p>Please review the <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.13+Release+Notes" rel="nofollow" target="_blank">Release Notes</a> to learn what is new in this version as well as important remarks concerning known issues and their workarounds.</p><p>For a complete overview of all resolved issues please see the list in <a href="https://bz.apache.org/ooo/buglist.cgi?list_id=233429&amp;query_format=advanced&amp;resolution=FIXED&amp;resolution=FIXED_WITHOUT_CODE&amp;target_milestone=4.1.13" class="external-link" rel="nofollow" target="_blank">Bugzilla</a>.</p><p>To get a copy of the source code see our <a href="https://openoffice.apache.org/source.html" class="external-link" rel="nofollow">source page</a> for our Git repository or download prepared source tarballs from our <a href="https://openoffice.apache.org/downloads.html" class="external-link" rel="nofollow" target="_blank">project download page</a>.</p><p>You
+ are encouraged to subscribe to the Apache OpenOffice announcement 
+mailing list to receive important notifications such as product updates 
+and security patches. To subscribe you can send an email to: 
+announce-subscribe-AT-openoffice.apache-DOT-org.</p><p>Follow Apache OpenOffice:</p><p>Twitter&nbsp;&nbsp; <a href="https://twitter.com/apacheoo" title="Apache OpenOffice @Twitter" target="_blank">https://twitter.com/apacheoo</a><br>Facebook&nbsp;&nbsp; <a href="https://www.facebook.com/ApacheOO" title="Apache OpenOffice @ Facebook" target="_blank">https://www.facebook.com/ApacheOO</a><br>YouTube&nbsp;&nbsp; <a href="https://www.youtube.com/openoffice" title="Apache OpenOffice @ YouTube" target="_blank">https://www.youtube.com/openoffice</a><br>Mail&nbsp;&nbsp; <a title="Mail" href="https://openoffice.apache.org/mailing-lists.html" target="_blank">https://openoffice.apache.org/mailing-lists.html</a></p>
+>>>>>>> origin/main:content/blog/announcing-apache-openoffice-4-19.markdown
