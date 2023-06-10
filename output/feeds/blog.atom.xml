@@ -3722,7 +3722,7 @@ same as those needed for FreeBSD's port.&lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;Finally, please remember that porting to FreeBSD also is a benefit for all OpenOffice users, since it increases the overall portability of the code and provides another valuable testing environment.&lt;/p&gt;
 &lt;p&gt;Thanks, &lt;/p&gt;
 &lt;p&gt;Nakata Maho &lt;/p&gt;
-&lt;p&gt; &lt;img src="https://blogs.apache.org/OOo/mediaresource/bc1d3f35-8a7a-47c6-8b90-3788b71a7e5d"/&gt;&lt;/p&gt;
+&lt;p&gt; &lt;img src="../images/blog/apache_openoffice_has_been_ported_Nakata_Maho.jpeg"/&gt;&lt;/p&gt;
 </content><category term="blog"></category></entry><entry><title>Native SVG support for Apache OpenOffice 3.4 (Incubating)</title><link href="https://openoffice.apache.org/blog/native_svg_support_for_apache.html" rel="alternate"></link><published>2012-01-19T11:02:42+00:00</published><updated>2012-01-19T11:02:42+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2012-01-19:/blog/native_svg_support_for_apache.html</id><summary type="html">&lt;p&gt;Apache OpenOffice 3.4 supports embedding SVG graphics using a newly created native SVG interpreter implementation. I want to talk about the advantages and some internals of this solution and the necessary changes done.&lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;One reason to do this was IP clearance. It allowed removal of six GPL/LGPL libraries …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Apache OpenOffice 3.4 supports embedding SVG graphics using a newly created native SVG interpreter implementation. I want to talk about the advantages and some internals of this solution and the necessary changes done.&lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;One reason to do this was IP clearance. It allowed removal of six GPL/LGPL libraries, namely 
