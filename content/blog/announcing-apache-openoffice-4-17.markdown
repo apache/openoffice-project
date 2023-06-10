@@ -1,8 +1,9 @@
-layout: post
+
 title: Announcing Apache OpenOffice 4.1.11
 layout: post
 date: '2021-10-06T18:04:34+00:00'
 permalink: announcing-apache-openoffice-4-17
+
 
 <p><b>Wakefield, DE</b> - <strong>06</strong><strong> October 2021</strong>
  - Apache OpenOffice, a leading Open Source office document productivity

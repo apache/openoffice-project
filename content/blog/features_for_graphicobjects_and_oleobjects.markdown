@@ -1,4 +1,3 @@
-layout: post
 title: Features for GraphicObjects and OLEObjects
 layout: post
 date: '2012-01-11T15:42:20+00:00'
@@ -13,7 +12,12 @@ permalink: features_for_graphicobjects_and_oleobjects
   
   
   <p>Some examples:</p> 
-  <p><a href="https://blogs.apache.org/OOo/mediaresource/00399dde-a61f-4ad7-a9af-b9b8aa24fe74"></a><a href="https://blogs.apache.org/OOo/mediaresource/00399dde-a61f-4ad7-a9af-b9b8aa24fe74"></a><a href="https://blogs.apache.org/OOo/mediaresource/00399dde-a61f-4ad7-a9af-b9b8aa24fe74"></a><a href="https://blogs.apache.org/OOo/mediaresource/00399dde-a61f-4ad7-a9af-b9b8aa24fe74"></a><a href="https://blogs.apache.org/OOo/mediaresource/00399dde-a61f-4ad7-a9af-b9b8aa24fe74"><img alt="example.jpg" src="https://blogs.apache.org/OOo/mediaresource/00399dde-a61f-4ad7-a9af-b9b8aa24fe74" /></a></p> 
+  <p>
+
+  <a href="../images/blog/features_for_graphicobjects_and_oleobjects_types.jpeg">
+  <img alt="example.jpg" src="../images/blog/features_for_graphicobjects_and_oleobjects_types.jpeg" />
+  </a>
+  </p> 
   <p>(a) Math OLEObject rotated 90 degrees, blue filled and with border<br />(b) Chart OLEObject with gradient fill, border and object text as caption<br />(c) Same chart without fill, 90 degree rotation and shadow<br />(d) Chart bend in 2D, converted to GraphicObject (no longer an OLEObject)<br />(e) Chart OLEObject converted to 3D (only for demonstration, not too nice to view...)<br />(f) The math OLEObject, converted and bent, fill removed</p> 
   <p>I hope you got an impression; I'm not the designer guy, so excuse the examples.</p> 
   <p>Regards,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Armin<br /></p>

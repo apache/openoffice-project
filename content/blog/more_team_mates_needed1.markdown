@@ -1,10 +1,9 @@
-layout: post
 title: More team-mates needed
 layout: post
 date: '2016-09-22T21:04:50+00:00'
 permalink: more_team_mates_needed1
 
-<p><img alt="American Football Team" src="https://blogs.apache.org/OOo/mediaresource/4be9a51b-fca1-4e08-af65-4996f6c423cf" /></p> 
+<p><img alt="American Football Team" src="../images/blog/more_team_mates_needed1_American_Football_Team.jpeg" /></p> 
   <p> </p> 
   <p> </p> 
   <p>At Apache OpenOffice we are looking for further team-mates and here especially for developers:</p> 

@@ -1,4 +1,3 @@
-layout: post
 title: 75 Million Downloads of Apache OpenOffice
 layout: post
 date: '2013-10-30T19:02:24+00:00'
@@ -20,7 +19,7 @@ planning. <br /></p>
   <p>First a scatter plot of daily download numbers, with a 7-day moving average overlay.&nbsp; Each of our releases is marked by a vertical line.&nbsp; You can clearly see the increase in interest since the release of Apache OpenOffice 4.0.<br /></p> 
   <p><br /></p> 
   <p><br /></p> 
-  <p align="center"> <img src="https://blogs.apache.org/OOo/mediaresource/4618df3f-c9b3-4be0-a00a-268b509ffb9c" alt="daily-downloads.png" /></p> 
+  <p align="center"> <img src="../images/blog/75_million_downloads_of_apache_day.png" alt="daily-downloads.png" /></p> 
   <p> </p> 
   <p align="left"> </p><br /> 
   <p> </p> 
@@ -96,20 +95,20 @@ planning. <br /></p>
   <p>Another approach is to look at which localized versions of Apache OpenOffice were downloaded.&nbsp; We can see these trends in the following dot chart:</p> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="https://blogs.apache.org/OOo/mediaresource/c15b2b83-aaf7-45ec-b77c-5ac3b2325ed7" alt="languages.png" /></p> 
+  <p align="center"><img src="../images/blog/75_million_downloads_of_apache_languages.png" alt="languages.png" /></p> 
   <p>We can also look at the trend over time of downloads by operating system.&nbsp;&nbsp; (Note the log-scale on the Y-axis.)&nbsp; OpenOffice is a mainstream open source desktop application, so the OS distribution reflects overall desktop operating system market shares:<br /></p> 
-  <p align="center"><img src="https://blogs.apache.org/OOo/mediaresource/08e0a258-dd27-48a7-9a86-750a572bca7b" alt="os-downloads.png" /></p> 
+  <p align="center"><img src="../images/blog/75_million_downloads_of_apache_os-downloads_64-bit.png" alt="os-downloads.png" /></p> 
   <p>Since we have Linux versions of OpenOffice packed as RPMs (e.g., for RedHat) as well as DEBs (e.g., for Ubuntu), we can look for trends in the ratio of requests for these two packaging formats over time:<br /></p> 
-  <p align="center"> <img alt="packaging.png" src="https://blogs.apache.org/OOo/mediaresource/f5304e3b-e508-4112-9ae2-6cbfdb55a890" /></p> 
+  <p align="center"> <img alt="packaging.png" src="../images/blog/75_million_downloads_of_apache_packaging.png" /></p> 
   <p> </p> 
   <p>Also, we have 32-bit and 64-bit Linux downloads, and we see a gradual increase in demand over time for the 64-bit version, now reaching 50%.&nbsp; (The drop in July-September is not fully explained, but may have been an error in our download page that was not recommending 64-bit downloads appropriately.)<br /></p> 
-  <p align="center"> <img src="https://blogs.apache.org/OOo/mediaresource/ee577c6b-74ca-472a-b698-b8488748e0dd" alt="64-bit.png" /></p> 
+  <p align="center"> <img src="../images/blog/75_million_downloads_of_apache_64-bit.png" alt="64-bit.png" /></p> 
   <p> </p> 
   <p>Although we don't have detailed download data for different Windows versions (we have a single download for all Windows users) we do have information from website visitors (nearly 7 million visitors per month) that tells a similar story.&nbsp; Windows 7 remains the most popular Windows version for our users, accounting for over half of Windows visitors.&nbsp; Windows XP ties with Windows 8 for second place, though Windows XP usage is declining quickly.<br /></p> 
   <p> </p> 
-  <p align="center"><img alt="windows-version.png" src="https://blogs.apache.org/OOo/mediaresource/f757dc34-3085-4446-8fd7-d339b762f591" /></p> 
+  <p align="center"><img alt="windows-version.png" src="../images/blog/75_million_downloads_of_apache_windows.png" /></p> 
   <p>Looking at the similar data for web browsers, we see the rise in Chrome users among our website visitors:<br /></p> 
-  <p align="center"><img src="https://blogs.apache.org/OOo/mediaresource/fbeef3f1-467b-46ec-bfda-355187d97d39" alt="browsers.png" /></p> 
+  <p align="center"><img src="../images/blog/75_million_downloads_of_apache_browsers.png" alt="browsers.png" /></p> 
   <p> </p><br /> 
   <p> </p> 
   <p>The above charts were made in <a href="http://www.r-project.org/">R</a>, using data from <a href="http://sourceforge.net/p/forge/documentation/Download%20Stats%20API/">SourceForge's REST API</a> and from Google Analytics.&nbsp;&nbsp; The processing of the SourceForge data was automated via a <a href="https://svn.apache.org/repos/asf/openoffice/devtools/aoo-stats/detail-by-day.py">custom Python script</a>.<br /></p> 

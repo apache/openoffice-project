@@ -1,10 +1,24 @@
-layout: post
 title: Presentations and videos from FOSDEM 2014
 layout: post
 date: '2014-07-05T11:44:30+00:00'
 permalink: presentations_and_videos_from_fosdem
 
-<p> <a href="https://blogs.apache.org/OOo/mediaresource/599cc489-bff9-43d1-b5f0-64d644707acc"><img src="https://blogs.apache.org/OOo/mediaresource/599cc489-bff9-43d1-b5f0-64d644707acc?t=true" alt="fosdem2014a-1024.jpg" /></a> <a href="https://blogs.apache.org/OOo/mediaresource/08a81fa2-b382-483e-862a-ceb735bf100b"><img src="https://blogs.apache.org/OOo/mediaresource/08a81fa2-b382-483e-862a-ceb735bf100b?t=true" alt="fosdem2014b-1024.jpg" /></a> <a href="https://blogs.apache.org/OOo/mediaresource/5c6a4af8-f6e0-43b4-9de8-42cfbf750457"><img alt="fosdem2014c-1024.jpg" src="https://blogs.apache.org/OOo/mediaresource/5c6a4af8-f6e0-43b4-9de8-42cfbf750457?t=true" /> <a href="https://blogs.apache.org/OOo/mediaresource/d91b4603-388f-46e3-bd59-ddcdc5d55c6d"><img alt="fosdem2014d-1024.jpg" src="https://blogs.apache.org/OOo/mediaresource/d91b4603-388f-46e3-bd59-ddcdc5d55c6d?t=true" /></a><br /></a></p> 
+<p> 
+
+<a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014a-1024.jpeg" >
+  <img src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014a-1024.jpeg" alt="fosdem2014a-1024.jpg"/>
+</a> 
+<a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014b-1024.jpeg">
+  <img src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014b-1024.jpeg" alt="fosdem2014b-1024.jpg" />
+</a>
+<a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg">
+   <img alt="fosdem2014c-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg" /> 
+</a>
+ <a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg">
+   <img alt="fosdem2014d-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg" />
+</a>
+<br />
+</p> 
   <p>Presentations and videos from the Open Document Editors Devroom at FOSDEM 2014 are now available.</p> 
   <p>The OpenOffice presence at the event was strong and well-received, with a number of interesting talks and many visits at the booth. And the devroom was a nice way to get together with other projects focused on the ODF format.<br /></p> 
   <p>Make sure you don't miss the following talks about improvements that are coming (or already came!) to OpenOffice:</p> 

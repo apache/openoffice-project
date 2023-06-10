@@ -1,4 +1,3 @@
-layout: post
 title: The Apache OpenOffice project announce the release of Apache OpenOffice 4.1
 layout: post
 date: '2014-04-29T11:23:18+00:00'

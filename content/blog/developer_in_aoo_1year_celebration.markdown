@@ -1,4 +1,3 @@
-layout: post
 title: Developer in AOO, 1year celebration
 layout: post
 date: '2013-07-31T15:18:20+00:00'
@@ -8,7 +7,8 @@ permalink: developer_in_aoo_1year_celebration
   <table width="100%" cellspacing="1" cellpadding="1" border="0"> 
     <tbody> 
       <tr> 
-        <td><img width="340" height="512" src="https://blogs.apache.org/OOo/mediaresource/175cda86-0aa9-481c-b98a-6004041541ce" alt="jan1.jpg" /></td> 
+        <td>
+        <img width="340" height="512" src="../images/blog/Jan.jpeg" alt="jan1.jpg" /></td> 
         <td> <br /></td> 
         <td> 
           <p>Many of the big open source software packages are to a high degree 

@@ -1,4 +1,3 @@
-layout: post
 title: Porting Apache OpenOffice (incubating) to FreeBSD -- Ready to test!
 layout: post
 date: '2012-02-29T14:52:05+00:00'
@@ -20,4 +19,4 @@ same as those needed for FreeBSD's port.<br /></p>
   <p>Finally, please remember that porting to FreeBSD also is a benefit for all OpenOffice users, since it increases the overall portability of the code and provides another valuable testing environment.</p> 
   <p>Thanks, </p> 
   <p>Nakata Maho </p> 
-  <p> <img src="https://blogs.apache.org/OOo/mediaresource/bc1d3f35-8a7a-47c6-8b90-3788b71a7e5d" /></p>
+  <p> <img src="../images/blog/apache_openoffice_has_been_ported_Nakata_Maho.jpeg" /></p>

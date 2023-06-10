@@ -1,4 +1,3 @@
-layout: post
 title: Apache OpenOffice 4.1 to Bring Enhanced Accessibility Support
 layout: post
 date: '2013-11-15T14:06:42+00:00'

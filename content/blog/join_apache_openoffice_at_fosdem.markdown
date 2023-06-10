@@ -1,4 +1,3 @@
-layout: post
 title: Join Apache OpenOffice at FOSDEM 2014 - Submit a talk proposal
 layout: post
 date: '2013-12-18T00:05:15+00:00'

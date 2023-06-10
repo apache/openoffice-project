@@ -1,4 +1,3 @@
-layout: post
 title: Native SVG support for Apache OpenOffice 3.4 (Incubating)
 layout: post
 date: '2012-01-19T11:02:42+00:00'

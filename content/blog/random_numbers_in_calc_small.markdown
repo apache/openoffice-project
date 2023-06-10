@@ -1,4 +1,3 @@
-layout: post
 title: 'Random Numbers in Calc: Small Enhancements That Can Make a Difference'
 layout: post
 date: '2012-12-20T18:06:52+00:00'

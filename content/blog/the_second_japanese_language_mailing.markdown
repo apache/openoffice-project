@@ -1,4 +1,3 @@
-layout: post
 title: The second Japanese language mailing list on Apache
 layout: post
 date: '2011-10-05T14:30:56+00:00'

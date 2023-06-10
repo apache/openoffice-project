@@ -1,4 +1,3 @@
-layout: post
 title: 'The Community Forum: New Year Status'
 layout: post
 date: '2012-01-12T00:00:00+00:00'
@@ -23,7 +22,7 @@ there are less than 550 topics there (in more than a 40,000 grand total,
     </ul> 
     <p> <br />
 Here it is (since the solved topics is a new metric, there is only one point for the moment).</p> 
-    <p><img src="https://blogs.apache.org/OOo/mediaresource/1e1892cd-d3c5-49ca-a520-f0f0c1630bbb" /> </p> 
+    <p><img src="../images/blog/the_community_forum_new_year_metric.png" /> </p> 
     <p><br /><br />
 The blue line (number of posts) is not that important, it just shows that the trend is consistent with the other metrics.&nbsp; The most interesting statistics are the red lines for the members and 
 the topics (with triangles, giving the time when the figures have been 

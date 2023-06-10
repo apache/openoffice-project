@@ -1,4 +1,3 @@
-layout: post
 title: Your top questions answered
 layout: post
 date: '2013-01-07T14:57:45+00:00'

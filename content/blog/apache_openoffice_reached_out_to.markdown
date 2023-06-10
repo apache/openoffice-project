@@ -1,4 +1,3 @@
-layout: post
 title: Apache OpenOffice reach out to the world
 layout: post
 date: '2012-11-26T14:56:06+00:00'
@@ -17,7 +16,10 @@ development, local education and administration.</p>
   <h3>How you Can Help <br /></h3> 
   <p> </p> 
   <p>We would like to support as many languages as possible. If we are missing Apache OpenOffice in your native tongue, we need your help to change this. The project is open to support any new language as long as their is an active translation community behind it. OpenOffice is made by volunteers and we need more help in different areas. Localization is one key area here and it requires no programming skills. Everything you need is <em><strong>motivation to help</strong></em> and all other things can be learned from other volunteers who already help with translations.</p> 
-  <p align="center"> <img width="686" height="395" src="https://blogs.apache.org/OOo/mediaresource/fd00db3b-b381-4340-936d-92fcb637cf4c" /><br /></p> 
+  <p align="center">
+   <img width="686" height="395" src="../images/blog/ apache_openoffice_reached_out_to_the_world_wordmesh.png" />
+   </p> 
+   <br />
   <p> We have a solid base for some languages where we already have more than 93% coverage of the translated user interface strings. That means it is not too much work needed to make Apache OpenOffice available in these languages. For some of the languages volunteers have already started or already finished the translation and they will be released soon. It's now up to you to help us to support more languages.</p> 
   <p align="center"><strong><font size="7">WE WANT YOU!</font></strong> <br /></p> 
   <p>If you are interested, don't wait! Simply join our <a href="l10n@openoffice.apache.org">l10n</a> mailing list by subscribing to the list, send us a note and you will get the help needed to get started.&nbsp; More information is also on our <a href="http://openoffice.apache.org/translate.html">How to Help Translate Apache OpenOffice page</a>.&nbsp; Join our community and be part of one of the biggest open source project on the world. You can help actively and you can make the difference! </p> 

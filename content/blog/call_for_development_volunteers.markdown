@@ -1,10 +1,9 @@
-layout: post
 title: Call for Development Volunteers
 layout: post
 date: '2013-02-04T16:47:45+00:00'
 permalink: call_for_development_volunteers
 
-<div align="center"><a title="A carpenter at the TVA's new Douglas dam on the French Broad River, Tenn. This dam will be 161 feet high and 1,682 feet ong, with a 31,600-acre reservoir area extending 43 miles upstream. With a useful storage capacity of approximately 1,330,000 acre-feet by The Library of Congress, on Flickr" href="https://www.flickr.com/photos/library_of_congress/2179849362/"><img width="500" height="404" alt="A carpenter at the TVA's new Douglas dam on the French Broad River, Tenn. This dam will be 161 feet high and 1,682 feet ong, with a 31,600-acre reservoir area extending 43 miles upstream. With a useful storage capacity of approximately 1,330,000 acre-feet" src="http://farm3.staticflickr.com/2177/2179849362_af4b0f1a48.jpg" /></a></div> 
+<div align="center"><a title="A carpenter at the TVA's new Douglas dam on the French Broad River, Tenn. This dam will be 161 feet high and 1,682 feet ong, with a 31,600-acre reservoir area extending 43 miles upstream. With a useful storage capacity of approximately 1,330,000 acre-feet by The Library of Congress, on Flickr" href="http://www.flickr.com/photos/library_of_congress/2179849362/"><img width="500" height="404" alt="A carpenter at the TVA's new Douglas dam on the French Broad River, Tenn. This dam will be 161 feet high and 1,682 feet ong, with a 31,600-acre reservoir area extending 43 miles upstream. With a useful storage capacity of approximately 1,330,000 acre-feet" src="http://farm3.staticflickr.com/2177/2179849362_af4b0f1a48.jpg" /></a></div> 
   <p> </p> 
   <p> </p> 
   <p>We're looking for a few good programmers, C++ hackers who aren't afraid to get their hands dirty.&nbsp; </p> 

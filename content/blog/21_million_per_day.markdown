@@ -1,4 +1,3 @@
-layout: post
 title: "$21 Million per Day"
 layout: post
 date: '2013-02-12T12:59:33+00:00'
@@ -8,7 +7,8 @@ permalink: 21_million_per_day
   <p> </p> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><a href="http://www-958.ibm.com/software/analytics/manyeyes/visualizations/aoo-downloads-download-density"><img src="https://blogs.apache.org/OOo/mediaresource/ba8be92e-4cbd-430c-8e2d-a29188793a26" /></a> </p> 
+  <p align="center"><a href="http://www-958.ibm.com/software/analytics/manyeyes/visualizations/aoo-downloads-download-density">
+  <img src="../images/blog/21_million_per_day_world.jpeg" /></a> </p> 
   <p> </p> 
   <p> </p> 
   <p><a href="http://www.openoffice.org/">Apache OpenOffice</a> is a project within the <a href="https://www.apache.org/foundation/faq.html#what">Apache Software Foundation</a>, a non-profit organization. &nbsp;We don't charge for Apache OpenOffice; we make it available to all for free. &nbsp; We don't pay developers; we rely on <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers">volunteers</a>.&nbsp; <br /> <br />

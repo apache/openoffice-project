@@ -1,4 +1,3 @@
-layout: post
 title: Document Freedom Day
 layout: post
 date: '2013-03-22T17:25:18+00:00'
@@ -6,7 +5,11 @@ permalink: openoffice_and_odf
 
 <p> </p> 
   <p> </p> 
-  <p align="center"><a href="https://blogs.apache.org/OOo/mediaresource/48dcceda-acd3-4f7b-baf3-f94eb7bef82d"><img alt="large_document_freedom_day.jpeg" src="https://blogs.apache.org/OOo/mediaresource/48dcceda-acd3-4f7b-baf3-f94eb7bef82d" /></a> </p> 
+  <p align="center">
+  <a href="../images/blog/openoffice_and_odf_large_document_freedom_day.jpeg">
+  <img alt="large_document_freedom_day.jpeg" src="../images/blog/openoffice_and_odf_large_document_freedom_day.jpeg" />
+  </a> 
+  </p> 
   <h2>What is Document Freedom Day? <br /></h2> 
   <p>Document Freedom Day, the last Wednesday in March, is a global celebration of open standards, especially ones that are used in your documents.&nbsp; At Apache OpenOffice, we're strong supporters of open standards and we're pleased to join in this year's celebration.&nbsp; But we're much more than passive supporters of open standards.&nbsp; We're also active implementers of open standards, and several of our project volunteers serve on standards committees as well. <br /></p> 
   <h2>What is an Open Standard?&nbsp; <br /></h2> 

@@ -1,4 +1,3 @@
-layout: post
 title: Apache OpenOffice Extensions and Templates New Sites
 layout: post
 date: '2016-03-24T17:46:34+00:00'

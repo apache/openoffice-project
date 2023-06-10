@@ -1,11 +1,10 @@
-layout: post
 title: Where did the time go? (A look at the Apache OpenOffice (incubating) timeline)
 layout: post
 date: '2012-03-13T16:20:56+00:00'
 permalink: an_apache_openoffice_timeline
 
 <div align="center"> 
-    <p><img src="https://blogs.apache.org/OOo/mediaresource/45328134-cd06-4a61-9660-d3a4cfbdfa95" /></p> 
+    <p><img src="../images/blog/an_apache_openoffice_timeline_email.png" /></p> 
     <div align="left"> 
       <p>The above timeline shows just some of the accomplishments of the Apache OpenOffice project since we first started <a href="http://incubator.apache.org/">incubation</a> at Apache<a href="http://wiki.apache.org/incubator/OpenOfficeProposal"> last June</a>.&nbsp; I've arbitrarily categorized the items as Infrastructure, Community or Development, knowing full well that any such act of categorization is dubious at best.&nbsp; There is a lot of overlap, and something I put under Infrastructure could arguably also be other categories as well.&nbsp; In the end, it is one project, with many aspects, and the pieces work together.</p> 
       <p>So what does this timeline tell us, other than the obvious fact that we've been busy?<br /></p> 
