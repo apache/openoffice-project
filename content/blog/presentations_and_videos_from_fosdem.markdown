@@ -12,11 +12,11 @@ permalink: presentations_and_videos_from_fosdem
 <a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014b-1024.jpeg">
   <img src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014b-1024.jpeg" alt="fosdem2014b-1024.jpg" />
 </a>
-<a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg">
-   <img alt="fosdem2014c-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg" /> 
+<a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpeg">
+  <img src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpeg" alt="fosdem2014c-1024.jpg" />
 </a>
- <a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpg">
-   <img alt="fosdem2014d-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpg" />
+<a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpeg">
+  <img src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpeg" alt="fosdem2014d-1024.jpg" />
 </a>
 <br />
 </p> 
