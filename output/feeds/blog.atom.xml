@@ -829,6 +829,7 @@ notified by December 28, 2014.
 Project Management Committee
 &lt;/i&gt;&lt;/p&gt;
 </content><category term="blog"></category></entry><entry><title>Presentations and videos from FOSDEM 2014</title><link href="https://openoffice.apache.org/blog/presentations_and_videos_from_fosdem.html" rel="alternate"></link><published>2014-07-05T11:44:30+00:00</published><updated>2014-07-05T11:44:30+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2014-07-05:/blog/presentations_and_videos_from_fosdem.html</id><summary type="html">&lt;p&gt;
+&lt;p&gt;
 &lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014a-1024.jpeg"&gt;
 &lt;img alt="fosdem2014a-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014a-1024.jpeg"/&gt;
 &lt;/a&gt;
@@ -838,13 +839,14 @@ Project Management Committee
 &lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"&gt;
 &lt;img alt="fosdem2014c-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"/&gt;
 &lt;/a&gt;
-&lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"&gt;
-&lt;img alt="fosdem2014d-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"/&gt;
+&lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpg"&gt;
+&lt;img alt="fosdem2014d-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpg"/&gt;
 &lt;/a&gt;
 &lt;br/&gt;
 &lt;/p&gt;
 &lt;p&gt;Presentations and videos from the Open Document Editors Devroom at FOSDEM 2014 are now available.&lt;/p&gt;
-&lt;p&gt;The OpenOffice presence at the event was strong and well-received, with a number of interesting talks and many visits at the booth. And the devroom was a nice way to get together with other projects …&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+&lt;p&gt;The OpenOffice presence at the event was strong and well-received, with a number of interesting talks and many visits at the booth. And the devroom was a nice way to get together with other projects …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+&lt;p&gt;
 &lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014a-1024.jpeg"&gt;
 &lt;img alt="fosdem2014a-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014a-1024.jpeg"/&gt;
 &lt;/a&gt;
@@ -854,8 +856,8 @@ Project Management Committee
 &lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"&gt;
 &lt;img alt="fosdem2014c-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"/&gt;
 &lt;/a&gt;
-&lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"&gt;
-&lt;img alt="fosdem2014d-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014c-1024.jpg"/&gt;
+&lt;a href="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpg"&gt;
+&lt;img alt="fosdem2014d-1024.jpg" src="../images/blog/presentations_and_videos_from_fosdem_fosdem2014d-1024.jpg"/&gt;
 &lt;/a&gt;
 &lt;br/&gt;
 &lt;/p&gt;
@@ -909,7 +911,7 @@ Project Management Committee
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;The&lt;a href="https://archive.fosdem.org/2014/schedule/track/open_document_editors/"&gt; full list of talks&lt;/a&gt; from the Open Document Editors devroom is available as well. Most have a presentation attached.&lt;/p&gt;&lt;br/&gt;
-</content><category term="blog"></category></entry><entry><title>'Apache OpenOffice Weekly News #3'</title><link href="https://openoffice.apache.org/blog/apache_openoffice_weekly_news_3.html" rel="alternate"></link><published>2014-05-05T12:24:54+00:00</published><updated>2014-05-05T12:24:54+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2014-05-05:/blog/apache_openoffice_weekly_news_3.html</id><summary type="html">&lt;p&gt;Translations: (&lt;a href="https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=40509513"&gt;de&lt;/a&gt;) 
+&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>'Apache OpenOffice Weekly News #3'</title><link href="https://openoffice.apache.org/blog/apache_openoffice_weekly_news_3.html" rel="alternate"></link><published>2014-05-05T12:24:54+00:00</published><updated>2014-05-05T12:24:54+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2014-05-05:/blog/apache_openoffice_weekly_news_3.html</id><summary type="html">&lt;p&gt;Translations: (&lt;a href="https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=40509513"&gt;de&lt;/a&gt;) 
 &lt;/p&gt;
 &lt;h2 id="major-discussions"&gt; Major Discussions&lt;a class="headerlink" href="#major-discussions" title="Permalink"&gt;&amp;para;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Juergen, our Release Manager, &lt;a href="http://markmail.org/message/gnxjqtqyxxlzo3he"&gt;announced the release of Apache OpenOffice 4.1&lt;/a&gt;.&lt;/p&gt;
