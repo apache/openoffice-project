@@ -3,30 +3,32 @@
 <div>
     <title>Blog</title>
     <div>
-            {% for article in articles %}
-            <!-- Post -->
-            <div class="row">
-                <div class="callout">
-                    <article class="post">
-                        <header>
-                            <div class="title">
-                                <h2><a href="/blog/{{ article.slug }}.html">{{ article.title }}</a></h2>
-                                <p>Posted on: {{ article.date }}</p>
-                                <p>{{ article.summary }}</p>
-                                <footer>
-                                    <ul class="actions">
-                                        <div style="text-align: right"><a href="/blog/{{ article.slug }}.html" class="button medium">Continue Reading</a></div>
-                                    </ul>
-                                    <ul class="stats">
-                                        {% for tag in article.tags %}
-                                            <li><a href="#">{{ tag.name }}</a></li>
-                                        {% endfor %}
-                                    </ul>
-                                </footer>
-                    </article>
-                </div>
+        {% for article in articles %}
+        <!-- Post -->
+        <div class="row">
+            <div class="callout">
+                <article class="post">
+                    <header>
+                        <div class="title">
+                            <h2><a href="/blog/{{ article.slug }}.html">{{ article.title }}</a></h2>
+                            <p>Posted on: {{ article.date }}</p>
+                            <p>{{ article.summary }}</p>
+                            <footer>
+                                <ul class="actions">
+                                    <div style="text-align: right"><a href="/blog/{{ article.slug }}.html" class="button medium">Continue Reading</a></div>
+                                </ul>
+                                <ul class="stats">
+                                    {% for tag in article.tags %}
+                                    <li><a href="#">{{ tag.name }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </footer>
+                        </div>
+                    </header>
+                </article>
             </div>
+        </div>
         {% endfor %}
     </div>
-    </div>
+</div>
 {% endblock %}
