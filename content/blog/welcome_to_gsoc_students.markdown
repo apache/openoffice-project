@@ -4,7 +4,7 @@ date: '2013-04-10T12:19:55+00:00'
 permalink: welcome_to_gsoc_students
 
 <div align="center"> 
-    <p><a href="http://www.flickr.com/photos/osucommons/3332955265/" title="Coeds with Hoes by OSU Special Collections &amp; Archives : Commons, on Flickr"><img width="500" height="408" src="http://farm4.staticflickr.com/3575/3332955265_b9c81cfd81.jpg" alt="Coeds with Hoes" /></a></p><a href="http://www.flickr.com/photos/osucommons/3332955265/" title="Coeds with Hoes by OSU Special Collections &amp; Archives : Commons, on Flickr"> 
+    <p><a href="https://www.flickr.com/photos/osucommons/3332955265/" title="Coeds with Hoes by OSU Special Collections &amp; Archives : Commons, on Flickr"><img width="500" height="408" src="https://farm4.staticflickr.com/3575/3332955265_b9c81cfd81.jpg" alt="Coeds with Hoes" /></a></p><a href="https://www.flickr.com/photos/osucommons/3332955265/" title="Coeds with Hoes by OSU Special Collections &amp; Archives : Commons, on Flickr"> 
       <p> </p></a> 
     <p align="left">Once again the Apache Software Foundation is a &quot;<a href="http://community.apache.org/gsoc.html">mentoring organization</a>&quot; in Google Summer of Code, and the Apache OpenOffice project looks forward to this year's program.&nbsp; </p> 
     <p align="left">We invite students looking to get their hands dirty with real-world code to consider submitting an GSoC application related to OpenOffice.&nbsp;</p> 
