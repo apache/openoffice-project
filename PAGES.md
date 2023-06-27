@@ -90,5 +90,4 @@ May need to rewrite descriptions of ICLAs and SGAs better. Also, need to discuss
 ## Mission
 
 Finish the project mission statement.
-- mission.md - put into the General menu
 - list-conduct.md
