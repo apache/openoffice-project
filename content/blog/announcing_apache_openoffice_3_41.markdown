@@ -3,7 +3,7 @@ layout: post
 date: '2012-08-23T13:58:17+00:00'
 permalink: announcing_apache_openoffice_3_41
 
-<div align="center"><a title="Launch of Friendship 7 by NASA on The Commons, on Flickr" href="http://www.flickr.com/photos/nasacommons/4858565516/"><img width="400" height="500" alt="Launch of Friendship 7" src="http://farm5.staticflickr.com/4143/4858565516_182aeffec3.jpg" /></a></div> 
+<div align="center"><a title="Launch of Friendship 7 by NASA on The Commons, on Flickr" href="https://www.flickr.com/photos/nasacommons/4858565516/"><img width="400" height="500" alt="Launch of Friendship 7" src="https://farm5.staticflickr.com/4143/4858565516_182aeffec3.jpg" /></a></div> 
   <p> </p> 
   <h2>Apache OpenOffice™ 3.4.1 launches, with more languages, improved performance and stability. <br /></h2> 
   <p>(This announcement is also available in <a href="http://www.openoffice.org/it/stampa/comunicati/aoo341.html">Italian</a>, <a href="http://www.openoffice.org/fr/AOO_annonce_3_4_1.html">French</a>, <a href="http://www.openoffice.org/zh-cn/news/aoo341.html">Simplified</a> and <a href="http://www.openoffice.org/zh-tw/news/aoo341.html">Traditional Chinese</a>.)<br /></p> 

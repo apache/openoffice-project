@@ -3,9 +3,9 @@ layout: post
 date: '2012-06-18T01:24:10+00:00'
 permalink: porting_apache_openoffice_to_solaris
 
-<div align="center"> 
-    <p><img src="http://www.robweir.com/solaris.jpg" /></p> 
-  </div> 
+<!-- <div align="center"> 
+    <p><img src="https://www.robweir.com/solaris.jpg" /></p>
+  </div>  -->
   <p> </p> 
   <p>The Swiss company Adfinis SyGroup is active in the <a href="http://incubator.apache.org/openofficeorg/">Apache OpenOffice project</a>, contributing the Solaris build, as well hosting an <a href="http://opengrok.adfinis-sygroup.org/source/">OpenGrok index</a> of the OpenOffice source code.&nbsp;&nbsp; The following interview was conducted via email between PMC member Rob Weir (R) and Nicolas Christener of Adfinis SyGroup (N).</p> 
   <p>(Apache OpenOffice is currently undergoing
