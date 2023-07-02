@@ -3,7 +3,7 @@ layout: post
 date: '2013-07-23T09:23:23+00:00'
 permalink: a_short_celebration_and_then
 
-<div align="center"><a href="http://www.flickr.com/photos/statelibraryofnsw/5055825859/" title="Society of Artists' Selection Committee, Sydney, 1907 / photographer Henry King by State Library of New South Wales collection, on Flickr"><img width="640" height="443" src="http://farm5.staticflickr.com/4084/5055825859_fda49decd1_z.jpg" alt="Society of Artists' Selection Committee, Sydney, 1907 / photographer Henry King" /></a></div> 
+<div align="center"><a href="https://live.staticflickr.com/4084/5055825859_190cd00ea7_z.jpg" title="Society of Artists' Selection Committee, Sydney, 1907 / photographer Henry King by State Library of New South Wales collection, on Flickr"><img width="640" height="441" src="https://live.staticflickr.com/4084/5055825859_190cd00ea7_z.jpg" alt="Society of Artists' Selection Committee, Sydney, 1907 / photographer Henry King" /></a></div> 
   <p> </p> 
   <p>
 
