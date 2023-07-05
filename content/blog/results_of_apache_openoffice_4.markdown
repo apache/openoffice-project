@@ -7,7 +7,7 @@ permalink: results_of_apache_openoffice_4
   <p> </p><hr /> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-36.png" /> <img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-5.png" /><br /></p> 
+  <p align="center"><img src="../images/blog/logo-36.png" /> <img src="../images/blog/logo-5.png" /><br /></p> 
   <p>Samer Mansour, a software developer and an engaged citizen in his 
 community in Toronto, aimed for &quot;simple and flat&quot; with his designs, &quot;I had 
 an a-ha moment when I
@@ -17,7 +17,7 @@ narrowed it down to put together a wordmark from an Apache licensed font
 that fit the bill.&quot; </p><hr /> 
   <p> </p> 
   <p> </p> 
-  <div align="center"><img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-28.png" /><img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-31.png" /></div> 
+  <div align="center"><img src="../images/blog/logo-28.png" /><img src="../images/blog/logo-31.png" /></div> 
   <p>Two of the top-scoring logo proposals came from Kevin Grignon, an OpenOffice contributor and a user 
 experience designer with over&nbsp;15 years experience&nbsp;designing user 
 interfaces and application graphics.&nbsp; In his submissions, 
@@ -34,7 +34,7 @@ colouring which emphasizes the word &quot;open&quot; -&nbsp;which is our
 differentiator.&quot; </p><hr /> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-12.png" /> <img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-13.png" /></p> 
+  <p align="center"><img src="../images/blog/logo-12.png" /> <img src="../images/blog/logo-13.png" /></p> 
   <p>Michael Acevedo is a college student studying Aviation technology in Florida, how humans and 
 technology interact while the aircraft is in operation and finding ways to 
 improve that relationship.&nbsp;&nbsp; He explains his design process as, &quot;I aimed in the&nbsp;design&nbsp;of the new
@@ -48,7 +48,7 @@ that, something refreshing and simple, while at the same time staying
 true to the brand and image that has made OpenOffice their default 
 office suite for the last 13 years or so.&quot;</p> 
   <p> </p><hr /> 
-  <p align="center"> <img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-34.png" /></p> 
+  <p align="center"> <img src="../images/blog/logo-34.png" /></p> 
   <p>You can see the top scoring design above, by Chris Rottensteiner, a webworker and genetic genealogist
               from South Tyrol in the Alps. He supports the free digital
               data flow and open elaboration trough FOSS software. &quot;I'm
@@ -64,7 +64,7 @@ office suite for the last 13 years or so.&quot;</p>
   <p> </p><hr /> 
   <pre><p>&nbsp;</p></pre> 
   <p> </p> 
-  <p align="center"><img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-15.png" /> </p> 
+  <p align="center"><img src="../images/blog/logo-15.png" /> </p> 
   <p>This design, and the next one, although they were not top scorers when measured by average score, were the logos that received the most number of &quot;Strongly Like&quot; selections.&nbsp; So they had more enthusiastic support than the other logos.&nbsp; The above design, from Robin Fowler, takes the traditional gulls element of the OpenOffice.org logo and makes them dynamic, while also suggesting the form of an open book.&nbsp; In Robin's words, &quot;My goal for the logo was to take the traditional elements of the OpenOffice logo and give it more of a connection to the software itself. I 
 kept the sphere similar to the original, adding a border to make it look
  more like an app icon. My initial idea was to take the birds and use 
@@ -73,7 +73,7 @@ them to form a book. The first attempts were fairly crude but I got some
 somewhat. The feather was added to resemble the new 'Apache era' of OpenOffice.&quot;</p><hr /> 
   <p> </p> 
   <p> </p> 
-  <p align="center"><img src="http://survey.openoffice.org/upload/surveys/815178/images/logo-4.png" /><br /></p> 
+  <p align="center"><img src="../images/blog/logo-4.png" /><br /></p> 
   <p>Vasilis Xenofontos, a visionary art
 designer from the small island of Cyprus aimed for a modern and easy
 to remember logo design. &quot;I did this design trying to show that
