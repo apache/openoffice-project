@@ -238,38 +238,6 @@ Use SVN to submit svn "diffs".
 For further information see the [Apache Source Code Repository][7] page.
 
 
-## Google Analytics
-
-We use Google Analytics on key webpages to gather information on website
-usage patterns. This information is then used to help us prioritize what
-areas of the website should get more attention.
-
-To enable a page for Google Analytics you need to added the following block 
-of JavaScript immediately before the closing &lt;/head&gt; in the HTML.
-
-
-    <script type="text/javascript">
-    
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-98607986-1']);
-      _gaq.push(['_setDomainName', 'openoffice.org']);
-      _gaq.push(['_trackPageview']);
-    
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    
-    </script>
-
-
-Note: This is not needed for the project website, only for the openoffice.org pages.
-        
-It is not necessary to add this to every single web page. The greatest benefit for
-the effort comes from adding it to the key destination pages.
-
-
 [1]: https://subversion.apache.org
 [2]: https://svn.apache.org/repos/asf/openoffice/site/trunk/
 [3]: https://www.apache.org/dev/cmsref.html#local-build
