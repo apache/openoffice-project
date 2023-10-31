@@ -40,18 +40,17 @@ Suppose your target language is Italian (it). You will want to do
 the following. If you are not a committer and are not familiar with Subversion then you
 will want to get help with these steps by asking on the mailing list.
 
-1. Make a copy (svn copy) of the
-   [ooo-site/trunk/content/xx directory](https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/content/xx/)
-   as ooo-site/trunk/content/test-it. In the copy replace all instances of "/xx" in paths,
-   files and also within files with "/test-it". Then replace occurrences of "xx" with "it" (not "test-it")
-   and rename the "msg_prop_l10n_xx.js" file to "msg_prop_l10n_it.js"
-1. Also make a copy of
-   [ooo-site/trunk/templates/xx](https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/templates/xx/)
-   and call the copy ooo-site/trunk/templates/test-it.
-1. Commit these changes and publish via the CMS
-1. If you are a committer then you can translate the contents of the files in /test-it
-   locally or via the CMS, whatever you prefer. If you are not a committer then ask someone
-   to do an "svn export" of the new /test-it and send a ZIP file of the contents.
+1. Make a copy (git clone) of the
+   [ooo-site/main/content/xx directory](https://github.com/apache/openoffice-org/tree/main/content/xx/)
+   as ooo-site/main/content/my_test. In the copy replace all instances of "/xx" in paths,
+   files and also within files with "/my_test". Then replace occurrences of "xx" with your language code (not "my_test")
+   and rename the "msg_prop_l10n_xx.js" file to "msg_prop_l10n_<lang_code>.js"
+1. Also make a clone of the
+   [ooo-site/main/assets/xx directory](https://github.com/apache/openoffice-org/tree/main/assets/xx/)
+   and call the copy ooo-site/main/assets/my_test.
+1. Commit these changes and publish via [Jenkins](https://ci-builds.apache.org/job/OpenOffice/job/OpenOffice-org-Publish-Site/)
+1. If you are a committer then you can translate the contents of the files in /my_test
+   locally. If you are not a committer then ask someone to send a ZIP file of the contents.
 
 **Important:**
 <br />
