@@ -172,18 +172,17 @@ Suppose your target language is Italian (it). You will want to do
 the following. If you are not a committer and are not familiar with Subversion then you
 will want to get help with these steps by asking on the mailing list.</p>
 <ol>
-<li>Make a copy (svn copy) of the
-<a href="https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/content/xx/">ooo-site/trunk/content/xx directory</a>
-as ooo-site/trunk/content/test-it. In the copy replace all instances of "/xx" in paths,
-files and also within files with "/test-it". Then replace occurrences of "xx" with "it" (not "test-it")
-and rename the "msg_prop_l10n_xx.js" file to "msg_prop_l10n_it.js"</li>
-<li>Also make a copy of
-<a href="https://svn.apache.org/repos/asf/openoffice/ooo-site/trunk/templates/xx/">ooo-site/trunk/templates/xx</a>
-and call the copy ooo-site/trunk/templates/test-it.</li>
-<li>Commit these changes and publish via the CMS</li>
-<li>If you are a committer then you can translate the contents of the files in /test-it
-locally or via the CMS, whatever you prefer. If you are not a committer then ask someone
-to do an "svn export" of the new /test-it and send a ZIP file of the contents.</li>
+<li>Make a copy (git clone) of the
+<a href="https://github.com/apache/openoffice-org/tree/main/content/xx/">ooo-site/main/content/xx directory</a>
+as ooo-site/main/content/my_test. In the copy replace all instances of "/xx" in paths,
+files and also within files with "/my_test". Then replace occurrences of "xx" with your language code (not "my_test")
+and rename the "msg_prop_l10n_xx.js" file to "msg_prop_l10n_&lt;lang_code&gt;.js"</li>
+<li>Also make a clone of the
+<a href="https://github.com/apache/openoffice-org/tree/main/assets/xx/">ooo-site/main/assets/xx directory</a>
+and call the copy ooo-site/main/assets/my_test.</li>
+<li>Commit these changes and publish via <a href="https://ci-builds.apache.org/job/OpenOffice/job/OpenOffice-org-Publish-Site/">Jenkins</a></li>
+<li>If you are a committer then you can translate the contents of the files in /my_test
+locally. If you are not a committer then ask someone to send a ZIP file of the contents.</li>
 </ol>
 <p><strong>Important:</strong>
 <br/>
