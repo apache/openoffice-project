@@ -17,10 +17,10 @@ permalink: announcing-apache-openoffice-4-1-15
   If you are upgrading from an earlier release you can verify that the release upgrade worked by opening the About box (menu "Help - About OpenOffice") for the version number.
 </p>
 <p>
-  Please review the <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.14+Release+Notes" rel="nofollow" target="_blank">Release Notes</a> to learn what is new in this version as well as important remarks concerning known issues and their workarounds.
+  Please review the <a href="https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.15+Release+Notes" rel="nofollow" target="_blank">Release Notes</a> to learn what is new in this version as well as important remarks concerning known issues and their workarounds.
 </p>
 <p>
-  For a complete overview of all resolved issues please see the list in <a href="https://bz.apache.org/ooo/buglist.cgi?list_id=250920&amp;query_format=advanced&amp;resolution=FIXED&amp;resolution=FIXED_WITHOUT_CODE&amp;target_milestone=4.1.14" class="external-link" rel="nofollow" target="_blank">Bugzilla</a>.
+  For a complete overview of all resolved issues please see the list in <a href="https://bz.apache.org/ooo/buglist.cgi?list_id=250920&amp;query_format=advanced&amp;resolution=FIXED&amp;resolution=FIXED_WITHOUT_CODE&amp;target_milestone=4.1.15" class="external-link" rel="nofollow" target="_blank">Bugzilla</a>.
 </p>
 <p>
   To get a copy of the source code see our <a href="https://openoffice.apache.org/source.html" class="external-link" rel="nofollow">source page</a> for our Git repository or download prepared source tarballs from our <a href="https://openoffice.apache.org/downloads.html" class="external-link" rel="nofollow" target="_blank">project download page</a>.
