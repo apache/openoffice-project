@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice - blog</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/blog.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2023-12-22T16:00:00+00:00</updated><subtitle></subtitle><entry><title>Announcing Apache OpenOffice 4.1.15</title><link href="https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-15.html" rel="alternate"></link><published>2023-12-22T16:00:00+00:00</published><updated>2023-12-22T16:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2023-12-22:/blog/announcing-apache-openoffice-4-1-15.html</id><summary type="html">&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice - blog</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/blog.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2024-04-01T00:00:00+00:00</updated><subtitle></subtitle><entry><title>Back to the Future Initiative</title><link href="https://openoffice.apache.org/blog/back-to-the-future-initiative.html" rel="alternate"></link><published>2024-04-01T00:00:00+00:00</published><updated>2024-04-01T00:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2024-04-01:/blog/back-to-the-future-initiative.html</id><summary type="html">&lt;p&gt;The Apache OpenOffice Development Team is proud to announce that the
+next releases will introduce an important change: a text-only user
+interface.&lt;/p&gt;
+&lt;p&gt;We all know that today's applications are shifting from local systems
+(desktops, workstations etc.) to the cloud and to browser-centric user
+interfaces. This process does not always increase …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Apache OpenOffice Development Team is proud to announce that the
+next releases will introduce an important change: a text-only user
+interface.&lt;/p&gt;
+&lt;p&gt;We all know that today's applications are shifting from local systems
+(desktops, workstations etc.) to the cloud and to browser-centric user
+interfaces. This process does not always increase the overall usability:
+web browsers and related technologies (HTML, Javascript, etc.) still cannot
+achieve the performances of stand-alone applications written in C++ or
+Java, and different browsers often introduce quirks and small problems that
+developers are chasing every day.&lt;/p&gt;
+&lt;p&gt;Apache OpenOffice is stepping ahead of this process, offering an user
+interface that is actually simpler, and will surely work smoothly on
+any computer.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/images/back-to-the-future-splash.png" style="width: 30em;"/&gt;&lt;br/&gt;
+The Splash Screen&lt;/p&gt;
+&lt;p&gt;Linux users are already accustomed to terminal emulators, and connections
+to other computers using protocols such as Secure Shell (SSH) or even
+Telnet in the old days.&lt;/p&gt;
+&lt;p&gt;Microsoft Windows user will recognize a somewhat familiar look of the new
+interface, that will resemble legacy DOS programs such as WordStar.&lt;/p&gt;
+&lt;p&gt;The new user interface will be unable to represent bigger and smaller
+fonts, images, and will have a very limited support of colors (currently
+16). It will abandon the outdated WYSIWYG paradigm (What You See Is What
+You Get) and will introduce the new WYSIWYG-WABIT (What You See Is What You
+Get -- With A BIT of imagination).&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/images/back-to-the-future-writer.png" style="width: 50em;"/&gt;&lt;br/&gt;
+The Writer Interface&lt;/p&gt;
+&lt;p&gt;As this interface will be based on the latest versions of the available
+software libraries, the next releases of Apache OpenOffice will
+unfortunately not support the following architectures:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux x86,&lt;/li&gt;
+&lt;li&gt;Windows 32-bit,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;but the following architectures will be supported instead:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MS-DOS 6.22 on dual-core ARM CPU's,&lt;/li&gt;
+&lt;li&gt;Windows 3.11 (only on 64-bit systems),&lt;/li&gt;
+&lt;li&gt;OS/2 on PowerPC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The proposed release date is April 31st, 2024&lt;sup&gt;&lt;a href="#note1"&gt;[1]&lt;/a&gt;&lt;/sup&gt;. More screenshots will be
+available soon.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;a name="note1"&gt;1&lt;/a&gt;: Please note that the US, European Union and many other countries have
+agreed to set a one-time leap day. This is to compensate a glitch in the
+timing that has been evolved over the past years.&lt;/p&gt;
+</content><category term="blog"></category></entry><entry><title>Announcing Apache OpenOffice 4.1.15</title><link href="https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-15.html" rel="alternate"></link><published>2023-12-22T16:00:00+00:00</published><updated>2023-12-22T16:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2023-12-22:/blog/announcing-apache-openoffice-4-1-15.html</id><summary type="html">&lt;p&gt;
 &lt;b&gt;Wakefield, DE&lt;/b&gt; - &lt;strong&gt;22&lt;/strong&gt;&lt;strong&gt; December 2023 &lt;/strong&gt;- Apache OpenOffice, a leading Open Source office document productivity suite, announced today Apache OpenOffice 4.1.15, as usual available in 41 languages for Windows, macOS and Linux.
 &lt;/p&gt;
 &lt;p&gt;
