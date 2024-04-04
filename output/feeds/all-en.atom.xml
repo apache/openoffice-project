@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/all-en.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2024-04-01T00:00:00+00:00</updated><subtitle></subtitle><entry><title>Back to the Future Initiative</title><link href="https://openoffice.apache.org/blog/back-to-the-future-initiative.html" rel="alternate"></link><published>2024-04-01T00:00:00+00:00</published><updated>2024-04-01T00:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2024-04-01:/blog/back-to-the-future-initiative.html</id><summary type="html">&lt;p&gt;The Apache OpenOffice Development Team is proud to announce that the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/all-en.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2024-04-03T21:00:00+01:00</updated><subtitle></subtitle><entry><title>Development Update - April 2024</title><link href="https://openoffice.apache.org/blog/development-update-april-2024.html" rel="alternate"></link><published>2024-04-03T21:00:00+01:00</published><updated>2024-04-03T21:00:00+01:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2024-04-03:/blog/development-update-april-2024.html</id><summary type="html">&lt;p&gt;The Apache OpenOffice development is proceeding at a steady pace.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://github.com/apache/openoffice/tree/trunk"&gt;"trunk" branch&lt;/a&gt; has seen quite some important edits in the last few months. But because not all these changes are considered "mature enough" for the public, we will try to give you an overview in this blog post.&lt;/p&gt;
+&lt;p&gt;The …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Apache OpenOffice development is proceeding at a steady pace.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://github.com/apache/openoffice/tree/trunk"&gt;"trunk" branch&lt;/a&gt; has seen quite some important edits in the last few months. But because not all these changes are considered "mature enough" for the public, we will try to give you an overview in this blog post.&lt;/p&gt;
+&lt;p&gt;The most visible changes for users are the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enhanced compatibility with OOXML encryption, allowing to read encrypted files prepared with other Office Suites.&lt;/li&gt;
+&lt;li&gt;Vector graphics can now be copied and pasted between OpenOffice and other applications in the &lt;a href="https://en.wikipedia.org/wiki/SVG"&gt;SVG format&lt;/a&gt;, that will help make prettier documents and increase interoperability between applications.&lt;/li&gt;
+&lt;li&gt;various fixes in documentation, help files and interface, making the overall interface smoother and more pleasant to use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But developers also work on what is "under the hood". The trunk branch has seen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenSSL upgrade: this will improve security, encryption and digital signatures;&lt;/li&gt;
+&lt;li&gt;fix of compilation errors under the latest Linux distributions, helping contributors build and test OpenOffice on their systems;&lt;/li&gt;
+&lt;li&gt;various spelling fixes in the source code and documentation (because developers must understand what they are reading!);&lt;/li&gt;
+&lt;li&gt;other sparse code fixes and cleanups, allowing developers to focus on more interesting things.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anyone can contribute to Apache OpenOffice! Start &lt;a href="https://openoffice.apache.org/get-involved.html"&gt;reading here&lt;/a&gt; if you are interested to help the project.&lt;/p&gt;
+</content><category term="blog"></category></entry><entry><title>Back to the Future Initiative</title><link href="https://openoffice.apache.org/blog/back-to-the-future-initiative.html" rel="alternate"></link><published>2024-04-01T00:00:00+00:00</published><updated>2024-04-01T00:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2024-04-01:/blog/back-to-the-future-initiative.html</id><summary type="html">&lt;p&gt;The Apache OpenOffice Development Team is proud to announce that the
 next releases will introduce an important change: a text-only user
 interface.&lt;/p&gt;
 &lt;p&gt;We all know that today's applications are shifting from local systems
