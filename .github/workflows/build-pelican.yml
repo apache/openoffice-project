@@ -1,7 +1,7 @@
 name: Build a Pelican Website
 on:
   push:
-    branches: [ 'main' ]
+    branches: [ 'sebb-gha' ]
   workflow_dispatch:
 jobs:
   build-pelican:
@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: 'main'
+          ref: 'sebb-gha'
       - uses: apache/infrastructure-actions/pelican@main
         with:
           destination: 'sebb-gha-site'
