@@ -1,16 +1,16 @@
 name: Build a Pelican Website
 on:
- push:
- branches: [ 'main' ]
- workflow_dispatch:
+  push:
+    branches: [ 'main' ]
+  workflow_dispatch:
 jobs:
- build-pelican:
- runs-on: ubuntu-latest
- steps:
- - uses: actions/checkout@v4
- with:
- ref: 'main'
- - uses: apache/infrastructure-actions/pelican@main
- with:
- destination: 'sebb-gha-site'
- gfm: 'true'
+  build-pelican:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 'main'
+      - uses: apache/infrastructure-actions/pelican@main
+        with:
+          destination: 'sebb-gha-site'
+          gfm: 'true'
