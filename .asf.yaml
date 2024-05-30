@@ -14,7 +14,7 @@ notifications:
 pelican:
   notify:       commits@openoffice.apache.org
   autobuild:    preview/*
-  target:       asf-site
+  target:       sebb-gha-site
   theme:        theme/openoffice
   minimum_page_count: 10
   whoami:       main
