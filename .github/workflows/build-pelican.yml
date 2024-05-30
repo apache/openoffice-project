@@ -3,6 +3,7 @@ on:
   push:
     branches: [ 'sebb-gha' ]
   workflow_dispatch:
+
 jobs:
   build-pelican:
     runs-on: ubuntu-latest
