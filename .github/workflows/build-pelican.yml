@@ -14,11 +14,15 @@ jobs:
         with:
           destination: 'sebb-gha-site'
           gfm: 'true'
+      - name: Reset
+        run: git checkout sebb-gha
       - uses: apache/infrastructure-actions/pelican@issue14
         with:
           destination: 'sebb-gha-site'
           gfm: 'true'
           debug: 'true'
+      - name: Reset
+        run: git checkout sebb-gha
       - uses: apache/infrastructure-actions/pelican@issue14
         with:
           destination: 'sebb-gha-site'
