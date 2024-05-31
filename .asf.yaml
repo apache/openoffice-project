@@ -11,13 +11,13 @@ notifications:
   issues:       dev@openoffice.apache.org
   pullrequests: dev@openoffice.apache.org
 
-pelican:
-  notify:       commits@openoffice.apache.org
-  autobuild:    preview/*
-  target:       sebb-gha-site
-  theme:        theme/openoffice
-  minimum_page_count: 10
-  whoami:       main
+# pelican:
+#   notify:       commits@openoffice.apache.org
+#   autobuild:    preview/*
+#   target:       sebb-gha-site
+#   theme:        theme/openoffice
+#   minimum_page_count: 10
+#   whoami:       main
 
 staging:
   profile: ~
