@@ -115,7 +115,7 @@ Bugzilla related documents:
 
 Bugzilla related mailing list:
 
- * [issues@openoffice.apache.org](http://markmail.org/search/+list:org.apache.incubator.ooo-issues). Actvity on issues goes to this mailing list.
+ * [issues@openoffice.apache.org](http://markmail.org/search/+list:org.apache.incubator.ooo-issues). Activity on issues goes to this mailing list.
 
 Everyone in QA needs a Bugzilla account, which you can get [here](https://bz.apache.org/ooo/createaccount.cgi). Once you have a Bugzilla account, you should send a note to the QA list asking to be added to the "qa-team" group in Bugzilla. This will give you some additional permissions in Bugzilla. Include your Bugzilla login ID in your request.
 
@@ -185,4 +185,4 @@ Useful guide for writing manual test cases:
 
 ## Module Completion
 
-Once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Also, add an entry for yourself to the [QA Testing Preferences](https://cwiki.apache.org/confluence/display/OOOUSERS/QA+Testing+Preferences) page. Congratulations! Please send a note to [qa@openoffice.apache.org](mailto:qa@openoffice.apache.org?subject=Completed%20Introduction%20to%20QA) so we know.
+Once you have done the above, go to our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Also, add an entry for yourself to the [QA Testing Preferences](https://cwiki.apache.org/confluence/display/OOOUSERS/QA+Testing+Preferences) page. Congratulations! Please send a note to [qa@openoffice.apache.org](mailto:qa@openoffice.apache.org?subject=Completed%20Introduction%20to%20QA) so we know.

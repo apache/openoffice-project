@@ -71,14 +71,14 @@ We ask all mailing list participants to observe [these conduct guidelines][1].
 Specifically note the request "Use sensible and concise e-mail subject headings". On our
 high-traffic lists, especially dev, we encourage the use of e-mail subject tags that
 indicate the topic of your post. Consistent use of such tags makes it more likely that
-your post will be read by subscribers most interested in that topic. It also faciliates
+your post will be read by subscribers most interested in that topic. It also facilitates
 sorting and filtering by e-mail inbox rules.
 
 Some subject tags often seen on dev include:
 
 - [www] for posts related to the website
 - [Repo] for posts related to the source code repository
-- [download] for posts related to the release download and mirroring infrastruture
+- [download] for posts related to the release download and mirroring infrastructure
 - [API] for posts related to API specific topics
 - [EXT] for posts related to Extension specific topics
 

@@ -8,7 +8,7 @@ language mailing lists for the project are made after discussion and consensus o
 dev mailing list.  Additionally new mailing lists typically require at least two 
 moderators to be established. Initiate setup requests through: [dev@openoffice.apache.org](mailto:dev@openoffice.apache.org)
 
-Native language mailing lists (This list is manually maintained and may not be up to date):
+Native language mailing lists (This list is manually maintained and may not be up-to-date):
 
 * users-de@openoffice.apache.org (German users mailing list)
 * dev-de@openoffice.apache.org (German mailing list for community planning)
@@ -24,7 +24,7 @@ Subscribe to any of these lists by using the following format for the e-mail rec
 
     "list name"-subscribe@openoffice.apache.org
 
-For example, to subscibe to the "users-de" list: 
+For example, to subscribe to the "users-de" list: 
 
     users-de-subscribe@openoffice.apache.org
 
