@@ -38,14 +38,14 @@ See [ASF Pelican documentation](https://infra.apache.org/asf-pelican.html)
 
 ## Markdown
 
-All of the pages in the site are in Github Flavored Markdown in `md` files. See [GFM](https://infra.apache.org/gfm.html).
+All the pages in the site are in GitHub Flavored Markdown in `md` files. See [GFM](https://infra.apache.org/gfm.html).
 
 ## OpenOffice Theme
 
 Pelican templates are included in the `theme/openoffice/templates` directory. The site templates are written in `html`.
 
 - `base.html` is the main page template.
-- `page.html` extands the base template for the pages.
+- `page.html` extends the base template for the pages.
 - `topnav.html` is the navigation menu and is included.
 
 The CSS stylesheet is in `theme/openoffice/static/css/openoffice.css`.
