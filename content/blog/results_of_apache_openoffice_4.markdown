@@ -27,7 +27,7 @@ graphic assets that would require updating in a refresh, my
 submissions retain familiar and recognizable&nbsp;elements including the&nbsp;orb 
 element and logo type layout, which would allow a scaled rollout of the 
 new logo. Other elements of the logo submissions were enhanced, 
-including the curvature of the&nbsp;document/gulls or&nbsp;the use of a a stylized
+including the curvature of the&nbsp;document/gulls or&nbsp;the use of a stylized
  feather, a colour palette which harmonizes well with proposed 
 individual product icons, the use of a globe element, and logo type 
 colouring which emphasizes the word &quot;open&quot; -&nbsp;which is our 
@@ -51,7 +51,7 @@ office suite for the last 13 years or so.&quot;</p>
   <p align="center"> <img src="../images/blog/logo-34.png" /></p> 
   <p>You can see the top scoring design above, by Chris Rottensteiner, a webworker and genetic genealogist
               from South Tyrol in the Alps. He supports the free digital
-              data flow and open elaboration trough FOSS software. &quot;I'm
+              data flow and open elaboration through FOSS software. &quot;I'm
                 a clean flat style fan and tried to make something
                 without glossy or other &quot;modish&quot; elements: the brand
                 should speak for itself. For this second and much better

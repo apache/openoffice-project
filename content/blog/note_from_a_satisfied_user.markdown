@@ -7,7 +7,7 @@ permalink: note_from_a_satisfied_user
   <p>Quote start<br /></p> 
   <p><i>I was encouraged to leave my aoo forum post directly in the dev mailing 
 list so that you all can read what I wanted to express. I am not a 
-software developper in any sense--only a user.
+software developer in any sense--only a user.
 <br /><br />Dear developers,
 </i> <i><br />there may be little positive feedback for your work, I guess. So I 
 created an account for the forum (and now subscribed temporarily to 
@@ -45,7 +45,7 @@ magazines, brochures etc.
 </i> <i><br /><br />OpenOffice is a great, great software, even if it didn't evolve much
  in the last years! (maybe even: because..)&nbsp;&nbsp; Powerful enough for both 
 private and standard business use.
-</i> <i><br /><br />Keep patience and persistance!
+</i> <i><br /><br />Keep patience and persistence!
 </i> <i><br /><br />A very satisfied and content user </i> </p> 
   <p>Quote end<br /></p> 
   <p>[1] <a href="http://mail-archives.apache.org/mod_mbox/openoffice-dev/201610.mbox/%3C2137ac11e13907261a14ca11752eb75a%40email.freenet.de%3E">Archived message in the developer mailing list</a><a href="http://mail-archives.apache.org/mod_mbox/openoffice-dev/201610.mbox/%3C2137ac11e13907261a14ca11752eb75a%40email.freenet.de%3E"></a></p> 
