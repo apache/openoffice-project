@@ -1,8 +1,6 @@
-type=page
-title=Apache OpenOffice - Privacy
-notice=https://www.apache.org/licenses/LICENSE-2.0
-meta=http-equiv='REFRESH' content='0;URL=https://www.apache.org/licenses/LICENSE-2.0'
-
+Title:     Apache OpenOffice - Privacy
+Notice:    https://www.apache.org/licenses/LICENSE-2.0
+Meta:      http-equiv='REFRESH' content='0;URL=https://www.apache.org/licenses/LICENSE-2.0'
 ~~~~~~
 # Website #
 
