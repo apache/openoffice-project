@@ -1,6 +1,6 @@
 Title:     Apache OpenOffice - Privacy
-Notice:    https://www.apache.org/licenses/LICENSE-2.0
-Meta:      http-equiv='REFRESH' content='0;URL=https://www.apache.org/licenses/LICENSE-2.0'
+Notice:    https://privacy.apache.org/policies/privacy-policy-public.html
+Meta:      http-equiv='REFRESH' content='0;URL=https://privacy.apache.org/policies/privacy-policy-public.html'
 ~~~~~~
 # Website #
 
