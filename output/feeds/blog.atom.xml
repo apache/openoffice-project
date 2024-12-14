@@ -2115,7 +2115,7 @@ program). Due to its nature, the .ini file can be easily edited with any
 the portabilization. The various sections of the X-ProgramName.ini file 
 allow us to define the X-Launcher behavior towards the registry or the 
 user folders or to perform other actions. We can easily copy or move 
-registry keys or files or folders back and forth beween the USB pen drive
+registry keys or files or folders back and forth between the USB pen drive
  and the PC hard drive,&amp;nbsp; leaving the host PC
  in the exactly same state it was before we executed it on our 
 X-Program.&amp;nbsp; So X-Launcher allows us to recreate the environment in which a 
@@ -2763,7 +2763,7 @@ Page number in footer display incorrectly&lt;/li&gt;
 &lt;li&gt;
 Text is overlapped by the drawing object when open the .doc file&lt;/li&gt;
 &lt;li&gt;
-"Fit shape to text" property not work after openning ppt by AOO&lt;/li&gt;
+"Fit shape to text" property not work after opening ppt by AOO&lt;/li&gt;
 &lt;li&gt;
 It costs too much memory to open a large spreadsheet file containing pivot tables&lt;/li&gt;
 &lt;li&gt;
@@ -2850,7 +2850,7 @@ Application crashed if undo add caption to drawing object&lt;/li&gt;
 &lt;li&gt;
 Underline "_" can not work with ";" in format code, the semicolon will always be regarded as separator&lt;/li&gt;
 &lt;li&gt;
-Last agrument of formula should not be removed&lt;/li&gt;
+Last argument of formula should not be removed&lt;/li&gt;
 &lt;li&gt;
 Removing chart in odt file, it causes a crash.&lt;/li&gt;
 &lt;li&gt;
@@ -2880,17 +2880,17 @@ Line transparency value is lost after saving as another ppt by AOO&lt;/li&gt;
 &lt;li&gt;
 Graphic bullet is incorrect in the .ppt doc which saved via AOO&lt;/li&gt;
 &lt;li&gt;
-The bullet in outline area lost after openning by AOO&lt;/li&gt;
+The bullet in outline area lost after opening by AOO&lt;/li&gt;
 &lt;li&gt;
 Some shapes in master page lose after save to another ppt by AOO&lt;/li&gt;
 &lt;li&gt;
-The position of conncector change after save to another ppt by AOO&lt;/li&gt;
+The position of connector change after save to another ppt by AOO&lt;/li&gt;
 &lt;li&gt;
 Froze when saving the doc file to another one.&lt;/li&gt;
 &lt;li&gt;
 TOC jumping function lost if save document by AOO&lt;/li&gt;
 &lt;li&gt;
-star and symbol shape in ppt changed after openning by AOO&lt;/li&gt;
+star and symbol shape in ppt changed after opening by AOO&lt;/li&gt;
 &lt;li&gt;
 Transparency setting of Fill color lost in cell comments.&lt;/li&gt;
 &lt;li&gt;
@@ -2932,7 +2932,7 @@ the .doc page number is incorrect when opened in aoo 3.4&lt;/li&gt;
 &lt;li&gt;
 [BiDi]The order of Hebraic string are changed after save as new .doc&lt;/li&gt;
 &lt;li&gt;
-Alphabetical and roman numberals became ditial numbering&lt;/li&gt;
+Alphabetical and roman numerals became digital numbering&lt;/li&gt;
 &lt;li&gt;
 Text font spacing in comments doesn't expand/condense by the expected value&lt;/li&gt;
 &lt;li&gt;
@@ -2956,7 +2956,7 @@ Vertical letters in "VerticalText" fontwork get horizontal when opening .ppt fil
 &lt;li&gt;
 Table rows get heighter when opening a .docx file with AOO 3.4&lt;/li&gt;
 &lt;li&gt;
-Column header can not be displayed correclty in AOO3.4 after open the xls file.&lt;/li&gt;
+Column header can not be displayed correctly in AOO3.4 after open the xls file.&lt;/li&gt;
 &lt;li&gt;
 font size of Fontwork changes from 96 to 36 after save as new .doc file&lt;/li&gt;
 &lt;li&gt;
