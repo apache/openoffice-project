@@ -61,7 +61,7 @@ Page number in footer display incorrectly</li>
     <li>
 Text is overlapped by the drawing object when open the .doc file</li> 
     <li>
-&quot;Fit shape to text&quot; property not work after openning ppt by AOO</li> 
+&quot;Fit shape to text&quot; property not work after opening ppt by AOO</li> 
     <li>
 It costs too much memory to open a large spreadsheet file containing pivot tables</li> 
     <li>
@@ -148,7 +148,7 @@ Application crashed if undo add caption to drawing object</li>
     <li>
 Underline &quot;_&quot; can not work with &quot;;&quot; in format code, the semicolon will always be regarded as separator</li> 
     <li>
-Last agrument of formula should not be removed</li> 
+Last argument of formula should not be removed</li> 
     <li>
 Removing chart in odt file, it causes a crash.</li> 
     <li>
@@ -178,17 +178,17 @@ Line transparency value is lost after saving as another ppt by AOO</li>
     <li>
 Graphic bullet is incorrect in the .ppt doc which saved via AOO</li> 
     <li>
-The bullet in outline area lost after openning by AOO</li> 
+The bullet in outline area lost after opening by AOO</li> 
     <li>
 Some shapes in master page lose after save to another ppt by AOO</li> 
     <li>
-The position of conncector change after save to another ppt by AOO</li> 
+The position of connector change after save to another ppt by AOO</li> 
     <li>
 Froze when saving the doc file to another one.</li> 
     <li>
 TOC jumping function lost if save document by AOO</li> 
     <li>
-star and symbol shape in ppt changed after openning by AOO</li> 
+star and symbol shape in ppt changed after opening by AOO</li> 
     <li>
 Transparency setting of Fill color lost in cell comments.</li> 
     <li>
@@ -230,7 +230,7 @@ the .doc page number is incorrect when opened in aoo 3.4</li>
     <li>
 [BiDi]The order of Hebraic string are changed after save as new .doc</li> 
     <li>
-Alphabetical and roman numberals became ditial numbering</li> 
+Alphabetical and roman numerals became digital numbering</li> 
     <li>
 Text font spacing in comments doesn't expand/condense by the expected value</li> 
     <li>
@@ -254,7 +254,7 @@ Vertical letters in &quot;VerticalText&quot; fontwork get horizontal when openin
     <li>
 Table rows get heighter when opening a .docx file with AOO 3.4</li> 
     <li>
-Column header can not be displayed correclty in AOO3.4 after open the xls file.</li> 
+Column header can not be displayed correctly in AOO3.4 after open the xls file.</li> 
     <li>
 font size of Fontwork changes from 96 to 36 after save as new .doc file</li> 
     <li>
