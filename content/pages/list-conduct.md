@@ -88,7 +88,7 @@ infrastructure-private.  Anything you read in a private list is confidential and
 list.  
 
 Note:  the other side of respecting the private lists is to use them only when 
-necessary, and for for topics that require confidentiality, such as information 
+necessary, and for topics that require confidentiality, such as information 
 that deals with security vulnerabilities, personnel matters, user private 
 information, etc. 
 

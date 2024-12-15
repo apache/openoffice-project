@@ -77,4 +77,4 @@ Please review these [guidelines for submitting patches](/svn-basics.html#creatin
 
 ## Module Completion
 
-Once you have completed this Module, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Introduction%20to%20Development) so we know.
+Once you have completed this Module, go to our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteers) wiki page and add or update your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Introduction%20to%20Development) so we know.

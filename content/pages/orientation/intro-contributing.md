@@ -41,4 +41,4 @@ Apache, then much of this will already be familiar to you.
    1. Our [Community Forums](https://forum.openoffice.org/) These are available in several languages. This is the primary way in which we engage with the user community.
    1. Join our [Social Networks](/social.html)
 
-1. Finally, once you have done the above, go to our our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteerss) wiki page and add your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Introduction%20to%20Contributing%20to%20Apache%20OpenOffice%20Module) so we know.
+1. Finally, once you have done the above, go to our [Directory of Volunteers](https://cwiki.apache.org/confluence/display/OOOUSERS/Directory+of+Volunteerss) wiki page and add your information. Congratulations! Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Introduction%20to%20Contributing%20to%20Apache%20OpenOffice%20Module) so we know.
