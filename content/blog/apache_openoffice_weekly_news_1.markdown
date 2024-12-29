@@ -38,4 +38,4 @@ reliability and compatibility.&quot;</p>
 there's apparently plenty of room out there for challengers to thrive: 
 On Thursday, the Apache Software Foundation announced that the Apache 
 OpenOffice suite has been downloaded a whopping 100 million times.&quot; </span></p> 
-  <p>Slashdot:&nbsp; <a href="http://apache.slashdot.org/story/14/04/17/144228/apache-openoffice-reaches-100-million-downloads-now-what">Apache OpenOffice Reacher 100 Million Downloads. Now What?</a> <br /></p><br />
+  <p>Slashdot:&nbsp; <a href="http://apache.slashdot.org/story/14/04/17/144228/apache-openoffice-reaches-100-million-downloads-now-what">Apache OpenOffice Reaches 100 Million Downloads. Now What?</a> <br /></p><br />

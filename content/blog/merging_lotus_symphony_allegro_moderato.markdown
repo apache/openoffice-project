@@ -47,7 +47,7 @@ Application crash if insert sample file to section</li>
 Application crashed if undo/redo covert nest table to text</li> 
     <li>
 Undo redo insert file cause application crashed</li> 
-    <li>User-definded format code is lost with a cell which value is TRUE or FALSE when importing xls file</li> 
+    <li>User-defined format code is lost with a cell which value is TRUE or FALSE when importing xls file</li> 
     <li>
 Loading performance for xls file with row banded style is bad</li> 
     <li>
@@ -99,7 +99,7 @@ Page number in footer alignment changed after saved</li>
     <li>
 Shape Gradient MS2003 import/export Enhancement</li> 
     <li>
-Connector line does not shown correctly in grouped object</li> 
+Connector line does not show correctly in grouped object</li> 
     <li>
 characters at the beginning of each lines in shape are lost when loading the sample ppt in AOO</li> 
     <li>
@@ -109,7 +109,7 @@ Cell text direction changed after saved as doc file</li>
     <li>
 Time format is different than MS Office</li> 
     <li>
-the text in textbox display paritially when opening .ppt file</li> 
+the text in textbox display partially when opening .ppt file</li> 
     <li>
 After doc file saved by AOO, one more section is created</li> 
     <li>
@@ -127,7 +127,7 @@ Cannot modify the second document even if close range picker in first document</
     <li>
 Pie chart height becomes greater when open Excel file</li> 
     <li>
-Ellipse shape display too large in MS office after save odp file to ppt format file</li> 
+Ellipse shape display too large in MS Office after save odp file to ppt format file</li> 
     <li>
 Formula GETPIVOTDATA returns #REF! value</li> 
     <li>
@@ -156,7 +156,7 @@ Graphic in header and footer can not be displayed correctly</li>
     <li>
 Crash when redo split the pasted table</li> 
     <li>
-Number formating are changed after save and reopen it again.</li> 
+Number formatting are changed after save and reopen it again.</li> 
     <li>
 Import .pptx file into OO3.4, the vertical text direction of the table will be lost.</li> 
     <li>
@@ -242,7 +242,7 @@ MS's Macro button symbol can't correct display in aoo 3.4</li>
     <li>
 ][BIDI]The position and direction of Right bracket is incorrect in Arabic locale</li> 
     <li>
-Paragraph indent and spacing between bullets and text are inconsistent with MS word</li> 
+Paragraph indent and spacing between bullets and text are inconsistent with MS Word</li> 
     <li>
 the content display mess when open the sample in AOO3.4</li> 
     <li>
@@ -252,7 +252,7 @@ The text box style display incorrectly when open the sample in AOO3.4</li>
     <li>
 Vertical letters in &quot;VerticalText&quot; fontwork get horizontal when opening .ppt file</li> 
     <li>
-Table rows get heighter when opening a .docx file with AOO 3.4</li> 
+Table rows get higher when opening a .docx file with AOO 3.4</li> 
     <li>
 Column header can not be displayed correctly in AOO3.4 after open the xls file.</li> 
     <li>
@@ -268,7 +268,7 @@ Position of drawing obj incorrect when opening .doc in aoo 3.4 if the text direc
     <li>
 paragraph&gt;pagination&gt; <wbr />Window/Orphan control setting lost after save the .doc file by aoo 3.4</li> 
     <li>
-The title text is Align left in sample file, while in MS Office ,it is align right.</li> 
+The title text is Align left in sample file, while in MS Office, it is aligned right.</li> 
     <li>
 he table border got lost when open the .ppt file in AOO</li> 
     <li>
@@ -282,7 +282,7 @@ Failed to open sample file but no any feedback to user</li>
     <li>
 arrow change size and position in MS after save odp to ppt format</li> 
     <li>
-Trendline of two Data Series can't be displayed but after edit it the trendline will be showed correctly</li> 
+Trendline of two Data Series can't be displayed but after edit it the trendline will be shown correctly</li> 
     <li>
 the bullet color display incorrectly in AOO3.4</li> 
     <li>
@@ -359,7 +359,7 @@ Calc crashes when Redo refreshing data</li>
     <li>
 Create summary slide in .odp file which has expanded blank slides in,there is a crash.</li> 
     <li>
-Calc crashed if paste unsupport formula from MS Excel</li> 
+Calc crashed if paste unsupported formula from MS Excel</li> 
     <li>
 Worksheet.Change event works not correctly</li> 
     <li>
