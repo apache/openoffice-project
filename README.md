@@ -55,4 +55,3 @@ The CSS stylesheet is in `theme/openoffice/static/css/openoffice.css`.
 All content - pages and assets are in the content tree.
 
     https://github.com/apache/openoffice-project/tree/main/content
-
