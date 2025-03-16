@@ -5,7 +5,7 @@ Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 Some useful links for conference planning:
 
-- [ASF policy on 3rd party Event Branding](http://www.apache.org/foundation/marks/events.html)
+- [ASF policy on 3rd party Event Branding](https://www.apache.org/foundation/marks/events.html)
 
 ## Future Event Planning
 
@@ -25,7 +25,7 @@ Conference materials :
 - [Slides and audio/video](http://www.apachecon.eu) (when available)
 
 Please note: If the ApacheCon Europe 2012 site is not available, you may find presentations (by day)
-from the [ApacheCon archive site](http://archive.apachecon.com/eu2012/presentations/).
+from the [ApacheCon archive site](https://archive.apachecon.com/eu2012/presentations/).
 
 Blog posts:
 
@@ -39,6 +39,3 @@ Photos:
 - from [Andre](http://www.flickr.com/photos/awf-aoo/sets/)
 - from [Andrew](http://360.io/LWdsMb)
 - from [Andrea]( http://www.flickr.com/photos/89947020@N07/sets/)
-
-
-
