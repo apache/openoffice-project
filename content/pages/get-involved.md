@@ -88,4 +88,3 @@ page of the wiki.
 If you are a student, looking to contribute to the project as part of your school work, 
 please also see our [Advice for Students](/students.html) 
 page.
-
