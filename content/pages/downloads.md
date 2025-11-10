@@ -66,46 +66,46 @@ This [KEYS](https://downloads.apache.org/openoffice/KEYS) file contains the publ
 
  * **Source**:
     * [apache-openoffice-4.1.15-5f13fa0070-src.zip](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.zip.sha512)]
     * [apache-openoffice-4.1.15-5f13fa0070-src.tar.gz](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.gz.sha512)]
     * [apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/source/apache-openoffice-4.1.15-5f13fa0070-src.tar.bz2.sha512)]
 
  * **Binaries**:
     * [Downloads](https://www.openoffice.org/download/index.html)
 
  * **Software Development Kit (SDK)**:
     * [Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz.sha512)]
     * [Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz.sha512)]
     * [Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-deb_en-US.tar.gz.sha512)]
     * [Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Linux_x86_install-rpm_en-US.tar.gz.sha512)]
     * [Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_MacOS_x86-64_install_en-US.dmg.sha512)]
     * [Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe)
-      [[asc](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe.asc)]
-      [[sha256](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe.sha256)]
-      [[sha512](https://downloads.apache.org/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe.sha512)]
+      [[asc](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe.asc)]
+      [[sha256](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe.sha256)]
+      [[sha512](https://archive.apache.org/dist/openoffice/4.1.15/binaries/SDK/Apache_OpenOffice-SDK_4.1.15_Win_x86_install_en-US.exe.sha512)]
 
 
 ***Apache OpenOffice 4.1.14 (released on February 27, 2023)***
