@@ -16,6 +16,12 @@ OpenOffice.org][5].
 
 ## Announcements
 
+*2025-11-10 -- [Apache OpenOffice][1] 4.1.16 is released!*
+
+- [Download Source and SDK](/downloads.html)
+- [Download Binaries](https://www.openoffice.org/download/)
+- [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.16+Release+Notes)
+
 *2023-12-22 -- [Apache OpenOffice][1] 4.1.15 is released!*
 
 - [Download Source and SDK](/downloads.html)
