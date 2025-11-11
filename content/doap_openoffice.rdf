@@ -34,7 +34,7 @@
       productivity suite providing six productivity applications (Writer, Calc,
       Impress, Draw, Math, Base) based around the OpenDocument Format (ODF).
       OpenOffice is released on Windows, macOS (OS X), Linux 32-bit DEB+RPM,
-      Linux 64-bit DEB+RPM and in 41languages.
+      Linux 64-bit DEB+RPM and in 41 languages.
     </description>
     <bug-database rdf:resource="https://bz.apache.org/ooo/" />
     <mailing-list rdf:resource="https://openoffice.apache.org/mailing-lists.html" />
