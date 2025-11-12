@@ -33,4 +33,3 @@ permalink: announcing-apache-openoffice-4-1-16
 <p>
   Twitter&nbsp;&nbsp; <a href="https://twitter.com/apacheoo" title="Apache OpenOffice @Twitter" target="_blank">https://twitter.com/apacheoo</a><br>Facebook&nbsp;&nbsp; <a href="https://www.facebook.com/ApacheOO" title="Apache OpenOffice @ Facebook" target="_blank">https://www.facebook.com/ApacheOO</a><br>YouTube&nbsp;&nbsp; <a href="https://www.youtube.com/openoffice" title="Apache OpenOffice @ YouTube" target="_blank">https://www.youtube.com/openoffice</a><br>Mail&nbsp;&nbsp; <a title="Mail" href="https://openoffice.apache.org/mailing-lists.html" target="_blank">https://openoffice.apache.org/mailing-lists.html</a>
 </p>
-
