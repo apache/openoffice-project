@@ -5,6 +5,8 @@ github:
     - openoffice
     - apache
     - website
+  features:
+    issues: true
 
 notifications:
   commits:      commits@openoffice.apache.org
