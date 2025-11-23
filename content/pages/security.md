@@ -32,6 +32,7 @@ it may take us a little longer to respond to the issue.
   - Carl Marcum 813A C3C2 48B3 F26F B5D1  EB32 F1DA 7E3B 9553 BF9A - [cmarcum][2]
   - Damjan Jovanovic B034 1587 D6D2 E744 B6B8  8259 5C77 E6B1 9D41 C6CA - [damjan][3]
   - Andrea Pescetti 6D09 7A5C A3A8 C1E5 314D  9E67 013D A51F 8F0E 4C63 - [pescetti][4]
+  - Arrigo Marchiori 5931 3453 69D9 7568 EB55  0A26 D5E5 77D3 9823 C409 - [ardovm][5]
 
 Bulletins about vulnerabilities and their mitigations are found at the [Apache OpenOffice Security Bulletins archive][1]. Bulletins for legacy OpenOffice.org releases preceding Apache OpenOffice 3.4.0 are included for historical purposes.
 
@@ -39,4 +40,4 @@ Bulletins about vulnerabilities and their mitigations are found at the [Apache O
 [2]: https://people.apache.org/keys/committer/cmarcum.asc
 [3]: https://people.apache.org/keys/committer/damjan.asc
 [4]: https://people.apache.org/keys/committer/pescetti.asc
-
+[5]: https://people.apache.org/keys/committer/ardovm.asc
