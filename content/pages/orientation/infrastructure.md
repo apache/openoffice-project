@@ -32,7 +32,7 @@ In this Orientation Module you will learn about tools and servers that are part 
 1. What to do if you have a problem:
 
    * Questions on how to use the service: First, look for instructions on the website. If that fails, post a note to the dev mailing list for hints.
-   * Outages: [Current status](https://monitoring.apache.org/status/) is posted. You might also want to subscribe to Infra's [Twitter feed](https://twitter.com/infrabot). If you see an outage not noted there already, you can notify Infra via IRC channel #asfinfra on Freenode.
+   * Outages: [Current status](https://status.apache.org/) is posted. You might also want to subscribe to Infra's [Twitter feed](https://twitter.com/infrabot). If you see an outage not noted there already, you can notify Infra via IRC channel #asfinfra on Freenode.
    * Requests to enhance or modify the service: Propose something on dev. Even though Infra is required to carry out some tasks, you still should get consensus first on the project's mailing list.
 
 1. Congratulations! You have completed this Module. Please send a note to [recruitment@openoffice.apache.org](mailto:recruitment@openoffice.apache.org?subject=Completed%20Infrastructure%20Module) so we all know you have completed this level. This is also a good opportunity to send along any feedback or questions you might have on this Orientation Module.
