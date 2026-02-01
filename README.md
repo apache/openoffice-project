@@ -15,7 +15,7 @@ the OpenOffice PMC which manages this website.
 ## Automated publishing
 
 Commits to the `main` branch are automatically published using Pelican using the instructions in the `.asf.yaml` file.
-Information about `.asf.yaml` is found [here](https://cwiki.apache.org/confluence/display/INFRA/git+-+.asf.yaml+features).
+Information about `.asf.yaml` is found [here](https://github.com/apache/infrastructure-asfyaml/blob/main/README.md).
 
 Any build failures are reported to [commits@openoffice.a.o](https://lists.apache.org/list.html?commits@openoffice.apache.org)
 mailing list.
