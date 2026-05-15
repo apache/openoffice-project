@@ -8,23 +8,36 @@ github:
   features:
     issues: true
 
+  rulesets:
+    - name: "Default Branch Protection"
+      type: branch
+      branches:
+        includes:
+          - "~DEFAULT_BRANCH"
+          - "release/*"
+          - "rel/*"
+        excludes: []
+      bypass_teams:
+        - root
+      restrict_deletion: true
+      restrict_force_push: true
 notifications:
-  commits:      commits@openoffice.apache.org
-  issues:       dev@openoffice.apache.org
+  commits: commits@openoffice.apache.org
+  issues: dev@openoffice.apache.org
   pullrequests: dev@openoffice.apache.org
 
 pelican:
-  notify:       commits@openoffice.apache.org
-  autobuild:    preview/*
-  target:       asf-site
-  theme:        theme/openoffice
+  notify: commits@openoffice.apache.org
+  autobuild: preview/*
+  target: asf-site
+  theme: theme/openoffice
   minimum_page_count: 10
-  whoami:       main
+  whoami: main
 
 staging:
-  profile: ~
+  profile:
   whoami: asf-site
   autostage: preview/*
 
 publish:
-  whoami:       asf-site
+  whoami: asf-site
