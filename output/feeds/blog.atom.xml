@@ -1,5 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice - blog</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/blog.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2025-11-10T20:00:00+00:00</updated><subtitle></subtitle><entry><title>Announcing Apache OpenOffice 4.1.16</title><link href="https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html" rel="alternate"></link><published>2025-11-10T20:00:00+00:00</published><updated>2025-11-10T20:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2025-11-10:/blog/announcing-apache-openoffice-4-1-16.html</id><summary type="html">&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice - blog</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/blog.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2026-09-26T20:00:00+00:00</updated><subtitle></subtitle><entry><title>What is going on in Apache OpenOffice development?</title><link href="https://openoffice.apache.org/blog/what-is-going-on-in-Apache-OpenOffice-development.html" rel="alternate"></link><published>2026-09-26T20:00:00+00:00</published><updated>2026-09-26T20:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2026-09-26:/blog/what-is-going-on-in-Apache-OpenOffice-development.html</id><summary type="html">&lt;p&gt;
+&lt;b&gt;A new release is in preparation: Apache OpenOffice 4.1.17&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  We are preparing Apache OpenOffice 4.1.17, a maintenance release carrying important fixes backported from current development. The release branch 4.1.x remains the version we recommend to our users today.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;What comes after that?&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  The work …&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+&lt;b&gt;A new release is in preparation: Apache OpenOffice 4.1.17&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  We are preparing Apache OpenOffice 4.1.17, a maintenance release carrying important fixes backported from current development. The release branch 4.1.x remains the version we recommend to our users today.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;What comes after that?&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  The work that has landed in the development branch are no longer the kind of changes that fit into a point release. We are changing the platforms we build for, the compilers we build with, and part of the runtime we ship. The next logical version would be 4.2.0 but that would undersell our work and &amp;ndash; more importantly &amp;ndash; would mislead our users about what they are installing.
+&lt;/p&gt;
+&lt;p&gt;
+  We have therefore retired the planned 4.2.0 and are heading directing towards Apache OpenOffice 5.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;What will be new?&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;The biggest changes&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for Windows 64-bit. The full suite now builds and runs as a native Windows 64-bit application, rather than the 32-bit binary we have shipped since the beginning.&lt;/li&gt;
+&lt;li&gt;Support for macOS on Apple Silicon. Apache OpenOffice builds and runs as a native macOS arm64 application instead of going through Apple's Rosetta emulation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Still under discussion is the support for Windows 32-bit binaries in general, the Windows 7 platform (please note: Microsoft has already stopped its support for older Windows versions: Windows 7 on January 14th, 2020, Windows 8.1 on January 10th, 2023 and even Windows 10 on October 14th, 2025) and older macOS releases with Intel architecture. No final decision has been already made. We are still looking for solutions that let us keep them but we will not know what is realistic until more of the work has settled. We can say more when the picture becomes clearer. If a particular older system matters to you, please tell us on the development mailing list as this is the place to say so.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Further changes you will see (only some extractions)&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code signing and notarization on macOS, so that the application and the disk image install without the warnings from the Apple Gatekeeper like in recent versions for macOS.&lt;/li&gt;
+&lt;li&gt;Bundled Python will be updated to the newer supported versions (currently 3.11), which put the scripting provider and the macros that rely on it back on a supported interpreter.&lt;/li&gt;
+&lt;li&gt;OpenSSL 3 for TLS, encryption and digital signatures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;More changes behind the scenes (only some extractions)&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for modern compilers. Windows builds now with the use a current Microsoft Visual C++ tool set instead of Visual Studio 2008, and macOS builds with current Xcode and clang. This sounds like normal housekeeping; But actually these are changes that unblock many, many other things on this list.&lt;/li&gt;
+&lt;li&gt;New C++ / UNO bridges for Windows x86-64 and for macOS arm64, including the exception-handling routine each ABI needs. This is the piece that makes the two new platforms possible at all.&lt;/li&gt;
+&lt;li&gt;A long tail of build and dependency work &amp;mdash; static library handling, install-name rewriting, ICU, libxml2/libxslt, NSS and the rest &amp;mdash; the kind of thing nobody notices until it stops everyone from building at all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Since January 2025 that adds up to more than 850 changes from 15 contributors on the branch for version 5.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Furthermore, a short story from our engine room: Apache OpenOffice x AI&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  AI coding agents have been a real help to us, in particular on the build-system and porting work described above. Chasing a linker flag through four layers of makefiles, working out precisely where two ABIs differ, porting a bridge instruction by instruction: this is exactly the work that has historically kept new contributors away from Apache OpenOffice, because it is slow, unrewarding, and depends on a great deal of context that nobody ever wrote down. It turns out agents are good at it, and the people using them here are getting through that work at a pace we have not seen in years. We mention this because it changes the answer to a question we are often asked. If you have wanted to contribute to Apache OpenOffice and were put off by the size of the codebase or the age of the build system, the barrier is now genuinely lower than it was a year ago. Just come and talk to us.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Help wanted&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  Anyone can contribute to Apache OpenOffice. We need developers, but we equally need testers, translators, documentation writers, and people willing to help out on the user forums.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to get involved: https://openoffice.apache.org/get-involved.html&lt;/li&gt;
+&lt;li&gt;Mailing lists: https://openoffice.apache.org/mailing-lists.html&lt;/li&gt;
+&lt;li&gt;Source code: https://github.com/apache/openoffice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+</content><category term="blog"></category></entry><entry><title>Announcing Apache OpenOffice 4.1.16</title><link href="https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html" rel="alternate"></link><published>2025-11-10T20:00:00+00:00</published><updated>2025-11-10T20:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2025-11-10:/blog/announcing-apache-openoffice-4-1-16.html</id><summary type="html">&lt;p&gt;
 &lt;b&gt;Wakefield, DE&lt;/b&gt; - &lt;strong&gt;10&lt;/strong&gt;&lt;strong&gt; November 2025 &lt;/strong&gt; - Apache OpenOffice, a leading Open Source office document productivity suite, announced today Apache OpenOffice 4.1.16, as usual available in 41 languages for Windows, macOS and Linux.
 &lt;/p&gt;
 &lt;p&gt;
