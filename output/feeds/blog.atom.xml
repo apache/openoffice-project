@@ -19,7 +19,7 @@
 &lt;b&gt;What comes after that?&lt;/b&gt;
 &lt;/p&gt;
 &lt;p&gt;
-  The work that has landed in the development branch are no longer the kind of changes that fit into a point release. We are changing the platforms we build for, the compilers we build with, and part of the runtime we ship. The next logical version would be 4.2.0 but that would undersell our work and &amp;ndash; more importantly &amp;ndash; would mislead our users about what they are installing.
+  The work that has landed in the development branch are no longer the kind of changes that fit into a point release. We are changing the platforms we build for, the compilers we build with, and part of the runtime we ship. The next logical version would be 4.2.0 but that would undersell our work and &amp;mdash; more importantly &amp;mdash; would mislead our users about what they are installing.
 &lt;/p&gt;
 &lt;p&gt;
   We have therefore retired the planned 4.2.0 and are heading directing towards Apache OpenOffice 5.
