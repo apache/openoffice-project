@@ -13,7 +13,7 @@ permalink: what-is-going-on-in-Apache-OpenOffice-development
   <b>What comes after that?</b>
 </p>
 <p>
-  The work that has landed in the development branch are no longer the kind of changes that fit into a point release. We are changing the platforms we build for, the compilers we build with, and part of the runtime we ship. The next logical version would be 4.2.0 but that would undersell our work and – more importantly – would mislead our users about what they are installing.
+  The work that has landed in the development branch are no longer the kind of changes that fit into a point release. We are changing the platforms we build for, the compilers we build with, and part of the runtime we ship. The next logical version would be 4.2.0 but that would undersell our work and — more importantly — would mislead our users about what they are installing.
 </p>
 <p>
   We have therefore retired the planned 4.2.0 and are heading directing towards Apache OpenOffice 5.
