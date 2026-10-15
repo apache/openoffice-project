@@ -1,4 +1,4 @@
-Title:     Apache OpenOffice - Project Website
+Title:  Apache OpenOffice - Project Website
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 Apache OpenOffice® is the free and open productivity suite from the [Apache Software Foundation][0].
@@ -15,6 +15,12 @@ A lot of good information can be found on the [Apache OpenOffice user portal][4]
 OpenOffice.org][5].
 
 ## Announcements
+
+*2026-10-14 -- [Apache OpenOffice][1] 4.1.17 is released!*
+
+- [Download Source and SDK](/downloads.html)
+- [Download Binaries](https://www.openoffice.org/download/)
+- [Release Notes](https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.17+Release+Notes)
 
 *2025-11-10 -- [Apache OpenOffice][1] 4.1.16 is released!*
 
