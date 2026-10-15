@@ -1,4 +1,4 @@
-Title:     Apache OpenOffice - Downloads
+Title:  Apache OpenOffice - Downloads
 Notice: http://www.apache.org/licenses/LICENSE-2.0
 
 The Apache OpenOffice source release files are listed below.
@@ -7,7 +7,63 @@ via the global [download page](https://www.openoffice.org/download/).
 
 ## List of the current downloads ##
 
-***Current Version 4.1.16 (released on November 10, 2025)***
+***Current Version 4.1.17 (released on October 14, 2026)***
+
+ * **Source**:
+    * [apache-openoffice-4.1.17-49c05bc6fd-src.zip](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.zip)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.zip.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.zip.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.zip.sha512)]
+    * [apache-openoffice-4.1.17-49c05bc6fd-src.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.gz)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.gz.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.gz.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.gz.sha512)]
+    * [apache-openoffice-4.1.17-49c05bc6fd-src.tar.bz2](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.bz2)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.bz2.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.bz2.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/source/apache-openoffice-4.1.17-49c05bc6fd-src.tar.bz2.sha512)]
+
+ * **Binaries**:
+    * [Downloads](https://www.openoffice.org/download/index.html)
+
+ * **Software Development Kit (SDK)**:
+    * [Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-deb_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-deb_en-US.tar.gz)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-deb_en-US.tar.gz.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-deb_en-US.tar.gz.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-deb_en-US.tar.gz.sha512)]
+    * [Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-rpm_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-rpm_en-US.tar.gz)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-rpm_en-US.tar.gz.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-rpm_en-US.tar.gz.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86-64_install-rpm_en-US.tar.gz.sha512)]
+    * [Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-deb_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-deb_en-US.tar.gz)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-deb_en-US.tar.gz.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-deb_en-US.tar.gz.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-deb_en-US.tar.gz.sha512)]
+    * [Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-rpm_en-US.tar.gz](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-rpm_en-US.tar.gz)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-rpm_en-US.tar.gz.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-rpm_en-US.tar.gz.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Linux_x86_install-rpm_en-US.tar.gz.sha512)]
+    * [Apache_OpenOffice-SDK_4.1.17_MacOS_x86-64_install_en-US.dmg](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_MacOS_x86-64_install_en-US.dmg)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_MacOS_x86-64_install_en-US.dmg.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_MacOS_x86-64_install_en-US.dmg.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_MacOS_x86-64_install_en-US.dmg.sha512)]
+    * [Apache_OpenOffice-SDK_4.1.17_Win_x86_install_en-US.exe](https://www.apache.org/dyn/closer.lua/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Win_x86_install_en-US.exe)
+      [[asc](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Win_x86_install_en-US.exe.asc)]
+      [[sha256](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Win_x86_install_en-US.exe.sha256)]
+      [[sha512](https://downloads.apache.org/openoffice/4.1.17/binaries/SDK/Apache_OpenOffice-SDK_4.1.17_Win_x86_install_en-US.exe.sha512)]
+
+**Note**
+All downloads can be verified using the Apache OpenOffice code signing [KEYS](https://downloads.apache.org/openoffice/KEYS).
+<br>
+When downloading from a mirror please check the [md5 sum](https://www.apache.org/dev/release-signing#md5) or the [sha sum](https://www.apache.org/dev/release-signing#sha-checksum)
+(recommended) and verify the [OpenPGP](https://www.apache.org/dev/release-signing#openpgp) compatible signature from the main
+[Apache site](https://www.apache.org). Links are provided above (next to the release download link).
+This [KEYS](https://downloads.apache.org/openoffice/KEYS) file contains the public keys used for signing releases. It is recommended that
+(when possible) a [web of trust](https://www.apache.org/dev/release-signing#web-of-trust) is used to confirm the identity of these keys. For more information, please see the [Apache Release FAQ](https://www.apache.org/dev/release.html).
+
+## Release Archives ##
+
+***Apache OpenOffice 4.1.16 (released on November 10, 2025)***
 
  * **Source**:
     * [apache-openoffice-4.1.16-277251aa7e-src.zip](https://www.apache.org/dyn/closer.lua/openoffice/4.1.16/source/apache-openoffice-4.1.16-277251aa7e-src.zip)
@@ -51,16 +107,6 @@ via the global [download page](https://www.openoffice.org/download/).
       [[asc](https://downloads.apache.org/openoffice/4.1.16/binaries/SDK/Apache_OpenOffice-SDK_4.1.16_Win_x86_install_en-US.exe.asc)]
       [[sha256](https://downloads.apache.org/openoffice/4.1.16/binaries/SDK/Apache_OpenOffice-SDK_4.1.16_Win_x86_install_en-US.exe.sha256)]
       [[sha512](https://downloads.apache.org/openoffice/4.1.16/binaries/SDK/Apache_OpenOffice-SDK_4.1.16_Win_x86_install_en-US.exe.sha512)]
-
-**Note**
-All downloads can be verified using the Apache OpenOffice code signing [KEYS](https://downloads.apache.org/openoffice/KEYS).<br>
-When downloading from a mirror please check the [md5 sum](https://www.apache.org/dev/release-signing#md5) or the [sha sum](https://www.apache.org/dev/release-signing#sha-checksum)
-(recommended) and verify the [OpenPGP](https://www.apache.org/dev/release-signing#openpgp) compatible signature from the main
-[Apache site](https://www.apache.org). Links are provided above (next to the release download link).
-This [KEYS](https://downloads.apache.org/openoffice/KEYS) file contains the public keys used for signing releases. It is recommended that
-(when possible) a [web of trust](https://www.apache.org/dev/release-signing#web-of-trust) is used to confirm the identity of these keys. For more information, please see the [Apache Release FAQ](https://www.apache.org/dev/release.html).
-
-## Release Archives ##
 
 ***Apache OpenOffice 4.1.15 (released on December 22, 2023)***
 
