@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice - blog</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/blog.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2026-09-26T20:00:00+00:00</updated><subtitle></subtitle><entry><title>What is going on in Apache OpenOffice development?</title><link href="https://openoffice.apache.org/blog/what-is-going-on-in-Apache-OpenOffice-development.html" rel="alternate"></link><published>2026-09-26T20:00:00+00:00</published><updated>2026-09-26T20:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2026-09-26:/blog/what-is-going-on-in-Apache-OpenOffice-development.html</id><summary type="html">&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Apache OpenOffice - blog</title><link href="https://openoffice.apache.org/" rel="alternate"></link><link href="https://openoffice.apache.org/feeds/blog.atom.xml" rel="self"></link><id>https://openoffice.apache.org/</id><updated>2026-10-14T20:00:00+00:00</updated><subtitle></subtitle><entry><title>Announcing Apache OpenOffice 4.1.17</title><link href="https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-17.html" rel="alternate"></link><published>2026-10-14T20:00:00+00:00</published><updated>2026-10-14T20:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2026-10-14:/blog/announcing-apache-openoffice-4-1-17.html</id><summary type="html">&lt;p&gt;
+&lt;b&gt;Wakefield, DE&lt;/b&gt; - &lt;strong&gt;14&lt;/strong&gt;&lt;strong&gt; October 2026 &lt;/strong&gt; - Apache OpenOffice, a leading Open Source office document productivity suite, announced today Apache OpenOffice 4.1.17, as usual available in 41 languages for Windows, macOS and Linux.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a class="external-link" href="https://www.openoffice.org/" rel="nofollow" target="_blank"&gt;Apache OpenOffice&lt;/a&gt; 4.1.17 is a security release incorporating bug fixes and other enhancements. This release …&lt;/p&gt;</summary><content type="html">&lt;p&gt;
+&lt;b&gt;Wakefield, DE&lt;/b&gt; - &lt;strong&gt;14&lt;/strong&gt;&lt;strong&gt; October 2026 &lt;/strong&gt; - Apache OpenOffice, a leading Open Source office document productivity suite, announced today Apache OpenOffice 4.1.17, as usual available in 41 languages for Windows, macOS and Linux.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a class="external-link" href="https://www.openoffice.org/" rel="nofollow" target="_blank"&gt;Apache OpenOffice&lt;/a&gt; 4.1.17 is a security release incorporating bug fixes and other enhancements. This release also includes the latest dictionaries. All users of Apache OpenOffice 4.1.16 or earlier are advised to upgrade. You can download Apache OpenOffice 4.1.17 &lt;a class="external-link" href="https://www.openoffice.org/download/" rel="nofollow" target="_blank"&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  To check that the download file is not broken or changed in any other way, please see our &lt;a class="external-link" href="https://www.openoffice.org/download/checksums.html" rel="nofollow" target="_blank"&gt;checksums page&lt;/a&gt; for instructions on how to verify this.
+&lt;/p&gt;
+&lt;p&gt;
+  If you are upgrading from an earlier release you can verify that the release upgrade worked by opening the About box (menu "Help - About OpenOffice") for the version number.
+&lt;/p&gt;
+&lt;p&gt;
+  Please review the &lt;a href="https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.17+Release+Notes" rel="nofollow" target="_blank"&gt;Release Notes&lt;/a&gt; to learn what is new in this version as well as important remarks concerning known issues and their workarounds.
+&lt;/p&gt;
+&lt;p&gt;
+  For a complete overview of all resolved issues please see the list in the release notes.
+&lt;/p&gt;
+&lt;p&gt;
+  To get a copy of the source code see our &lt;a class="external-link" href="https://openoffice.apache.org/source.html" rel="nofollow"&gt;source page&lt;/a&gt; for our Git repository or download prepared source tarballs from our &lt;a class="external-link" href="https://openoffice.apache.org/downloads.html" rel="nofollow" target="_blank"&gt;project download page&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  You are encouraged to subscribe to the Apache OpenOffice announcement mailing list to receive important notifications such as product updates and security patches. To subscribe you can send an email to: announce-subscribe-AT-openoffice.apache-DOT-org.
+&lt;/p&gt;
+&lt;p&gt;Follow Apache OpenOffice:
+&lt;/p&gt;
+&lt;p&gt;
+  Twitter&amp;nbsp;&amp;nbsp; &lt;a href="https://twitter.com/apacheoo" target="_blank" title="Apache OpenOffice @Twitter"&gt;https://twitter.com/apacheoo&lt;/a&gt;&lt;br/&gt;Facebook&amp;nbsp;&amp;nbsp; &lt;a href="https://www.facebook.com/ApacheOO" target="_blank" title="Apache OpenOffice @ Facebook"&gt;https://www.facebook.com/ApacheOO&lt;/a&gt;&lt;br/&gt;YouTube&amp;nbsp;&amp;nbsp; &lt;a href="https://www.youtube.com/openoffice" target="_blank" title="Apache OpenOffice @ YouTube"&gt;https://www.youtube.com/openoffice&lt;/a&gt;&lt;br/&gt;Mail&amp;nbsp;&amp;nbsp; &lt;a href="https://openoffice.apache.org/mailing-lists.html" target="_blank" title="Mail"&gt;https://openoffice.apache.org/mailing-lists.html&lt;/a&gt;
+&lt;/p&gt;
+</content><category term="blog"></category></entry><entry><title>What is going on in Apache OpenOffice development?</title><link href="https://openoffice.apache.org/blog/what-is-going-on-in-Apache-OpenOffice-development.html" rel="alternate"></link><published>2026-09-26T20:00:00+00:00</published><updated>2026-09-26T20:00:00+00:00</updated><author><name></name></author><id>tag:openoffice.apache.org,2026-09-26:/blog/what-is-going-on-in-Apache-OpenOffice-development.html</id><summary type="html">&lt;p&gt;
 &lt;b&gt;A new release is in preparation: Apache OpenOffice 4.1.17&lt;/b&gt;
 &lt;/p&gt;
 &lt;p&gt;
